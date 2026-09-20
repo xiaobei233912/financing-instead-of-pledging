@@ -1,0 +1,745 @@
+[
+  {
+    "date": "2001-03-16",
+    "kind": "planned_collateral",
+    "amount": 22222.222222222223,
+    "cash_part": 22222.222222222223,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2001-03-19",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 3.2554913316962484
+  },
+  {
+    "date": "2001-03-19",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2001-03-27",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2001-09-10",
+    "kind": "collateral_in",
+    "amount": 2949.4194524469567
+  },
+  {
+    "date": "2001-09-10",
+    "kind": "renewal_topup",
+    "amount": 2949.4194524469567
+  },
+  {
+    "date": "2001-09-17",
+    "kind": "collateral_in",
+    "amount": 1093.4514788955494
+  },
+  {
+    "date": "2001-09-17",
+    "kind": "renewal_topup",
+    "amount": 1093.4514788955494
+  },
+  {
+    "date": "2001-09-19",
+    "kind": "collateral_in",
+    "amount": 297.82391821672354
+  },
+  {
+    "date": "2001-09-19",
+    "kind": "renewal_topup",
+    "amount": 297.82391821672354
+  },
+  {
+    "date": "2002-03-22",
+    "kind": "planned_collateral",
+    "amount": 20448.905911906444,
+    "cash_part": 20448.905911906444,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2002-03-25",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2002-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2003-03-24",
+    "kind": "planned_collateral",
+    "amount": 5284.744652602312,
+    "cash_part": 5284.744652602312,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2003-03-25",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2003-04-02",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2004-03-22",
+    "kind": "collateral_out",
+    "amount": 6434.116783106845
+  },
+  {
+    "date": "2004-03-23",
+    "kind": "planned_collateral",
+    "amount": 1620.1150322583028,
+    "cash_part": 1620.1150322583028,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2004-03-24",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2004-04-01",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2005-03-22",
+    "kind": "collateral_out",
+    "amount": 2113.7094225151523
+  },
+  {
+    "date": "2005-03-23",
+    "kind": "planned_collateral",
+    "amount": 745.7295419692512,
+    "cash_part": 745.7295419692512,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2005-03-24",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 168.60154261047137
+  },
+  {
+    "date": "2005-03-24",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2005-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2006-03-23",
+    "kind": "planned_collateral",
+    "amount": 19365.441899838435,
+    "cash_part": 19365.441899838435,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2006-03-24",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 1685.1753883313795
+  },
+  {
+    "date": "2006-03-24",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2006-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2006-09-11",
+    "kind": "collateral_in",
+    "amount": 2198.867068768275
+  },
+  {
+    "date": "2006-09-11",
+    "kind": "renewal_topup",
+    "amount": 2198.867068768275
+  },
+  {
+    "date": "2007-03-26",
+    "kind": "planned_collateral",
+    "amount": 19018.137690710704,
+    "cash_part": 19018.137690710704,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2007-03-27",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 3731.1646351253657
+  },
+  {
+    "date": "2007-03-27",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2007-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2008-03-10",
+    "kind": "collateral_in",
+    "amount": 830.7073991719517
+  },
+  {
+    "date": "2008-03-10",
+    "kind": "renewal_topup",
+    "amount": 830.7073991719517
+  },
+  {
+    "date": "2008-03-11",
+    "kind": "collateral_in",
+    "amount": 305.60790365192224
+  },
+  {
+    "date": "2008-03-11",
+    "kind": "renewal_topup",
+    "amount": 305.60790365192224
+  },
+  {
+    "date": "2008-03-17",
+    "kind": "collateral_in",
+    "amount": 1177.3850030279427
+  },
+  {
+    "date": "2008-03-17",
+    "kind": "renewal_topup",
+    "amount": 1177.3850030279427
+  },
+  {
+    "date": "2008-03-26",
+    "kind": "planned_collateral",
+    "amount": 20710.655517952575,
+    "cash_part": 20710.655517952575,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2008-03-27",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2008-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2009-03-09",
+    "kind": "collateral_in",
+    "amount": 11521.888207623706
+  },
+  {
+    "date": "2009-03-09",
+    "kind": "renewal_topup",
+    "amount": 11521.888207623706
+  },
+  {
+    "date": "2009-03-25",
+    "kind": "planned_collateral",
+    "amount": 11357.783965187991,
+    "cash_part": 11357.783965187991,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2009-03-26",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 506.41324225215067
+  },
+  {
+    "date": "2009-03-26",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2009-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2010-03-25",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2010-03-26",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 18409.090041920877
+  },
+  {
+    "date": "2010-03-26",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2010-04-06",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2011-03-24",
+    "kind": "planned_collateral",
+    "amount": 7458.930786071869,
+    "cash_part": 7458.930786071869,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2011-03-25",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 24364.21900625051
+  },
+  {
+    "date": "2011-03-25",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2011-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2012-03-23",
+    "kind": "planned_collateral",
+    "amount": 8884.423572117405,
+    "cash_part": 8884.423572117405,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2012-03-26",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 38254.35478476432
+  },
+  {
+    "date": "2012-03-26",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2012-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2013-03-27",
+    "kind": "planned_collateral",
+    "amount": 22319.516595527297,
+    "cash_part": 22319.516595527297,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2013-03-28",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 43006.51491968898
+  },
+  {
+    "date": "2013-03-28",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2013-04-08",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2014-03-27",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2014-03-28",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 78504.204170275
+  },
+  {
+    "date": "2014-03-28",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2014-04-07",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2015-03-27",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2015-03-30",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 118934.9517129956
+  },
+  {
+    "date": "2015-03-30",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2015-04-08",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2016-03-29",
+    "kind": "planned_collateral",
+    "amount": 6755.480783952749,
+    "cash_part": 6755.480783952749,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2016-03-30",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 117163.73401935943
+  },
+  {
+    "date": "2016-03-30",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2016-04-07",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2017-03-28",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2017-03-29",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 175114.06996656331
+  },
+  {
+    "date": "2017-03-29",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2017-04-06",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2018-03-27",
+    "kind": "collateral_out",
+    "amount": 127342.90693896334
+  },
+  {
+    "date": "2018-03-28",
+    "kind": "planned_collateral",
+    "amount": 76097.87589613174,
+    "cash_part": 76097.87589613174,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2018-03-29",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 204541.775481917
+  },
+  {
+    "date": "2018-03-29",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2018-04-09",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2019-03-28",
+    "kind": "collateral_out",
+    "amount": 92085.63114208239
+  },
+  {
+    "date": "2019-03-29",
+    "kind": "planned_collateral",
+    "amount": 73902.44925102161,
+    "cash_part": 73902.44925102161,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2019-04-01",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 255427.07929684466
+  },
+  {
+    "date": "2019-04-01",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2019-04-09",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2020-03-27",
+    "kind": "collateral_out",
+    "amount": 66601.59460572433
+  },
+  {
+    "date": "2020-03-30",
+    "kind": "planned_collateral",
+    "amount": 78818.4719138617,
+    "cash_part": 78818.4719138617,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2020-03-31",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 285775.33293165936
+  },
+  {
+    "date": "2020-03-31",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2020-04-08",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2021-03-29",
+    "kind": "collateral_out",
+    "amount": 173600.53429176414
+  },
+  {
+    "date": "2021-03-30",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2021-03-31",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 594980.3684100362
+  },
+  {
+    "date": "2021-03-31",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2021-04-09",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2021-04-09",
+    "kind": "credit_sale_repay",
+    "amount": 33334.32766271569
+  },
+  {
+    "date": "2021-04-09",
+    "kind": "loan_rebalance",
+    "amount": 33334.32766271569,
+    "asset": "c",
+    "margin_after": 640858.7769842385
+  },
+  {
+    "date": "2022-03-29",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2022-04-07",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2022-04-07",
+    "kind": "credit_sale_repay",
+    "amount": 36720.81948152976
+  },
+  {
+    "date": "2022-04-07",
+    "kind": "loan_rebalance",
+    "amount": 36720.81948152976,
+    "asset": "c",
+    "margin_after": 684196.849579342
+  },
+  {
+    "date": "2023-03-30",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2023-04-11",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2024-04-02",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2024-04-03",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 1001158.4767471484
+  },
+  {
+    "date": "2024-04-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2024-04-11",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2024-04-11",
+    "kind": "credit_sale_repay",
+    "amount": 152867.2541701434
+  },
+  {
+    "date": "2024-04-11",
+    "kind": "loan_rebalance",
+    "amount": 152867.2541701434,
+    "asset": "c",
+    "margin_after": 975269.1041782022
+  },
+  {
+    "date": "2025-04-02",
+    "kind": "collateral_out",
+    "amount": 1238041.2822996671
+  },
+  {
+    "date": "2025-04-03",
+    "kind": "planned_collateral",
+    "amount": 40577.8162038693,
+    "cash_part": 40577.8162038693,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2025-04-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2025-04-14",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2026-04-06",
+    "kind": "collateral_out",
+    "amount": 68265.47047079851
+  },
+  {
+    "date": "2026-04-07",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2026-04-08",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 425451.8364178097
+  },
+  {
+    "date": "2026-04-08",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2026-04-16",
+    "kind": "living_payment",
+    "amount": 20000.0
+  }
+]

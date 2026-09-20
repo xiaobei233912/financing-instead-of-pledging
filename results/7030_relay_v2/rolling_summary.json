@@ -1,0 +1,22 @@
+[
+  {
+    "branch": "cash_trigger_30",
+    "years": 10,
+    "n": 71,
+    "failures": 0,
+    "min_net": 461431.34113592876,
+    "min_mmr": 1.4663687373907004,
+    "min_cash_years": 10.602764717647728,
+    "failed": []
+  },
+  {
+    "branch": "cash_trigger_30",
+    "years": 20,
+    "n": 31,
+    "failures": 0,
+    "min_net": 1364343.2914341814,
+    "min_mmr": 1.4663687373907004,
+    "min_cash_years": 9.522130842485502,
+    "failed": []
+  }
+]

@@ -1,0 +1,955 @@
+[
+  {
+    "original": "reports\\7030与8020现金接力_现金类担保品对比.md",
+    "destination": "Archive\\reports\\7030与8020现金接力_现金类担保品对比.md",
+    "reason": "被当前规则报告或最终文章替代的历史报告",
+    "sha256_before": "0cac09594f1f487a6b1b1aab4a9d2cecc304ec07000bc2c5f620e013ec0daf74",
+    "sha256_after": "9cd84ccf37560d7979b7157ca83460d7c75509c140603f44c62994699601e823",
+    "link_only_edit": true
+  },
+  {
+    "original": "reports\\7030比例再平衡_风险与优化研究.md",
+    "destination": "Archive\\reports\\7030比例再平衡_风险与优化研究.md",
+    "reason": "被当前规则报告或最终文章替代的历史报告",
+    "sha256_before": "042e340603e47d49ada5c5a16088d68169e5d1b189ae27b63c42d0e291827f14",
+    "sha256_after": "6f119894c10557d026a21325b1f25d338fe00df68d37d5a655c75098833de87a",
+    "link_only_edit": true
+  },
+  {
+    "original": "reports\\7030现金接力_年度3%提取风险测试.md",
+    "destination": "Archive\\reports\\7030现金接力_年度3%提取风险测试.md",
+    "reason": "被当前规则报告或最终文章替代的历史报告",
+    "sha256_before": "55a9fefb2ceed59c54af86e764c8d9fd483a9aff98dfd2af9f94935314fa20d9",
+    "sha256_after": "8c5856ccb85013a6f7e3f8cccf3eb8e6b0f27353578cd6dd5ae61ed7310830ed",
+    "link_only_edit": true
+  },
+  {
+    "original": "reports\\7030现金接力_智能与比例再平衡对比.html",
+    "destination": "Archive\\reports\\7030现金接力_智能与比例再平衡对比.html",
+    "reason": "被当前规则报告或最终文章替代的历史报告",
+    "sha256_before": "cdf28e913a422fed8da3b863e1a2a0d8f97dfbd5a3c13d0bc2d3a99f0d8ee037",
+    "sha256_after": "a1f532ef8fe560c0a3db0d114c11755267036a0aa288e784cd0f4d62da9b120f",
+    "link_only_edit": true
+  },
+  {
+    "original": "reports\\7030现金接力_智能与比例再平衡对比.md",
+    "destination": "Archive\\reports\\7030现金接力_智能与比例再平衡对比.md",
+    "reason": "被当前规则报告或最终文章替代的历史报告",
+    "sha256_before": "e553758d99a3b2a2d85c654146b3c0bdfce5d33e32b80a4f83b270b5bcd08c82",
+    "sha256_after": "f4cd9cde246dcb0a376d1530fcf829d69bdc882620623b5499c31fba5d160bb2",
+    "link_only_edit": true
+  },
+  {
+    "original": "reports\\7030现金接力策略回测报告.md",
+    "destination": "Archive\\reports\\7030现金接力策略回测报告.md",
+    "reason": "被当前规则报告或最终文章替代的历史报告",
+    "sha256_before": "c6f40c5fc0eea77d96bec440c039ead6e35f412fad9783c20f6ddab1f2b2061b",
+    "sha256_after": "c6f40c5fc0eea77d96bec440c039ead6e35f412fad9783c20f6ddab1f2b2061b",
+    "link_only_edit": false
+  },
+  {
+    "original": "reports\\7030现金接力策略回测报告_v2.md",
+    "destination": "Archive\\reports\\7030现金接力策略回测报告_v2.md",
+    "reason": "被当前规则报告或最终文章替代的历史报告",
+    "sha256_before": "50f4107bf02f4e8ea24855b76148c438044c63b989ad503f62db74714512257b",
+    "sha256_after": "50f4107bf02f4e8ea24855b76148c438044c63b989ad503f62db74714512257b",
+    "link_only_edit": false
+  },
+  {
+    "original": "reports\\现金接力_2009低点起投对比.md",
+    "destination": "Archive\\reports\\现金接力_2009低点起投对比.md",
+    "reason": "被当前规则报告或最终文章替代的历史报告",
+    "sha256_before": "924ababf91ab22a9633c5eb66501341f5f3c110f5cd36365f485757d0966a469",
+    "sha256_after": "bb32232021472ff824ac2ead0241b99e41401f45d3145039e8d70787186b46f8",
+    "link_only_edit": true
+  },
+  {
+    "original": "reports\\现金接力策略_文章续写.md",
+    "destination": "Archive\\reports\\现金接力策略_文章续写.md",
+    "reason": "被当前规则报告或最终文章替代的历史报告",
+    "sha256_before": "3d2edee9f37945b9364f1ab5485899616d22d123f26cf8b1e760446d4fdda497",
+    "sha256_after": "4a6aec4080c638fbae61ec0b27918a2231a3b110c518dcf71f7eaf177b17b999",
+    "link_only_edit": true
+  },
+  {
+    "original": "reports\\现金接力策略_阶段性研究报告.md",
+    "destination": "Archive\\reports\\现金接力策略_阶段性研究报告.md",
+    "reason": "被当前规则报告或最终文章替代的历史报告",
+    "sha256_before": "5489696edfb493d516edf87880d856f67e29efa5fbf843729811e07e2402b4af",
+    "sha256_after": "6291d31f3781514191dee12844a070a674135b6c7d6ccf0649cbbfed33c25a72",
+    "link_only_edit": true
+  },
+  {
+    "original": "reports\\研究报告_大陆融资模拟PAL_第一阶段_doubao.md",
+    "destination": "Archive\\reports\\研究报告_大陆融资模拟PAL_第一阶段_doubao.md",
+    "reason": "被当前规则报告或最终文章替代的历史报告",
+    "sha256_before": "6036e7e78409f04b335780453d4d807cd3a122454305862b6da7c79129fcd7b6",
+    "sha256_after": "6036e7e78409f04b335780453d4d807cd3a122454305862b6da7c79129fcd7b6",
+    "link_only_edit": false
+  },
+  {
+    "original": "reports\\第一阶段研究报告.md",
+    "destination": "Archive\\reports\\第一阶段研究报告.md",
+    "reason": "被当前规则报告或最终文章替代的历史报告",
+    "sha256_before": "ebcbfc7b1446a4f5e88ab4783f2c2a851e8bbbfa0cad027074c0b0fa3ffa55c4",
+    "sha256_after": "402277853c8d8a052da3ad26eb0d762552f517213cfbef96918d0bb922677389",
+    "link_only_edit": true
+  },
+  {
+    "original": "docs\\MODEL.md",
+    "destination": "Archive\\docs\\MODEL.md",
+    "reason": "旧模型或研究任务及PPT文案",
+    "sha256_before": "da791808bf21c44314db3225b4b4fa20e3fce47d96f75ff6530fffe581d605ca",
+    "sha256_after": "da791808bf21c44314db3225b4b4fa20e3fce47d96f75ff6530fffe581d605ca",
+    "link_only_edit": false
+  },
+  {
+    "original": "docs\\RESEARCH_PROTOCOL.md",
+    "destination": "Archive\\docs\\RESEARCH_PROTOCOL.md",
+    "reason": "旧模型或研究任务及PPT文案",
+    "sha256_before": "e9da3f11edbbf8c947f0be51550053bdf17de6db3843c4f54688fee4a89d7bb1",
+    "sha256_after": "e9da3f11edbbf8c947f0be51550053bdf17de6db3843c4f54688fee4a89d7bb1",
+    "link_only_edit": false
+  },
+  {
+    "original": "docs\\大陆券商融资模拟PAL策略研究与回测任务.md",
+    "destination": "Archive\\docs\\大陆券商融资模拟PAL策略研究与回测任务.md",
+    "reason": "旧模型或研究任务及PPT文案",
+    "sha256_before": "2d7b086f91e5410a2dddaea7a4e3348b98138234d0cf22f20b9a5f30907e075a",
+    "sha256_after": "2d7b086f91e5410a2dddaea7a4e3348b98138234d0cf22f20b9a5f30907e075a",
+    "link_only_edit": false
+  },
+  {
+    "original": "docs\\大陆模拟CLEC买借死_PPT大纲与页面文案_v1.md",
+    "destination": "Archive\\docs\\大陆模拟CLEC买借死_PPT大纲与页面文案_v1.md",
+    "reason": "旧模型或研究任务及PPT文案",
+    "sha256_before": "29cb8f37d2744f6e95ee9965d8a91899d3a3b908f6e27b7fa2a8cd438862faed",
+    "sha256_after": "f7d41e3ed10cea0ed1246f1d20e397f1f7ce8919cd0be459f9a03fc0122734cb",
+    "link_only_edit": true
+  },
+  {
+    "original": "docs\\大陆模拟CLEC买借死_PPT大纲与页面文案_v2.md",
+    "destination": "Archive\\docs\\大陆模拟CLEC买借死_PPT大纲与页面文案_v2.md",
+    "reason": "旧模型或研究任务及PPT文案",
+    "sha256_before": "5f4c6be84e36bfa2bc40bfc82a8fa2a7bcab4bf0804c257043a6be3691c9da52",
+    "sha256_after": "5f4c6be84e36bfa2bc40bfc82a8fa2a7bcab4bf0804c257043a6be3691c9da52",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\audit_original.py",
+    "destination": "Archive\\doubao_audit\\audit_original.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "bb55280a4cff514555862296ff8942e7c32f68bcfef891f946dddcf12ba8450c",
+    "sha256_after": "bb55280a4cff514555862296ff8942e7c32f68bcfef891f946dddcf12ba8450c",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\build_audit_report.py",
+    "destination": "Archive\\doubao_audit\\build_audit_report.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "d686f00bd7099aab5f982f8b3a022a5b4c5c40faa299cc16776e44aeca00ffbe",
+    "sha256_after": "d686f00bd7099aab5f982f8b3a022a5b4c5c40faa299cc16776e44aeca00ffbe",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\corrected_variants.py",
+    "destination": "Archive\\doubao_audit\\corrected_variants.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "2b0f836062eb0e31c4e25b836f020202d1910e072b1804ec56e7c16271ce99e2",
+    "sha256_after": "2b0f836062eb0e31c4e25b836f020202d1910e072b1804ec56e7c16271ce99e2",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\gated_engine.py",
+    "destination": "Archive\\doubao_audit\\gated_engine.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "83313b79b082dda50793b24f073c5672d853faff640acf9141875060aa6d134a",
+    "sha256_after": "83313b79b082dda50793b24f073c5672d853faff640acf9141875060aa6d134a",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\ideal_benchmark.py",
+    "destination": "Archive\\doubao_audit\\ideal_benchmark.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "ecbff1e5f7be50fef4984a9ea5e2ee5e031b575543657b7a06bf8245627a9ee4",
+    "sha256_after": "ecbff1e5f7be50fef4984a9ea5e2ee5e031b575543657b7a06bf8245627a9ee4",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\inspect_paths.py",
+    "destination": "Archive\\doubao_audit\\inspect_paths.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "bc90029b7071e129b69cfd94f75945ad8fff26dbcf2fbbc25ebcf0ac44e7f0cc",
+    "sha256_after": "bc90029b7071e129b69cfd94f75945ad8fff26dbcf2fbbc25ebcf0ac44e7f0cc",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\README.md",
+    "destination": "Archive\\doubao_audit\\README.md",
+    "reason": "历史外部审计副本",
+    "sha256_before": "d4330ce7020c3fb787c85c75af1ca2cb0c8f9681fd01d7afb58c723482eee6a1",
+    "sha256_after": "76097dd1d9bcbc2ab33762770b9d9abe9eedbf65c0ffd58edcbc0c6f82cbe5a0",
+    "link_only_edit": true
+  },
+  {
+    "original": "doubao_audit\\run_validation.py",
+    "destination": "Archive\\doubao_audit\\run_validation.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "bd8dd2eccd896adc598463876faee1dd23344b981c1d4519cf87b622f5902abe",
+    "sha256_after": "bd8dd2eccd896adc598463876faee1dd23344b981c1d4519cf87b622f5902abe",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\test_gated.py",
+    "destination": "Archive\\doubao_audit\\test_gated.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "fb3bdaf0a864806248f33df591513ad00e986c187ff92adc455d09ad8f5f2650",
+    "sha256_after": "fb3bdaf0a864806248f33df591513ad00e986c187ff92adc455d09ad8f5f2650",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\verify_audit.py",
+    "destination": "Archive\\doubao_audit\\verify_audit.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "9025a7cf1c70db522f5494e2d31ec448d24218296fe45ff8b9e1bf4526f14056",
+    "sha256_after": "9025a7cf1c70db522f5494e2d31ec448d24218296fe45ff8b9e1bf4526f14056",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\审核验证报告.md",
+    "destination": "Archive\\doubao_audit\\审核验证报告.md",
+    "reason": "历史外部审计副本",
+    "sha256_before": "48914a67f173752c542ed9449877db06e8bee9b7f8194495a13b22d6dc7c17bd",
+    "sha256_after": "152ecc31a85c3b1bd41079d6945339bf2985c8cb5ed4ad1cf3b303cbaa1970bb",
+    "link_only_edit": true
+  },
+  {
+    "original": "doubao_audit\\output\\correction_ladder.json",
+    "destination": "Archive\\doubao_audit\\output\\correction_ladder.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "3b73b7249f9aeac66d2829826a5ff7c0df6a7cd05c89b01717ea45474f9dd5db",
+    "sha256_after": "3b73b7249f9aeac66d2829826a5ff7c0df6a7cd05c89b01717ea45474f9dd5db",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\D_hang_rebalance_observations.json",
+    "destination": "Archive\\doubao_audit\\output\\D_hang_rebalance_observations.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "bfe0d59a99313fb60dc7fcbad7ce66ce2ffbe26ae3a588ed10844418abc1c382",
+    "sha256_after": "bfe0d59a99313fb60dc7fcbad7ce66ce2ffbe26ae3a588ed10844418abc1c382",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\D_hold_rebalance_observations.json",
+    "destination": "Archive\\doubao_audit\\output\\D_hold_rebalance_observations.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "a2aa354168af40f0f498a643cc618e9f19e58ff2e5870a2a88b666c6fd439d27",
+    "sha256_after": "a2aa354168af40f0f498a643cc618e9f19e58ff2e5870a2a88b666c6fd439d27",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\ideal_benchmark.json",
+    "destination": "Archive\\doubao_audit\\output\\ideal_benchmark.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "dcc4f9a515e8020980141f05ad462efc9d63fa42a80908c3eefc113aa76b3751",
+    "sha256_after": "dcc4f9a515e8020980141f05ad462efc9d63fa42a80908c3eefc113aa76b3751",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\instrumented_original.py",
+    "destination": "Archive\\doubao_audit\\output\\instrumented_original.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "1d4ab6f2fb64317d27a5cefd09f8451822efeec343278918eb05f6d09085a58d",
+    "sha256_after": "1d4ab6f2fb64317d27a5cefd09f8451822efeec343278918eb05f6d09085a58d",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\original_audit.json",
+    "destination": "Archive\\doubao_audit\\output\\original_audit.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "32491703e86685ee1cbba7e5fad8685dcb9fc7551d4c9a82086d761aecf4e0ce",
+    "sha256_after": "32491703e86685ee1cbba7e5fad8685dcb9fc7551d4c9a82086d761aecf4e0ce",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\original_A_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\original_A_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "46273ea9dd51f330b6db5543579598f314d0b561cd3b5e90858128e1735ad33c",
+    "sha256_after": "46273ea9dd51f330b6db5543579598f314d0b561cd3b5e90858128e1735ad33c",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\original_A_events.json",
+    "destination": "Archive\\doubao_audit\\output\\original_A_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "6557914ef0be2282680ca5619acab8e93853b5396673fea17658e52d5c96d957",
+    "sha256_after": "6557914ef0be2282680ca5619acab8e93853b5396673fea17658e52d5c96d957",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\original_B_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\original_B_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "4f3ae98b6474a8770fa01e4d525431815fad2c0132cb9b9dd28c82021293d1a6",
+    "sha256_after": "4f3ae98b6474a8770fa01e4d525431815fad2c0132cb9b9dd28c82021293d1a6",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\original_B_events.json",
+    "destination": "Archive\\doubao_audit\\output\\original_B_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "797bd57c0dc0933e46caad3ae1f5421312ab77524ae806c42392c1e09cf9ff96",
+    "sha256_after": "797bd57c0dc0933e46caad3ae1f5421312ab77524ae806c42392c1e09cf9ff96",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\original_C0_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\original_C0_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "6f071d7fb2d6441a0492cc10baea91c57096e81bd4c47b7735f2ce86f980ad43",
+    "sha256_after": "6f071d7fb2d6441a0492cc10baea91c57096e81bd4c47b7735f2ce86f980ad43",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\original_C0_events.json",
+    "destination": "Archive\\doubao_audit\\output\\original_C0_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "2265f15d107d191323e8aa6d14347171962722663bc09ec2d2a2497c0a033c8f",
+    "sha256_after": "2265f15d107d191323e8aa6d14347171962722663bc09ec2d2a2497c0a033c8f",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\original_C1_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\original_C1_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "9b506845b908299487baa4edc50ac070e04d815932fe9e44f9114a9887fd2248",
+    "sha256_after": "9b506845b908299487baa4edc50ac070e04d815932fe9e44f9114a9887fd2248",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\original_C1_events.json",
+    "destination": "Archive\\doubao_audit\\output\\original_C1_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "2e549404bf6c0e1f0d83885c92535366dbe3ee6676bb0c48743f7bd3fc7d52fe",
+    "sha256_after": "2e549404bf6c0e1f0d83885c92535366dbe3ee6676bb0c48743f7bd3fc7d52fe",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\original_C2_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\original_C2_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "ccf0c4f58ae049e48375350856fddf8ff56404ca56a9c68e7081ce7fd4889fb8",
+    "sha256_after": "ccf0c4f58ae049e48375350856fddf8ff56404ca56a9c68e7081ce7fd4889fb8",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\original_C2_events.json",
+    "destination": "Archive\\doubao_audit\\output\\original_C2_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "e6751f36c8738207fd5de8363e7a9dbad0dc6043dc3b6de2707ef1de1f6befd1",
+    "sha256_after": "e6751f36c8738207fd5de8363e7a9dbad0dc6043dc3b6de2707ef1de1f6befd1",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\path_inspection.json",
+    "destination": "Archive\\doubao_audit\\output\\path_inspection.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "509e4ccba390b5c1234d1babb1ae8ddaa0a31623bf1601d68e3b91427232ea50",
+    "sha256_after": "509e4ccba390b5c1234d1babb1ae8ddaa0a31623bf1601d68e3b91427232ea50",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\provenance.json",
+    "destination": "Archive\\doubao_audit\\output\\provenance.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "b4f20f19e787241df1681b2590192dae672169b98844d34da2e2e5e58bc2dc6f",
+    "sha256_after": "b4f20f19e787241df1681b2590192dae672169b98844d34da2e2e5e58bc2dc6f",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\start_counts.json",
+    "destination": "Archive\\doubao_audit\\output\\start_counts.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "a4c3676cd41db78daf906fd58b74440635993f63d74fea20566a197a9b9a68d0",
+    "sha256_after": "a4c3676cd41db78daf906fd58b74440635993f63d74fea20566a197a9b9a68d0",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_A_252_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\strict_A_252_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "ecf7fcd7dc671495d991ef3d2d4a18aae9532bf6bdfd43bea705490078f73cf4",
+    "sha256_after": "ecf7fcd7dc671495d991ef3d2d4a18aae9532bf6bdfd43bea705490078f73cf4",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_A_252_events.json",
+    "destination": "Archive\\doubao_audit\\output\\strict_A_252_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "3454e2d8701bd94135907f261cbfe2783cc147b81b2903b080b8a9e23714f7c6",
+    "sha256_after": "3454e2d8701bd94135907f261cbfe2783cc147b81b2903b080b8a9e23714f7c6",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_A_yearend_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\strict_A_yearend_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "0d961b0a9998be1bd13199482c2da596509f8e9384bea82dc1af3f61d5e318b2",
+    "sha256_after": "0d961b0a9998be1bd13199482c2da596509f8e9384bea82dc1af3f61d5e318b2",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_A_yearend_events.json",
+    "destination": "Archive\\doubao_audit\\output\\strict_A_yearend_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "7e45a912dcd664def5327ae6e29ae25435d7ba96de85c5b3ceb30f49da3cdf4c",
+    "sha256_after": "7e45a912dcd664def5327ae6e29ae25435d7ba96de85c5b3ceb30f49da3cdf4c",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_hang_252_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_hang_252_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "ee2c71c0ef53ff319f36f96a068173a970ed021b60ccd33b04becbe01526aa1c",
+    "sha256_after": "ee2c71c0ef53ff319f36f96a068173a970ed021b60ccd33b04becbe01526aa1c",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_hang_252_events.json",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_hang_252_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "120873cb8428aa3c643bb016ee8f083a6dc8e99601f04ccbbd6d1bf6efea17e3",
+    "sha256_after": "120873cb8428aa3c643bb016ee8f083a6dc8e99601f04ccbbd6d1bf6efea17e3",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_hang_yearend_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_hang_yearend_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "19e269f7e5063c84ef586140f6134d4cdf423afd909a007059ac380d6dac9e70",
+    "sha256_after": "19e269f7e5063c84ef586140f6134d4cdf423afd909a007059ac380d6dac9e70",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_hang_yearend_events.json",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_hang_yearend_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "04d1b8d0a665ab25e9c0f92d00391e539eccc89df81f19dd585272fe00ac2cbe",
+    "sha256_after": "04d1b8d0a665ab25e9c0f92d00391e539eccc89df81f19dd585272fe00ac2cbe",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_hold_252_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_hold_252_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "f382e136b38c900893bffcd1b0c41905c218e5b9422492f5088e4322c5d2f9c1",
+    "sha256_after": "f382e136b38c900893bffcd1b0c41905c218e5b9422492f5088e4322c5d2f9c1",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_hold_252_events.json",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_hold_252_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "a21db8aba47d59bbee6a6fd4d1e4e917c4ad14b79611372bd2c8f66c4f6c80c4",
+    "sha256_after": "a21db8aba47d59bbee6a6fd4d1e4e917c4ad14b79611372bd2c8f66c4f6c80c4",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_hold_yearend_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_hold_yearend_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "2daa227ca6b8b90e85cc1b3a56642ed1f8d4decb045a49b760ca9779d1de4c2a",
+    "sha256_after": "2daa227ca6b8b90e85cc1b3a56642ed1f8d4decb045a49b760ca9779d1de4c2a",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_hold_yearend_events.json",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_hold_yearend_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "4e8f98063974657127d7a12920230b1e83f82ad1a6f58aedc8189005f44c7996",
+    "sha256_after": "4e8f98063974657127d7a12920230b1e83f82ad1a6f58aedc8189005f44c7996",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_pay_252_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_pay_252_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "09c68ccd2612152023e187817f948469e397b526bcdbaebd34ed52ab329ef042",
+    "sha256_after": "09c68ccd2612152023e187817f948469e397b526bcdbaebd34ed52ab329ef042",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_pay_252_events.json",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_pay_252_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "16d7856ea3418f630a22dd99d338855151bdfc6d1b6967c40d833b8838d68916",
+    "sha256_after": "16d7856ea3418f630a22dd99d338855151bdfc6d1b6967c40d833b8838d68916",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_pay_yearend_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_pay_yearend_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "84ab8918de0fc77ca4793dfa79cfbb0e644b130ef298161d52effcab0372308f",
+    "sha256_after": "84ab8918de0fc77ca4793dfa79cfbb0e644b130ef298161d52effcab0372308f",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_pay_yearend_events.json",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_pay_yearend_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "453faed7ca8a5e35f4bff0e9a2c45eacebee95855f8a88e84c9cfc43fbc45b8c",
+    "sha256_after": "453faed7ca8a5e35f4bff0e9a2c45eacebee95855f8a88e84c9cfc43fbc45b8c",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_refinance_252_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_refinance_252_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "5856aae9e246d9efb58e3eceb8d2a49dad1b59f4ad5fd4cccdb955f6740806fa",
+    "sha256_after": "5856aae9e246d9efb58e3eceb8d2a49dad1b59f4ad5fd4cccdb955f6740806fa",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_refinance_252_events.json",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_refinance_252_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "4f0f74fe01e909a30598c221a32ee212ec409370d4a5097f8a9137d84090b628",
+    "sha256_after": "4f0f74fe01e909a30598c221a32ee212ec409370d4a5097f8a9137d84090b628",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_refinance_yearend_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_refinance_yearend_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "6e3e58e29e96effbe5d4c2b0199e5eb67613242824b714f816dfce91f2f997f6",
+    "sha256_after": "6e3e58e29e96effbe5d4c2b0199e5eb67613242824b714f816dfce91f2f997f6",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_D_refinance_yearend_events.json",
+    "destination": "Archive\\doubao_audit\\output\\strict_D_refinance_yearend_events.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "13e6de89e0931c0e51705b84ece80fd7bea7faaf6ce0bc82b8df1058ff2019ad",
+    "sha256_after": "13e6de89e0931c0e51705b84ece80fd7bea7faaf6ce0bc82b8df1058ff2019ad",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_results.json",
+    "destination": "Archive\\doubao_audit\\output\\strict_results.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "07b27fedffdc115f8239aeb22dc228e4390acc24751f0951b4187e08428f56ba",
+    "sha256_after": "07b27fedffdc115f8239aeb22dc228e4390acc24751f0951b4187e08428f56ba",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\strict_rolling_summary.json",
+    "destination": "Archive\\doubao_audit\\output\\strict_rolling_summary.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "243d9fe5f22f8a1f6455da0e171793b2724f2d9017a3b58b4848040147a532cc",
+    "sha256_after": "243d9fe5f22f8a1f6455da0e171793b2724f2d9017a3b58b4848040147a532cc",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\unmodified_original.py",
+    "destination": "Archive\\doubao_audit\\output\\unmodified_original.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "15bfab4ecee906798b5895da6baa081dd4797426ac3ca37f90edd7362ff681b5",
+    "sha256_after": "15bfab4ecee906798b5895da6baa081dd4797426ac3ca37f90edd7362ff681b5",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V0_original.py",
+    "destination": "Archive\\doubao_audit\\output\\V0_original.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "7fa6edd0dd9354ebd9db0d8ed440b5d38ceb70d77b1ab3f25ba44158f797302b",
+    "sha256_after": "7fa6edd0dd9354ebd9db0d8ed440b5d38ceb70d77b1ab3f25ba44158f797302b",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V0_original_A_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\V0_original_A_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "85e6d858a2e2a69eb8b41cd1803a6ef870e4d6dff60267d011c225735bb23eed",
+    "sha256_after": "85e6d858a2e2a69eb8b41cd1803a6ef870e4d6dff60267d011c225735bb23eed",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V0_original_B_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\V0_original_B_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "7770a5125054f7724d5c9b0dd4ca1eaf8d049de4189e29f565575a5f1c2e9be6",
+    "sha256_after": "7770a5125054f7724d5c9b0dd4ca1eaf8d049de4189e29f565575a5f1c2e9be6",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V0_original_C1_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\V0_original_C1_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "ffa5629126e25e2ef4c2c46a72014c91b904a119787b182ad51fe40c39f59167",
+    "sha256_after": "ffa5629126e25e2ef4c2c46a72014c91b904a119787b182ad51fe40c39f59167",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V1_start_return_fixed.py",
+    "destination": "Archive\\doubao_audit\\output\\V1_start_return_fixed.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "cd31a006b63017bc96a38e5e9748140abb334fd7a0505168ad22280c8ce09cd7",
+    "sha256_after": "cd31a006b63017bc96a38e5e9748140abb334fd7a0505168ad22280c8ce09cd7",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V1_start_return_fixed_A_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\V1_start_return_fixed_A_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "b0a7ce8ea6e67a14f077b42e4bb537788ab748c12f053a71c81fce47c2068d91",
+    "sha256_after": "b0a7ce8ea6e67a14f077b42e4bb537788ab748c12f053a71c81fce47c2068d91",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V1_start_return_fixed_B_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\V1_start_return_fixed_B_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "b69e76d687b5675ed9263ff0eacf3e89b9b6cb9784b2f9c831181e2e62ab9aaf",
+    "sha256_after": "b69e76d687b5675ed9263ff0eacf3e89b9b6cb9784b2f9c831181e2e62ab9aaf",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V1_start_return_fixed_C1_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\V1_start_return_fixed_C1_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "76fc104eee16ce0f9d5107aff733334a39d32759b4b31daa6d034b161ae8aad0",
+    "sha256_after": "76fc104eee16ce0f9d5107aff733334a39d32759b4b31daa6d034b161ae8aad0",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V2_margin_fixed.py",
+    "destination": "Archive\\doubao_audit\\output\\V2_margin_fixed.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "2564d2e6701246a4b96095ea11789b4514db9287eaa56ecbb9315a100d9fd642",
+    "sha256_after": "2564d2e6701246a4b96095ea11789b4514db9287eaa56ecbb9315a100d9fd642",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V2_margin_fixed_C1_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\V2_margin_fixed_C1_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "d4c51361e6872155e0e4e435e3b5f2f9a12861b5c66eb8dd73d045712b915995",
+    "sha256_after": "d4c51361e6872155e0e4e435e3b5f2f9a12861b5c66eb8dd73d045712b915995",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V3_repayment_fixed.py",
+    "destination": "Archive\\doubao_audit\\output\\V3_repayment_fixed.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "830af667d9524dbf34ad209291fca93e8e04dfd9d42f014afdc080e64a4ab2e5",
+    "sha256_after": "830af667d9524dbf34ad209291fca93e8e04dfd9d42f014afdc080e64a4ab2e5",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V3_repayment_fixed_C1_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\V3_repayment_fixed_C1_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "58c2c34d1501d2057e59f9f80b061f096d7a41d7b872bcc52f1d867cceea7552",
+    "sha256_after": "58c2c34d1501d2057e59f9f80b061f096d7a41d7b872bcc52f1d867cceea7552",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V4_monthly_interest.py",
+    "destination": "Archive\\doubao_audit\\output\\V4_monthly_interest.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "0fcd25fc9465061ebf06b584210aed09018f08b612095fca078b451c69423820",
+    "sha256_after": "0fcd25fc9465061ebf06b584210aed09018f08b612095fca078b451c69423820",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V4_monthly_interest_C1_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\V4_monthly_interest_C1_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "6dd2398440274979c5bff6adf889f5c5951f5ce6efc04b524c914957672a46f0",
+    "sha256_after": "6dd2398440274979c5bff6adf889f5c5951f5ce6efc04b524c914957672a46f0",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V5_checked_interest_refinance.py",
+    "destination": "Archive\\doubao_audit\\output\\V5_checked_interest_refinance.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "222400f05fdbb21b3be7657b28cfa865bb98fffd5d4ddc43ac9e4eb4a211dde9",
+    "sha256_after": "222400f05fdbb21b3be7657b28cfa865bb98fffd5d4ddc43ac9e4eb4a211dde9",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\V5_checked_interest_refinance_C1_daily.jsonl",
+    "destination": "Archive\\doubao_audit\\output\\V5_checked_interest_refinance_C1_daily.jsonl",
+    "reason": "历史外部审计副本",
+    "sha256_before": "b646d845bab7e5076115b6e7692ae6d79ed39d7b76ab2293d4cc1ffc1033b5cb",
+    "sha256_after": "b646d845bab7e5076115b6e7692ae6d79ed39d7b76ab2293d4cc1ffc1033b5cb",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\validation.json",
+    "destination": "Archive\\doubao_audit\\output\\validation.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "38dd17082ecbc41204bccc8863b476ff09bb0412197bc01bf0539b4f4563da18",
+    "sha256_after": "38dd17082ecbc41204bccc8863b476ff09bb0412197bc01bf0539b4f4563da18",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\final_check.py",
+    "destination": "Archive\\doubao_audit\\source\\final_check.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "39dd47b32a147be729e2b9dd90abecb6ad9afbd4fee9b6f5cea91f167a167b34",
+    "sha256_after": "39dd47b32a147be729e2b9dd90abecb6ad9afbd4fee9b6f5cea91f167a167b34",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\final_runs.py",
+    "destination": "Archive\\doubao_audit\\source\\final_runs.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "df8a150a0e81b7aec13df8c627cbc52f0d30abc67f930d5376695e9826b12fc4",
+    "sha256_after": "df8a150a0e81b7aec13df8c627cbc52f0d30abc67f930d5376695e9826b12fc4",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\grid_fast.py",
+    "destination": "Archive\\doubao_audit\\source\\grid_fast.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "59a4a953335364e58ac2a05506f94d91f5afed0911976b7e196e106b8af76ebe",
+    "sha256_after": "59a4a953335364e58ac2a05506f94d91f5afed0911976b7e196e106b8af76ebe",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\irx_yahoo.json",
+    "destination": "Archive\\doubao_audit\\source\\irx_yahoo.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "7eff7ac33c7c1385d448d63f350e1cba0b4b57728c50057a25199fe6ae58518c",
+    "sha256_after": "7eff7ac33c7c1385d448d63f350e1cba0b4b57728c50057a25199fe6ae58518c",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\pal_engine.py",
+    "destination": "Archive\\doubao_audit\\source\\pal_engine.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "acef8642472e2a7c3e41fe8cb0a4582450363b020215376c5f6927a39678fa1d",
+    "sha256_after": "acef8642472e2a7c3e41fe8cb0a4582450363b020215376c5f6927a39678fa1d",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\prepare_data.py",
+    "destination": "Archive\\doubao_audit\\source\\prepare_data.py",
+    "reason": "历史外部审计副本",
+    "sha256_before": "6b9732a0218e06333d882c25146b92eee5150f6b97946bf05cbd89a71254c912",
+    "sha256_after": "6b9732a0218e06333d882c25146b92eee5150f6b97946bf05cbd89a71254c912",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\qqq_yahoo.json",
+    "destination": "Archive\\doubao_audit\\source\\qqq_yahoo.json",
+    "reason": "历史外部审计副本",
+    "sha256_before": "5047900aab846f1443970b3130749c32b968a7a815289d534627bcf77c16429b",
+    "sha256_after": "5047900aab846f1443970b3130749c32b968a7a815289d534627bcf77c16429b",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\__pycache__\\audit_original.cpython-312.pyc",
+    "destination": "Archive\\doubao_audit\\__pycache__\\audit_original.cpython-312.pyc",
+    "reason": "历史外部审计副本",
+    "sha256_before": "2b755486296aa5d73715a106179dce4d41d5b1e8cbb854ddbfb159acbd03874b",
+    "sha256_after": "2b755486296aa5d73715a106179dce4d41d5b1e8cbb854ddbfb159acbd03874b",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\__pycache__\\gated_engine.cpython-314.pyc",
+    "destination": "Archive\\doubao_audit\\__pycache__\\gated_engine.cpython-314.pyc",
+    "reason": "历史外部审计副本",
+    "sha256_before": "c080fef67a4506d3ccc537fc88d04c6040910dc5df57f04bb8629ad0282cd648",
+    "sha256_after": "c080fef67a4506d3ccc537fc88d04c6040910dc5df57f04bb8629ad0282cd648",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\__pycache__\\test_gated.cpython-314.pyc",
+    "destination": "Archive\\doubao_audit\\__pycache__\\test_gated.cpython-314.pyc",
+    "reason": "历史外部审计副本",
+    "sha256_before": "71cb76300f24d40b7072cd2383204b8619eef0f96148e6530a0581deb5d20e6d",
+    "sha256_after": "71cb76300f24d40b7072cd2383204b8619eef0f96148e6530a0581deb5d20e6d",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\__pycache__\\instrumented_original.cpython-312.pyc",
+    "destination": "Archive\\doubao_audit\\output\\__pycache__\\instrumented_original.cpython-312.pyc",
+    "reason": "历史外部审计副本",
+    "sha256_before": "40fd7c1b2a320139859cef486451225c99a6d2e435569031a471d93b4127d7c3",
+    "sha256_after": "40fd7c1b2a320139859cef486451225c99a6d2e435569031a471d93b4127d7c3",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\__pycache__\\unmodified_original.cpython-312.pyc",
+    "destination": "Archive\\doubao_audit\\output\\__pycache__\\unmodified_original.cpython-312.pyc",
+    "reason": "历史外部审计副本",
+    "sha256_before": "bf00b0fcac5c654c411b310184753520b794108c9d6cadd4545284e18850028a",
+    "sha256_after": "bf00b0fcac5c654c411b310184753520b794108c9d6cadd4545284e18850028a",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\__pycache__\\V0_original.cpython-312.pyc",
+    "destination": "Archive\\doubao_audit\\output\\__pycache__\\V0_original.cpython-312.pyc",
+    "reason": "历史外部审计副本",
+    "sha256_before": "99193ff8ef1add0026016528c4ed0c89fba1a5680e00b373d8182d61d62b19c4",
+    "sha256_after": "99193ff8ef1add0026016528c4ed0c89fba1a5680e00b373d8182d61d62b19c4",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\__pycache__\\V1_start_return_fixed.cpython-312.pyc",
+    "destination": "Archive\\doubao_audit\\output\\__pycache__\\V1_start_return_fixed.cpython-312.pyc",
+    "reason": "历史外部审计副本",
+    "sha256_before": "c8103b6fdd69435f9eab230eee02d2459ef826dc40ed1065a344af0f3544a890",
+    "sha256_after": "c8103b6fdd69435f9eab230eee02d2459ef826dc40ed1065a344af0f3544a890",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\__pycache__\\V2_margin_fixed.cpython-312.pyc",
+    "destination": "Archive\\doubao_audit\\output\\__pycache__\\V2_margin_fixed.cpython-312.pyc",
+    "reason": "历史外部审计副本",
+    "sha256_before": "c6b3a02d9ca2aac792cb4726fa1bf1cb776f2d4376e3afb2d81b513ab8e83ca8",
+    "sha256_after": "c6b3a02d9ca2aac792cb4726fa1bf1cb776f2d4376e3afb2d81b513ab8e83ca8",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\__pycache__\\V3_repayment_fixed.cpython-312.pyc",
+    "destination": "Archive\\doubao_audit\\output\\__pycache__\\V3_repayment_fixed.cpython-312.pyc",
+    "reason": "历史外部审计副本",
+    "sha256_before": "2f4f7cc14a260ad5355ed3c5c13efe389fe0e097e889424dd920769f225035cc",
+    "sha256_after": "2f4f7cc14a260ad5355ed3c5c13efe389fe0e097e889424dd920769f225035cc",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\__pycache__\\V4_monthly_interest.cpython-312.pyc",
+    "destination": "Archive\\doubao_audit\\output\\__pycache__\\V4_monthly_interest.cpython-312.pyc",
+    "reason": "历史外部审计副本",
+    "sha256_before": "fa800fb46e3996996ef862f5b944f0f5019ee5d1a0d223a293f4978b5e835f26",
+    "sha256_after": "fa800fb46e3996996ef862f5b944f0f5019ee5d1a0d223a293f4978b5e835f26",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\output\\__pycache__\\V5_checked_interest_refinance.cpython-312.pyc",
+    "destination": "Archive\\doubao_audit\\output\\__pycache__\\V5_checked_interest_refinance.cpython-312.pyc",
+    "reason": "历史外部审计副本",
+    "sha256_before": "9d0afa0706d57d5990dd554b8a9cae9f1a1805c00e84abbdeaf7ef350139358b",
+    "sha256_after": "9d0afa0706d57d5990dd554b8a9cae9f1a1805c00e84abbdeaf7ef350139358b",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\data\\fig_beta_compare.png",
+    "destination": "Archive\\doubao_audit\\source\\data\\fig_beta_compare.png",
+    "reason": "历史外部审计副本",
+    "sha256_before": "6f760810a50fbe4d04b5f9c99484f2584020611e581134222880b2d25f63258d",
+    "sha256_after": "6f760810a50fbe4d04b5f9c99484f2584020611e581134222880b2d25f63258d",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\data\\fig_stress2000.png",
+    "destination": "Archive\\doubao_audit\\source\\data\\fig_stress2000.png",
+    "reason": "历史外部审计副本",
+    "sha256_before": "6dcec843fdaccbf5ac29f1b813f56b35c629aa0a46b323e1f05a2518ef1d39ce",
+    "sha256_after": "6dcec843fdaccbf5ac29f1b813f56b35c629aa0a46b323e1f05a2518ef1d39ce",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\data\\final_table1_stress.csv",
+    "destination": "Archive\\doubao_audit\\source\\data\\final_table1_stress.csv",
+    "reason": "历史外部审计副本",
+    "sha256_before": "1d10d4c777023b497cf995f95353f4c1c878bd6feb51e868bee8d6225a998d89",
+    "sha256_after": "1d10d4c777023b497cf995f95353f4c1c878bd6feb51e868bee8d6225a998d89",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\data\\final_table5_annual.csv",
+    "destination": "Archive\\doubao_audit\\source\\data\\final_table5_annual.csv",
+    "reason": "历史外部审计副本",
+    "sha256_before": "d10e5aaca65af3540ca2e12d3a90afa1ce18a050e01af812fa728125bf8fc900",
+    "sha256_after": "d10e5aaca65af3540ca2e12d3a90afa1ce18a050e01af812fa728125bf8fc900",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\data\\qqq_daily.csv",
+    "destination": "Archive\\doubao_audit\\source\\data\\qqq_daily.csv",
+    "reason": "历史外部审计副本",
+    "sha256_before": "e391b282beaee896e0552a6211f3c19cd6c9f4b1a21f7f86d8932eaa1b989f8c",
+    "sha256_after": "e391b282beaee896e0552a6211f3c19cd6c9f4b1a21f7f86d8932eaa1b989f8c",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\data\\results_paramgrid_fast.csv",
+    "destination": "Archive\\doubao_audit\\source\\data\\results_paramgrid_fast.csv",
+    "reason": "历史外部审计副本",
+    "sha256_before": "c7a54f13792a6067c2f011635046056895bb9601490ff70c045a6539f61fc186",
+    "sha256_after": "c7a54f13792a6067c2f011635046056895bb9601490ff70c045a6539f61fc186",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\data\\results_rolling.csv",
+    "destination": "Archive\\doubao_audit\\source\\data\\results_rolling.csv",
+    "reason": "历史外部审计副本",
+    "sha256_before": "61881e2bdb0eafb543c913ec747dfbf091bc9ec463bdc1cebc5d36fc605c3614",
+    "sha256_after": "61881e2bdb0eafb543c913ec747dfbf091bc9ec463bdc1cebc5d36fc605c3614",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\data\\results_stress2000.csv",
+    "destination": "Archive\\doubao_audit\\source\\data\\results_stress2000.csv",
+    "reason": "历史外部审计副本",
+    "sha256_before": "16cdd435d26c73359bfc9a4986bbc38152af82ad06851be53c4b634848b2ea95",
+    "sha256_after": "16cdd435d26c73359bfc9a4986bbc38152af82ad06851be53c4b634848b2ea95",
+    "link_only_edit": false
+  },
+  {
+    "original": "doubao_audit\\source\\__pycache__\\pal_engine.cpython-312.pyc",
+    "destination": "Archive\\doubao_audit\\source\\__pycache__\\pal_engine.cpython-312.pyc",
+    "reason": "历史外部审计副本",
+    "sha256_before": "b7e07292647a38af37929a26e1cf7f5fabb0be3f256ad9ef9bc8abb248a5215a",
+    "sha256_after": "b7e07292647a38af37929a26e1cf7f5fabb0be3f256ad9ef9bc8abb248a5215a",
+    "link_only_edit": false
+  },
+  {
+    "original": "output\\融资代替质押详解.md",
+    "destination": "Archive\\output\\融资代替质押详解.md",
+    "reason": "已被最终Word替代的源稿或旧展示成品",
+    "sha256_before": "b2431f7857d2c65ec7d1770b8f5b13a9419bbb1d9796032a2e1c2ce96723f518",
+    "sha256_after": "1ed49f8abd78dcc1b6e3b1abd953d988df165bdfaa22f6c980ac76b2d37a176b",
+    "link_only_edit": true,
+    "note": "Repaired two pre-existing broken image links to retained originals"
+  },
+  {
+    "original": "output\\融资代替质押详解.pdf",
+    "destination": "Archive\\output\\融资代替质押详解.pdf",
+    "reason": "已被最终Word替代的源稿或旧展示成品",
+    "sha256_before": "45ade0315c8c06d697fdddc72d3065cfbdc79bf61920051cd48ebdcdf694bfe1",
+    "sha256_after": "45ade0315c8c06d697fdddc72d3065cfbdc79bf61920051cd48ebdcdf694bfe1",
+    "link_only_edit": false
+  },
+  {
+    "original": "output\\pdf\\现金接力策略_阶段性研究报告.pdf",
+    "destination": "Archive\\output\\pdf\\现金接力策略_阶段性研究报告.pdf",
+    "reason": "已被最终Word替代的源稿或旧展示成品",
+    "sha256_before": "5d80efaa36de285990298771fb965145554309a590bef317bd1c6100333e294e",
+    "sha256_after": "5d80efaa36de285990298771fb965145554309a590bef317bd1c6100333e294e",
+    "link_only_edit": false
+  },
+  {
+    "original": "output\\ppt\\大陆模拟CLEC买借死_现金接力研究_v1.pptx",
+    "destination": "Archive\\output\\ppt\\大陆模拟CLEC买借死_现金接力研究_v1.pptx",
+    "reason": "已被最终Word替代的源稿或旧展示成品",
+    "sha256_before": "8e05b95411b182e63383e63b3e1d6cf970b2b09d972668c740c146c9ade60a98",
+    "sha256_after": "8e05b95411b182e63383e63b3e1d6cf970b2b09d972668c740c146c9ade60a98",
+    "link_only_edit": false
+  },
+  {
+    "original": "output\\ppt\\大陆模拟CLEC买借死_现金接力研究_v1_审阅版.pptx",
+    "destination": "Archive\\output\\ppt\\大陆模拟CLEC买借死_现金接力研究_v1_审阅版.pptx",
+    "reason": "已被最终Word替代的源稿或旧展示成品",
+    "sha256_before": "474f78b2deace175ab4d7105424d1c8955e7e54f5ccde7d57efee174d1bd509b",
+    "sha256_after": "474f78b2deace175ab4d7105424d1c8955e7e54f5ccde7d57efee174d1bd509b",
+    "link_only_edit": false
+  }
+]

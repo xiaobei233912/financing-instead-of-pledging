@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "main_paths": 19,
+  "rolling_windows": 306,
+  "order_cases": 12,
+  "failures": 1,
+  "accounting": "annual living, principal, unpaid interest and double-account equity checked",
+  "report_sha256": "23547dfdc57f7d453aa325e73586660d5de2cfaa316915f7a752d6554b829d0d"
+}

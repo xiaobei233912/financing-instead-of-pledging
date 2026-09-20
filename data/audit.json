@@ -1,0 +1,87 @@
+{
+  "download_url": "https://query1.finance.yahoo.com/v8/finance/chart/QQQ?period1=915148800&period2=1788912000&interval=1d&events=div%2Csplits",
+  "audited_at": "2026-09-09T13:59:40.638589+00:00",
+  "raw_sha256": "c9ccc9adfb7606b8b9dec9d3d2c28ff2a4b688312e0f7809189c5bd77f3509e9",
+  "rows": 6917,
+  "start": "1999-03-10",
+  "end": "2026-09-08",
+  "march_2000_peak_close": {
+    "date": "2000-03-27",
+    "adj_close": 99.22028350830078,
+    "volume": 11752600,
+    "open": 118.0,
+    "adj_open": 99.43094228432689,
+    "high": 119.5,
+    "adj_high": 100.6948949404836,
+    "low": 117.125,
+    "adj_low": 98.69363656823549,
+    "close": 117.75
+  },
+  "worst_adjusted_close_drawdown": [
+    -0.8296390749989178,
+    "2002-10-09"
+  ],
+  "gaps_over_four_calendar_days": [
+    [
+      "2001-09-10",
+      "2001-09-17",
+      7
+    ],
+    [
+      "2006-12-29",
+      "2007-01-03",
+      5
+    ],
+    [
+      "2012-10-26",
+      "2012-10-31",
+      5
+    ]
+  ],
+  "clec_monthly_close_crosscheck": {
+    "months": 315,
+    "max_relative_error": 0.00845491421418676,
+    "over_0_1pct": [
+      {
+        "month": "2026-03",
+        "reference": 582.06,
+        "yahoo": 577.1799926757812,
+        "relative_error": 0.00845491421418676
+      }
+    ]
+  },
+  "calendar_year_total_returns": {
+    "2000": -0.36114886932133916,
+    "2001": -0.3334477226483321,
+    "2002": -0.3736830415342868,
+    "2003": 0.4966865008486696,
+    "2004": 0.10538492076223993,
+    "2005": 0.015654848437518742,
+    "2006": 0.07144044808869787,
+    "2007": 0.19028069383285828,
+    "2008": -0.4172717896278604,
+    "2009": 0.5468414437826286,
+    "2010": 0.20143760630529495,
+    "2011": 0.03475792643537945,
+    "2012": 0.18112487825783585,
+    "2013": 0.3663419523921958,
+    "2014": 0.19181407546993268,
+    "2015": 0.09435922417643816,
+    "2016": 0.07097909903216393,
+    "2017": 0.3266356579868581,
+    "2018": -0.001262318077460578,
+    "2019": 0.3896153341305657,
+    "2020": 0.48406139438457707,
+    "2021": 0.2741974294876386,
+    "2022": -0.32576996902201194,
+    "2023": 0.5485556164079815,
+    "2024": 0.25578262795686646,
+    "2025": 0.2077254099543715
+  },
+  "notes": [
+    "Adjusted OHLC = raw OHLC times daily adjusted-close/close factor.",
+    "Main path approximates automatic dividend reinvestment in a total-return QQQ proxy.",
+    "Raw-close sensitivity excludes dividends, not a dividend-cash account simulation.",
+    "Yahoo is a third-party vendor. CLEC raw HTML is also Yahoo-derived; crosscheck is not independent."
+  ]
+}

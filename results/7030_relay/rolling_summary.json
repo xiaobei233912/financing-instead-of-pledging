@@ -1,0 +1,20 @@
+[
+  {
+    "years": 10,
+    "n": 71,
+    "failures": 0,
+    "min_net": 420761.7163531241,
+    "min_mmr": 1.5899765745873917,
+    "min_cash_years": 7.632754334548319,
+    "failed_starts": []
+  },
+  {
+    "years": 20,
+    "n": 31,
+    "failures": 0,
+    "min_net": 1562407.6194979474,
+    "min_mmr": 1.5899765745873917,
+    "min_cash_years": 6.777618435278306,
+    "failed_starts": []
+  }
+]

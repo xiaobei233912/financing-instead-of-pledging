@@ -1,0 +1,16 @@
+{
+  "data": "data/qqq_daily.json",
+  "sha256": "bc72fd77d6248f34373b46af5d02cc19459bb7344cdd60d605febf597518b4bc",
+  "source_start": "1999-03-10",
+  "source_end": "2026-09-08",
+  "rescue": {
+    "trigger": 1.6,
+    "target": 2,
+    "delay": 1,
+    "auto_interest": false,
+    "annual_return": true,
+    "security": true
+  },
+  "pal_definition": "ideal direct-cash, 100% equity, 2.8% simple unpaid, 140% research floor",
+  "sale_definition": "ordinary cash first for living, stocks if insufficient; annual target rebalancing; no debt; floor variant separate"
+}

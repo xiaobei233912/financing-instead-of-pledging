@@ -1,0 +1,21 @@
+{
+  "completed_at_utc": "2026-09-09T14:16:20.459796+00:00",
+  "python": "3.14.3",
+  "unit_tests_passed": 16,
+  "experiment_count": 7351,
+  "report_links_valid": true,
+  "stress_results_reproduced_exactly": 48,
+  "sha256": {
+    "backtest.py": "aa4833bf2551769c1e1cafe1e58633167ff35ea70503faf92b5628220911b444",
+    "run_research.py": "896df9265608b760275f16f806e8981c379a7d1fa837ef478db57a3db74b1dec",
+    "fetch_data.py": "884820b81e9e15416f54fa85c2386070124799a0be7f226cf1b3afa333573d3a",
+    "test_backtest.py": "3581e942d499513f240a4054ce8d92abb6ec8edddf1e4be1771cd26dd3cd0e5a",
+    "build_report.py": "655151a7376f1c2b4ac33b2563c61979948fe73bb6075a8933b3467c96cb50ca",
+    "verify_results.py": "9ef2470572110eefa394771d8338f87980336d159e9152bbcdb33da4eb0632c4",
+    "results/stress_cases.json": "fad48714ba18ab37cbba58bc9dc6566fe79d1436ef972cd0feff4b754e3a6b9d",
+    "results/experiments.json": "8485566be35971090445418dfe8d2e62a6fb8fc994f8eef0ee2669d8b8cc1466",
+    "results/rolling_summary.json": "562978cbc0182ea83cc809efdd0f4b9214ad6da9787bf07ac8e2c5fc25aa4c3f",
+    "results/additional_stresses.json": "41bee62fa25a058808dd9028ded7d288ca9c0b06ca7f6b9e5eb4f53d0f3f9097",
+    "第一阶段研究报告.md": "588c290a908dc2de65e564cd781083cce2ddbdcb89a82e302ca5c2802767eddb"
+  }
+}

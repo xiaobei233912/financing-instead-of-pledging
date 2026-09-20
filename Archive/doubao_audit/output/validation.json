@@ -1,0 +1,12 @@
+{
+  "cases": 810,
+  "outcomes": {
+    "completed": 801,
+    "RepaymentRequired": 9
+  },
+  "main_daily_rows_checked": 66510,
+  "new_loan_margin_checks": 693,
+  "original_snapshot_matches": 15,
+  "unit_tests": "7 new tests and 16 existing kernel tests passed in recorded executions",
+  "scope": "Outputs checked; contract assumptions and price proxy limitations remain as documented"
+}

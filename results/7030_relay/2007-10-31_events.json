@@ -1,0 +1,623 @@
+[
+  {
+    "date": "2007-10-31",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 35.0,
+    "margin": 455999.99999999994
+  },
+  {
+    "date": "2007-11-01",
+    "kind": "ordinary_collateral_sale",
+    "amount": 19872.80174376239
+  },
+  {
+    "date": "2007-11-01",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2007-11-02",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2007-12-31",
+    "kind": "rebalance_buy",
+    "amount": 13605.334056515596,
+    "remaining": 0.0
+  },
+  {
+    "date": "2008-10-21",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 10.491992007011756,
+    "margin": 226813.39205586707
+  },
+  {
+    "date": "2008-10-22",
+    "kind": "ordinary_collateral_sale",
+    "amount": 19210.038401882925
+  },
+  {
+    "date": "2008-10-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2008-10-31",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2008-12-31",
+    "kind": "rebalance_skip_cash",
+    "amount": 292229.70231838187,
+    "delta": -89274.99789424165
+  },
+  {
+    "date": "2009-10-21",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 9.175516419711085,
+    "margin": 291158.652134588
+  },
+  {
+    "date": "2009-10-22",
+    "kind": "ordinary_collateral_sale",
+    "amount": 19930.57694415058
+  },
+  {
+    "date": "2009-10-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2009-11-02",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2009-12-31",
+    "kind": "rebalance_skip_cash",
+    "amount": 298004.6091552283,
+    "delta": -26572.6520192374
+  },
+  {
+    "date": "2010-10-20",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 8.07866383729915,
+    "margin": 331614.3927270163
+  },
+  {
+    "date": "2010-10-21",
+    "kind": "ordinary_collateral_sale",
+    "amount": 20215.858145781876
+  },
+  {
+    "date": "2010-10-21",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2010-11-01",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2010-12-31",
+    "kind": "rebalance_transfer_sell",
+    "amount": 3876.636880318285,
+    "remaining": 0.0
+  },
+  {
+    "date": "2011-01-03",
+    "kind": "ordinary_collateral_sale",
+    "amount": 3903.6240766587625
+  },
+  {
+    "date": "2011-10-19",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 7.232244404503743,
+    "margin": 358907.77860857395
+  },
+  {
+    "date": "2011-10-20",
+    "kind": "ordinary_collateral_sale",
+    "amount": 19719.090577738327
+  },
+  {
+    "date": "2011-10-20",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2011-10-31",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2011-12-30",
+    "kind": "rebalance_transfer_sell",
+    "amount": 3001.0209549190477,
+    "remaining": 0.0
+  },
+  {
+    "date": "2012-01-03",
+    "kind": "ordinary_collateral_sale",
+    "amount": 3056.8836245145812
+  },
+  {
+    "date": "2012-10-17",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 7.036200389599822,
+    "margin": 419887.2197799518
+  },
+  {
+    "date": "2012-10-18",
+    "kind": "ordinary_collateral_sale",
+    "amount": 20026.556101246853
+  },
+  {
+    "date": "2012-10-18",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2012-10-31",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2012-12-31",
+    "kind": "rebalance_transfer_sell",
+    "amount": 29768.28267520538,
+    "remaining": 0.0
+  },
+  {
+    "date": "2013-01-02",
+    "kind": "ordinary_collateral_sale",
+    "amount": 31179.37962508268
+  },
+  {
+    "date": "2013-10-21",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 7.077429592824277,
+    "margin": 502107.70066162373
+  },
+  {
+    "date": "2013-10-22",
+    "kind": "ordinary_collateral_sale",
+    "amount": 20075.28288259645
+  },
+  {
+    "date": "2013-10-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2013-10-31",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2013-12-31",
+    "kind": "rebalance_transfer_sell",
+    "amount": 90484.32948222384,
+    "remaining": 0.0
+  },
+  {
+    "date": "2014-01-02",
+    "kind": "ordinary_collateral_sale",
+    "amount": 90484.3458933287
+  },
+  {
+    "date": "2014-10-21",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 6.631526046820932,
+    "margin": 527855.3106259902
+  },
+  {
+    "date": "2014-10-22",
+    "kind": "ordinary_collateral_sale",
+    "amount": 20336.958015925782
+  },
+  {
+    "date": "2014-10-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2014-10-31",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2014-12-31",
+    "kind": "rebalance_transfer_sell",
+    "amount": 60515.98703394504,
+    "remaining": 0.0
+  },
+  {
+    "date": "2015-01-02",
+    "kind": "ordinary_collateral_sale",
+    "amount": 60087.46724316565
+  },
+  {
+    "date": "2015-10-21",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 6.377418994687965,
+    "margin": 567408.8749638228
+  },
+  {
+    "date": "2015-10-22",
+    "kind": "ordinary_collateral_sale",
+    "amount": 19954.015513164177
+  },
+  {
+    "date": "2015-10-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2015-11-02",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2015-12-31",
+    "kind": "rebalance_transfer_sell",
+    "amount": 26303.97217029892,
+    "remaining": 0.0
+  },
+  {
+    "date": "2016-01-04",
+    "kind": "ordinary_collateral_sale",
+    "amount": 25506.95699052115
+  },
+  {
+    "date": "2016-10-19",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 6.086096653036633,
+    "margin": 594182.2640577684
+  },
+  {
+    "date": "2016-10-20",
+    "kind": "ordinary_collateral_sale",
+    "amount": 19993.210947533014
+  },
+  {
+    "date": "2016-10-20",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2016-10-31",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2016-12-30",
+    "kind": "rebalance_transfer_sell",
+    "amount": 21870.097856590524,
+    "remaining": 0.0
+  },
+  {
+    "date": "2017-01-03",
+    "kind": "ordinary_collateral_sale",
+    "amount": 21747.924058686862
+  },
+  {
+    "date": "2017-10-19",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 6.827366818996614,
+    "margin": 793777.7297930232
+  },
+  {
+    "date": "2017-10-20",
+    "kind": "ordinary_collateral_sale",
+    "amount": 20124.333814895268
+  },
+  {
+    "date": "2017-10-20",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2017-10-31",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2017-12-29",
+    "kind": "rebalance_transfer_sell",
+    "amount": 123978.05622573243,
+    "remaining": 0.0
+  },
+  {
+    "date": "2018-01-02",
+    "kind": "ordinary_collateral_sale",
+    "amount": 123733.01285026353
+  },
+  {
+    "date": "2018-10-19",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 6.848315886626264,
+    "margin": 882701.7736296377
+  },
+  {
+    "date": "2018-10-22",
+    "kind": "ordinary_collateral_sale",
+    "amount": 19940.421818443134
+  },
+  {
+    "date": "2018-10-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2018-10-31",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2018-12-31",
+    "kind": "rebalance_buy",
+    "amount": 13537.598989963997,
+    "remaining": 0.0
+  },
+  {
+    "date": "2019-10-21",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 7.011070577650604,
+    "margin": 1004813.2572351941
+  },
+  {
+    "date": "2019-10-22",
+    "kind": "ordinary_collateral_sale",
+    "amount": 20149.443371225447
+  },
+  {
+    "date": "2019-10-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2019-10-31",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2019-12-31",
+    "kind": "rebalance_transfer_sell",
+    "amount": 183462.43033171957,
+    "remaining": 0.0
+  },
+  {
+    "date": "2020-01-02",
+    "kind": "ordinary_collateral_sale",
+    "amount": 185951.62409425995
+  },
+  {
+    "date": "2020-10-21",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 8.811241730645714,
+    "margin": 1514603.786576984
+  },
+  {
+    "date": "2020-10-22",
+    "kind": "ordinary_collateral_sale",
+    "amount": 20026.697949504833
+  },
+  {
+    "date": "2020-10-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2020-11-02",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2020-12-31",
+    "kind": "rebalance_transfer_sell",
+    "amount": 300965.12508511264,
+    "remaining": 0.0
+  },
+  {
+    "date": "2021-01-04",
+    "kind": "ordinary_collateral_sale",
+    "amount": 303119.9272401817
+  },
+  {
+    "date": "2021-10-20",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 9.780243139774816,
+    "margin": 1887758.347918136
+  },
+  {
+    "date": "2021-10-21",
+    "kind": "ordinary_collateral_sale",
+    "amount": 19905.300253753452
+  },
+  {
+    "date": "2021-10-21",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2021-11-01",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2021-12-31",
+    "kind": "rebalance_transfer_sell",
+    "amount": 228685.41708399216,
+    "remaining": 0.0
+  },
+  {
+    "date": "2022-01-03",
+    "kind": "ordinary_collateral_sale",
+    "amount": 228336.36324120036
+  },
+  {
+    "date": "2022-10-19",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 6.147476803457076,
+    "margin": 1053112.764595493
+  },
+  {
+    "date": "2022-10-20",
+    "kind": "ordinary_collateral_sale",
+    "amount": 19974.068394636975
+  },
+  {
+    "date": "2022-10-20",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2022-10-31",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2022-12-30",
+    "kind": "rebalance_buy",
+    "amount": 373689.6725103492,
+    "remaining": 0.0
+  },
+  {
+    "date": "2023-10-19",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 9.030593506243882,
+    "margin": 1976475.0355455847
+  },
+  {
+    "date": "2023-10-20",
+    "kind": "ordinary_collateral_sale",
+    "amount": 19706.695657013042
+  },
+  {
+    "date": "2023-10-20",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2023-10-31",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2023-12-29",
+    "kind": "rebalance_transfer_sell",
+    "amount": 447132.9897058066,
+    "remaining": 0.0
+  },
+  {
+    "date": "2024-01-02",
+    "kind": "ordinary_collateral_sale",
+    "amount": 441218.73688149574
+  },
+  {
+    "date": "2024-10-21",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 10.269275392224522,
+    "margin": 2506590.67747849
+  },
+  {
+    "date": "2024-10-22",
+    "kind": "ordinary_collateral_sale",
+    "amount": 19978.917081679632
+  },
+  {
+    "date": "2024-10-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2024-10-31",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2024-12-31",
+    "kind": "rebalance_transfer_sell",
+    "amount": 282628.6637692591,
+    "remaining": 0.0
+  },
+  {
+    "date": "2025-01-02",
+    "kind": "ordinary_collateral_sale",
+    "amount": 281207.00601988874
+  },
+  {
+    "date": "2025-10-21",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 11.28803853327336,
+    "margin": 3018079.2550831656
+  },
+  {
+    "date": "2025-10-22",
+    "kind": "ordinary_collateral_sale",
+    "amount": 19973.18618629247
+  },
+  {
+    "date": "2025-10-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2025-10-31",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2025-12-31",
+    "kind": "rebalance_transfer_sell",
+    "amount": 251851.10969589092,
+    "remaining": 0.0
+  },
+  {
+    "date": "2026-01-02",
+    "kind": "ordinary_collateral_sale",
+    "amount": 252017.74131974022
+  }
+]

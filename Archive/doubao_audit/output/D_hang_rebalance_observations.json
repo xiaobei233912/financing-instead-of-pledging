@@ -1,0 +1,982 @@
+[
+  {
+    "date": "2008-12-31",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6601148362885758
+  },
+  {
+    "date": "2009-01-02",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.66228492512445
+  },
+  {
+    "date": "2009-01-05",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6701778652173739
+  },
+  {
+    "date": "2009-01-06",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6731499432422408
+  },
+  {
+    "date": "2009-01-07",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6694353254889793
+  },
+  {
+    "date": "2009-01-08",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.666883568176195
+  },
+  {
+    "date": "2009-01-09",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6696991474269132
+  },
+  {
+    "date": "2009-01-12",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6648490943501405
+  },
+  {
+    "date": "2009-01-13",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6603370636830556
+  },
+  {
+    "date": "2009-01-14",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6578751488328555
+  },
+  {
+    "date": "2009-01-15",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6530144007556353
+  },
+  {
+    "date": "2009-01-16",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6602244964512027
+  },
+  {
+    "date": "2009-01-20",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6586479745853687
+  },
+  {
+    "date": "2009-01-21",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6518267629730635
+  },
+  {
+    "date": "2009-01-22",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6525313927444625
+  },
+  {
+    "date": "2009-01-23",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6506808483431558
+  },
+  {
+    "date": "2009-01-26",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6557896659194169
+  },
+  {
+    "date": "2009-01-27",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6571757328625675
+  },
+  {
+    "date": "2009-01-28",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6624200614965796
+  },
+  {
+    "date": "2009-01-29",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6636784910234477
+  },
+  {
+    "date": "2009-01-30",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6623208191978603
+  },
+  {
+    "date": "2009-02-02",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6544511866287158
+  },
+  {
+    "date": "2009-02-03",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.659777076485792
+  },
+  {
+    "date": "2009-02-04",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6633076704673586
+  },
+  {
+    "date": "2009-02-05",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6598288447755674
+  },
+  {
+    "date": "2009-02-06",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6687144400337043
+  },
+  {
+    "date": "2009-02-09",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.673727297998555
+  },
+  {
+    "date": "2009-02-10",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6730838980868827
+  },
+  {
+    "date": "2009-02-11",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.666473650791254
+  },
+  {
+    "date": "2009-02-12",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.662537912291483
+  },
+  {
+    "date": "2009-02-13",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6671795632441275
+  },
+  {
+    "date": "2009-02-17",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6597589205416471
+  },
+  {
+    "date": "2009-02-18",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.659136640378259
+  },
+  {
+    "date": "2009-02-19",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6592007691413043
+  },
+  {
+    "date": "2009-02-20",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6517763287696839
+  },
+  {
+    "date": "2009-02-23",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6561474620115578
+  },
+  {
+    "date": "2009-02-24",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6480207176308508
+  },
+  {
+    "date": "2009-02-25",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6528274263703704
+  },
+  {
+    "date": "2009-02-26",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6541566842699212
+  },
+  {
+    "date": "2009-02-27",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6437808216328289
+  },
+  {
+    "date": "2009-03-02",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6405459865101186
+  },
+  {
+    "date": "2009-03-03",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6383124309855541
+  },
+  {
+    "date": "2009-03-04",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.639584700096181
+  },
+  {
+    "date": "2009-03-05",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6397427853019236
+  },
+  {
+    "date": "2009-03-06",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6364606896452949
+  },
+  {
+    "date": "2009-03-09",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6314949155221448
+  },
+  {
+    "date": "2009-03-10",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6329040034154317
+  },
+  {
+    "date": "2009-03-11",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6445465915548885
+  },
+  {
+    "date": "2009-03-12",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6455271038556935
+  },
+  {
+    "date": "2009-03-13",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6530264144934729
+  },
+  {
+    "date": "2009-03-16",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6551111766436587
+  },
+  {
+    "date": "2009-03-17",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6509093260035335
+  },
+  {
+    "date": "2009-03-18",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6572597603291552
+  },
+  {
+    "date": "2009-03-19",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6178415642719478
+  },
+  {
+    "date": "2009-03-20",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.614899483401263
+  },
+  {
+    "date": "2009-03-23",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6165332044139584
+  },
+  {
+    "date": "2009-03-24",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.62228525673894
+  },
+  {
+    "date": "2009-03-25",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6218900453034528
+  },
+  {
+    "date": "2009-03-26",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6234862461129631
+  },
+  {
+    "date": "2009-03-27",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6249932810300654
+  },
+  {
+    "date": "2009-03-30",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6491282658018545
+  },
+  {
+    "date": "2009-03-31",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6490407255061547
+  },
+  {
+    "date": "2009-04-01",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.646376368447318
+  },
+  {
+    "date": "2009-04-02",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6565948415364746
+  },
+  {
+    "date": "2009-04-03",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6620379468422634
+  },
+  {
+    "date": "2009-04-06",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6613027774230279
+  },
+  {
+    "date": "2009-04-07",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.660799847553435
+  },
+  {
+    "date": "2009-04-08",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6594481980101863
+  },
+  {
+    "date": "2009-04-09",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6651425447003044
+  },
+  {
+    "date": "2009-04-13",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6670671380090916
+  },
+  {
+    "date": "2009-04-14",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.666037439714716
+  },
+  {
+    "date": "2009-04-15",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6630735592437087
+  },
+  {
+    "date": "2009-04-16",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6670985744929792
+  },
+  {
+    "date": "2009-04-17",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6692358907801789
+  },
+  {
+    "date": "2009-04-20",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6661011284449904
+  },
+  {
+    "date": "2009-04-21",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6620285666298882
+  },
+  {
+    "date": "2009-04-22",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6646429610953303
+  },
+  {
+    "date": "2009-04-23",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6680252954393965
+  },
+  {
+    "date": "2009-04-24",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6702826424572235
+  },
+  {
+    "date": "2009-04-27",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6707760545189908
+  },
+  {
+    "date": "2009-04-28",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6714236293965847
+  },
+  {
+    "date": "2009-04-29",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6729184159777126
+  },
+  {
+    "date": "2009-04-30",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6770277324330959
+  },
+  {
+    "date": "2009-05-01",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6762510339640097
+  },
+  {
+    "date": "2009-05-04",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6788138778848439
+  },
+  {
+    "date": "2009-05-05",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6807392535603574
+  },
+  {
+    "date": "2009-05-06",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6825800661819591
+  },
+  {
+    "date": "2009-05-07",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6824454222703169
+  },
+  {
+    "date": "2009-05-08",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6774407736213103
+  },
+  {
+    "date": "2009-05-11",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6730358794471214
+  },
+  {
+    "date": "2009-05-12",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6770760533275094
+  },
+  {
+    "date": "2009-05-13",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6719665653946324
+  },
+  {
+    "date": "2009-05-14",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6684436229931916
+  },
+  {
+    "date": "2009-05-15",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6700307971229496
+  },
+  {
+    "date": "2009-05-18",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6717099489531747
+  },
+  {
+    "date": "2009-05-19",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.675332628153774
+  },
+  {
+    "date": "2009-05-20",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6776784731343687
+  },
+  {
+    "date": "2009-05-21",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6744077417875649
+  },
+  {
+    "date": "2009-05-22",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6728393666376745
+  },
+  {
+    "date": "2009-05-26",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.669300747353542
+  },
+  {
+    "date": "2009-05-27",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6786045854044404
+  },
+  {
+    "date": "2009-05-28",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6790323043014527
+  },
+  {
+    "date": "2009-05-29",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6803318535529098
+  },
+  {
+    "date": "2009-06-01",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6851353615141016
+  },
+  {
+    "date": "2009-06-02",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6876965602065575
+  },
+  {
+    "date": "2009-06-03",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6885135399350839
+  },
+  {
+    "date": "2009-06-04",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6889734313168137
+  },
+  {
+    "date": "2009-06-05",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6921655573171441
+  },
+  {
+    "date": "2009-06-08",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6897488294708042
+  },
+  {
+    "date": "2009-06-09",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6914258417566198
+  },
+  {
+    "date": "2009-06-10",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.69325654274393
+  },
+  {
+    "date": "2009-06-11",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.690996789815983
+  },
+  {
+    "date": "2009-06-12",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6904034312976293
+  },
+  {
+    "date": "2009-06-15",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6881966723877676
+  },
+  {
+    "date": "2009-06-16",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6866403961800422
+  },
+  {
+    "date": "2009-06-17",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.684585686319746
+  },
+  {
+    "date": "2009-06-18",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6853582717826485
+  },
+  {
+    "date": "2009-06-19",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6869294959217785
+  },
+  {
+    "date": "2009-06-22",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.685576457532359
+  },
+  {
+    "date": "2009-06-23",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6816048122258723
+  },
+  {
+    "date": "2009-06-24",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6823316272714993
+  },
+  {
+    "date": "2009-06-25",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6826879076336402
+  },
+  {
+    "date": "2009-06-26",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6872648324313819
+  },
+  {
+    "date": "2009-06-29",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6892988697277398
+  },
+  {
+    "date": "2009-06-30",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6897563364946387
+  },
+  {
+    "date": "2009-07-01",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6898033867977521
+  },
+  {
+    "date": "2009-07-02",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6870162221137748
+  },
+  {
+    "date": "2009-07-06",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6826810259620831
+  },
+  {
+    "date": "2009-07-07",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6829141907938034
+  },
+  {
+    "date": "2009-07-08",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6786899425256291
+  },
+  {
+    "date": "2009-07-09",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6793045045324121
+  },
+  {
+    "date": "2009-07-10",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.678226144241533
+  },
+  {
+    "date": "2009-07-13",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6799435813450393
+  },
+  {
+    "date": "2009-07-14",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6836247278902904
+  },
+  {
+    "date": "2009-07-15",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6882293592443998
+  },
+  {
+    "date": "2009-07-16",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6907375957793715
+  },
+  {
+    "date": "2009-07-17",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6941747907862105
+  },
+  {
+    "date": "2009-07-20",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6964532282991388
+  },
+  {
+    "date": "2009-07-21",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6981675233761713
+  },
+  {
+    "date": "2009-07-22",
+    "kind": "rebalance_observation",
+    "amount": 0.0,
+    "completed": false,
+    "beta": 0.6989290741826139
+  }
+]

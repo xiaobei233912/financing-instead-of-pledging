@@ -1,0 +1,3686 @@
+[
+  {
+    "date": "2000-12-29",
+    "kind": "rebalance",
+    "amount": 0.7999999999999999
+  },
+  {
+    "date": "2001-03-05",
+    "kind": "collateral_in",
+    "amount": 42000.0
+  },
+  {
+    "date": "2001-03-06",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2001-03-06",
+    "kind": "borrow_for_living",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2001-03-12",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2001-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 23.013698630136982
+  },
+  {
+    "date": "2001-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 23.013698630136982
+  },
+  {
+    "date": "2001-04-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2001-04-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2001-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2001-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2001-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2001-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2001-07-23",
+    "kind": "credit_sale_repay",
+    "amount": 49.095890410958894
+  },
+  {
+    "date": "2001-07-23",
+    "kind": "monthly_interest_settled",
+    "amount": 49.095890410958894
+  },
+  {
+    "date": "2001-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2001-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2001-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561643
+  },
+  {
+    "date": "2001-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561643
+  },
+  {
+    "date": "2001-10-22",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2001-10-22",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2001-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2001-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2001-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2001-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2001-12-31",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2002-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.0958904109589
+  },
+  {
+    "date": "2002-01-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.0958904109589
+  },
+  {
+    "date": "2002-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2002-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2002-03-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2002-03-11",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2002-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2002-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2002-04-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2002-04-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2002-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2002-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2002-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2002-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2002-07-22",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561643
+  },
+  {
+    "date": "2002-07-22",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561643
+  },
+  {
+    "date": "2002-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2002-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2002-09-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2002-09-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2002-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2002-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2002-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2002-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2002-12-23",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2002-12-23",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2002-12-31",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2003-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2003-01-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2003-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2003-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2003-03-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2003-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2003-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2003-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2003-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2003-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2003-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2003-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2003-06-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2003-06-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2003-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2003-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2003-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2003-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2003-09-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2003-09-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2003-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2003-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2003-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2003-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2003-12-22",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2003-12-22",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2003-12-31",
+    "kind": "rebalance",
+    "amount": 0.7999999999999999
+  },
+  {
+    "date": "2004-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-01-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-02-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2004-02-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2004-03-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2004-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2004-03-22",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2004-03-22",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2004-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2004-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2004-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-08-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2004-08-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2004-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2004-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2004-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-11-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2004-11-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2004-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2004-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2004-12-31",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2005-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2005-01-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2005-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2005-02-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2005-03-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2005-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2005-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 41.42465753424656
+  },
+  {
+    "date": "2005-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 41.42465753424656
+  },
+  {
+    "date": "2005-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2005-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2005-05-23",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2005-05-23",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2005-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2005-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2005-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2005-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2005-08-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2005-08-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2005-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2005-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2005-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2005-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2005-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2005-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2005-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2005-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2005-12-30",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2006-01-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2006-01-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2006-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2006-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2006-03-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2006-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2006-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2006-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2006-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2006-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2006-05-22",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2006-05-22",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2006-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2006-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2006-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.027397260273965
+  },
+  {
+    "date": "2006-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.027397260273965
+  },
+  {
+    "date": "2006-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2006-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2006-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2006-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2006-10-23",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2006-10-23",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2006-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2006-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2006-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2006-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2006-12-29",
+    "kind": "collateral_out",
+    "amount": 187.9338414031954
+  },
+  {
+    "date": "2006-12-29",
+    "kind": "rebalance",
+    "amount": 0.7999999999999999
+  },
+  {
+    "date": "2007-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2007-01-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2007-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2007-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2007-03-05",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2007-03-12",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2007-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2007-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2007-04-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2007-04-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2007-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2007-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2007-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2007-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2007-07-23",
+    "kind": "credit_sale_repay",
+    "amount": 49.095890410958894
+  },
+  {
+    "date": "2007-07-23",
+    "kind": "monthly_interest_settled",
+    "amount": 49.095890410958894
+  },
+  {
+    "date": "2007-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2007-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2007-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2007-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2007-10-22",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2007-10-22",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2007-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2007-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2007-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2007-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2007-12-31",
+    "kind": "collateral_out",
+    "amount": 3582.81844223971
+  },
+  {
+    "date": "2007-12-31",
+    "kind": "rebalance",
+    "amount": 0.8000000000000003
+  },
+  {
+    "date": "2008-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.0958904109589
+  },
+  {
+    "date": "2008-01-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.0958904109589
+  },
+  {
+    "date": "2008-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2008-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2008-03-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2008-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2008-03-24",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2008-03-24",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2008-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2008-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2008-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2008-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2008-06-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2008-06-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2008-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2008-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2008-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2008-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2008-09-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2008-09-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2008-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2008-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2008-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2008-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2008-12-22",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2008-12-22",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2008-12-31",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2009-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2009-01-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2009-02-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2009-02-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2009-03-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2009-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2009-03-23",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2009-03-23",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2009-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2009-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2009-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2009-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2009-06-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2009-06-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2009-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2009-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2009-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2009-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2009-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2009-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2009-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2009-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2009-11-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2009-11-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2009-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2009-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2009-12-31",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2010-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2010-01-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2010-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2010-02-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2010-03-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2010-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2010-03-22",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2010-03-22",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2010-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2010-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2010-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2010-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2010-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2010-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2010-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2010-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2010-08-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2010-08-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2010-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2010-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2010-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2010-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2010-11-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2010-11-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2010-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2010-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2010-12-31",
+    "kind": "collateral_out",
+    "amount": 1718.4026734476356
+  },
+  {
+    "date": "2010-12-31",
+    "kind": "rebalance",
+    "amount": 0.8000000000000002
+  },
+  {
+    "date": "2011-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2011-01-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2011-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2011-02-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2011-03-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2011-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2011-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 41.42465753424656
+  },
+  {
+    "date": "2011-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 41.42465753424656
+  },
+  {
+    "date": "2011-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2011-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2011-05-23",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2011-05-23",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2011-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2011-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2011-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2011-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2011-08-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2011-08-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2011-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2011-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2011-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2011-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2011-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2011-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2011-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2011-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2011-12-30",
+    "kind": "collateral_out",
+    "amount": 754.4477804336784
+  },
+  {
+    "date": "2011-12-30",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2012-01-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2012-01-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2012-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2012-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2012-03-05",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2012-03-12",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2012-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2012-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2012-04-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2012-04-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2012-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2012-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2012-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2012-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2012-07-23",
+    "kind": "credit_sale_repay",
+    "amount": 49.095890410958894
+  },
+  {
+    "date": "2012-07-23",
+    "kind": "monthly_interest_settled",
+    "amount": 49.095890410958894
+  },
+  {
+    "date": "2012-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2012-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2012-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2012-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2012-10-22",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2012-10-22",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2012-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2012-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2012-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2012-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2012-12-31",
+    "kind": "collateral_out",
+    "amount": 3648.7349560801013
+  },
+  {
+    "date": "2012-12-31",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2013-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.0958904109589
+  },
+  {
+    "date": "2013-01-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.0958904109589
+  },
+  {
+    "date": "2013-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2013-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2013-03-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2013-03-11",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2013-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2013-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2013-04-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2013-04-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2013-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2013-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2013-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2013-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2013-07-22",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561643
+  },
+  {
+    "date": "2013-07-22",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561643
+  },
+  {
+    "date": "2013-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2013-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2013-09-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2013-09-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2013-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2013-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2013-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2013-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2013-12-23",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2013-12-23",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2013-12-31",
+    "kind": "collateral_out",
+    "amount": 10636.70761733879
+  },
+  {
+    "date": "2013-12-31",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2014-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2014-01-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2014-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2014-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2014-03-03",
+    "kind": "collateral_in",
+    "amount": 43107.17251088424
+  },
+  {
+    "date": "2014-03-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2014-03-04",
+    "kind": "borrow_for_living",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2014-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2014-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 69.04109589041094
+  },
+  {
+    "date": "2014-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 69.04109589041094
+  },
+  {
+    "date": "2014-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 95.12328767123284
+  },
+  {
+    "date": "2014-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 95.12328767123284
+  },
+  {
+    "date": "2014-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2014-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2014-06-23",
+    "kind": "credit_sale_repay",
+    "amount": 101.2602739726027
+  },
+  {
+    "date": "2014-06-23",
+    "kind": "monthly_interest_settled",
+    "amount": 101.2602739726027
+  },
+  {
+    "date": "2014-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 85.91780821917806
+  },
+  {
+    "date": "2014-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 85.91780821917806
+  },
+  {
+    "date": "2014-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 95.12328767123284
+  },
+  {
+    "date": "2014-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 95.12328767123284
+  },
+  {
+    "date": "2014-09-22",
+    "kind": "credit_sale_repay",
+    "amount": 98.19178082191777
+  },
+  {
+    "date": "2014-09-22",
+    "kind": "monthly_interest_settled",
+    "amount": 98.19178082191777
+  },
+  {
+    "date": "2014-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 88.98630136986299
+  },
+  {
+    "date": "2014-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 88.98630136986299
+  },
+  {
+    "date": "2014-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 95.12328767123284
+  },
+  {
+    "date": "2014-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 95.12328767123284
+  },
+  {
+    "date": "2014-12-22",
+    "kind": "credit_sale_repay",
+    "amount": 95.12328767123284
+  },
+  {
+    "date": "2014-12-22",
+    "kind": "monthly_interest_settled",
+    "amount": 95.12328767123284
+  },
+  {
+    "date": "2014-12-31",
+    "kind": "collateral_out",
+    "amount": 14303.847177083284
+  },
+  {
+    "date": "2014-12-31",
+    "kind": "rebalance",
+    "amount": 0.7999999999999999
+  },
+  {
+    "date": "2015-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2015-01-21",
+    "kind": "monthly_interest_settled",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2015-02-23",
+    "kind": "credit_sale_repay",
+    "amount": 101.2602739726027
+  },
+  {
+    "date": "2015-02-23",
+    "kind": "monthly_interest_settled",
+    "amount": 101.2602739726027
+  },
+  {
+    "date": "2015-03-03",
+    "kind": "collateral_in",
+    "amount": 43164.60796929171
+  },
+  {
+    "date": "2015-03-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2015-03-04",
+    "kind": "borrow_for_living",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2015-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2015-03-23",
+    "kind": "credit_sale_repay",
+    "amount": 115.0684931506849
+  },
+  {
+    "date": "2015-03-23",
+    "kind": "monthly_interest_settled",
+    "amount": 115.0684931506849
+  },
+  {
+    "date": "2015-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 133.47945205479448
+  },
+  {
+    "date": "2015-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 133.47945205479448
+  },
+  {
+    "date": "2015-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2015-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2015-06-22",
+    "kind": "credit_sale_repay",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2015-06-22",
+    "kind": "monthly_interest_settled",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2015-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 133.47945205479448
+  },
+  {
+    "date": "2015-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 133.47945205479448
+  },
+  {
+    "date": "2015-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2015-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2015-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2015-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2015-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2015-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2015-11-23",
+    "kind": "credit_sale_repay",
+    "amount": 151.89041095890406
+  },
+  {
+    "date": "2015-11-23",
+    "kind": "monthly_interest_settled",
+    "amount": 151.89041095890406
+  },
+  {
+    "date": "2015-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 128.8767123287671
+  },
+  {
+    "date": "2015-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 128.8767123287671
+  },
+  {
+    "date": "2015-12-31",
+    "kind": "collateral_out",
+    "amount": 10172.370176963828
+  },
+  {
+    "date": "2015-12-31",
+    "kind": "rebalance",
+    "amount": 0.7999999999999999
+  },
+  {
+    "date": "2016-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2016-01-21",
+    "kind": "monthly_interest_settled",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2016-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2016-02-22",
+    "kind": "monthly_interest_settled",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2016-03-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2016-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2016-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 128.8767123287671
+  },
+  {
+    "date": "2016-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 128.8767123287671
+  },
+  {
+    "date": "2016-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2016-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2016-05-23",
+    "kind": "credit_sale_repay",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2016-05-23",
+    "kind": "monthly_interest_settled",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2016-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 133.47945205479448
+  },
+  {
+    "date": "2016-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 133.47945205479448
+  },
+  {
+    "date": "2016-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2016-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2016-08-22",
+    "kind": "credit_sale_repay",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2016-08-22",
+    "kind": "monthly_interest_settled",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2016-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2016-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2016-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.0821917808219
+  },
+  {
+    "date": "2016-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 138.0821917808219
+  },
+  {
+    "date": "2016-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2016-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2016-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2016-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2016-12-30",
+    "kind": "collateral_out",
+    "amount": 6780.480320916424
+  },
+  {
+    "date": "2016-12-30",
+    "kind": "rebalance",
+    "amount": 0.8000000000000004
+  },
+  {
+    "date": "2017-01-23",
+    "kind": "credit_sale_repay",
+    "amount": 151.89041095890406
+  },
+  {
+    "date": "2017-01-23",
+    "kind": "monthly_interest_settled",
+    "amount": 151.89041095890406
+  },
+  {
+    "date": "2017-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 133.47945205479448
+  },
+  {
+    "date": "2017-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 133.47945205479448
+  },
+  {
+    "date": "2017-03-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2017-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2017-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 128.8767123287671
+  },
+  {
+    "date": "2017-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 128.8767123287671
+  },
+  {
+    "date": "2017-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2017-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2017-05-22",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2017-05-22",
+    "kind": "monthly_interest_settled",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2017-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2017-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2017-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082192
+  },
+  {
+    "date": "2017-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 138.08219178082192
+  },
+  {
+    "date": "2017-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2017-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2017-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2017-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2017-10-23",
+    "kind": "credit_sale_repay",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2017-10-23",
+    "kind": "monthly_interest_settled",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2017-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 133.47945205479448
+  },
+  {
+    "date": "2017-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 133.47945205479448
+  },
+  {
+    "date": "2017-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2017-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2017-12-29",
+    "kind": "collateral_out",
+    "amount": 32748.473595488613
+  },
+  {
+    "date": "2017-12-29",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2018-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2018-01-22",
+    "kind": "monthly_interest_settled",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2018-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2018-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2018-03-05",
+    "kind": "collateral_in",
+    "amount": 41127.43117498656
+  },
+  {
+    "date": "2018-03-06",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2018-03-06",
+    "kind": "borrow_for_living",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2018-03-12",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2018-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 151.89041095890408
+  },
+  {
+    "date": "2018-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 151.89041095890408
+  },
+  {
+    "date": "2018-04-23",
+    "kind": "credit_sale_repay",
+    "amount": 202.5205479452054
+  },
+  {
+    "date": "2018-04-23",
+    "kind": "monthly_interest_settled",
+    "amount": 202.5205479452054
+  },
+  {
+    "date": "2018-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 171.8356164383561
+  },
+  {
+    "date": "2018-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 171.8356164383561
+  },
+  {
+    "date": "2018-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2018-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2018-07-23",
+    "kind": "credit_sale_repay",
+    "amount": 196.38356164383558
+  },
+  {
+    "date": "2018-07-23",
+    "kind": "monthly_interest_settled",
+    "amount": 196.38356164383558
+  },
+  {
+    "date": "2018-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 177.97260273972597
+  },
+  {
+    "date": "2018-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 177.97260273972597
+  },
+  {
+    "date": "2018-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2018-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2018-10-22",
+    "kind": "credit_sale_repay",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2018-10-22",
+    "kind": "monthly_interest_settled",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2018-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 184.10958904109583
+  },
+  {
+    "date": "2018-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 184.10958904109583
+  },
+  {
+    "date": "2018-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 184.1095890410959
+  },
+  {
+    "date": "2018-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 184.1095890410959
+  },
+  {
+    "date": "2018-12-31",
+    "kind": "rebalance",
+    "amount": 0.8000000000000002
+  },
+  {
+    "date": "2019-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 196.3835616438356
+  },
+  {
+    "date": "2019-01-22",
+    "kind": "monthly_interest_settled",
+    "amount": 196.3835616438356
+  },
+  {
+    "date": "2019-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 184.10958904109583
+  },
+  {
+    "date": "2019-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 184.10958904109583
+  },
+  {
+    "date": "2019-03-04",
+    "kind": "collateral_in",
+    "amount": 31750.816497631895
+  },
+  {
+    "date": "2019-03-05",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2019-03-05",
+    "kind": "borrow_for_living",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2019-03-11",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2019-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 196.38356164383558
+  },
+  {
+    "date": "2019-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 196.38356164383558
+  },
+  {
+    "date": "2019-04-22",
+    "kind": "credit_sale_repay",
+    "amount": 245.47945205479448
+  },
+  {
+    "date": "2019-04-22",
+    "kind": "monthly_interest_settled",
+    "amount": 245.47945205479448
+  },
+  {
+    "date": "2019-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 222.46575342465746
+  },
+  {
+    "date": "2019-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 222.46575342465746
+  },
+  {
+    "date": "2019-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2019-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2019-07-22",
+    "kind": "credit_sale_repay",
+    "amount": 237.80821917808214
+  },
+  {
+    "date": "2019-07-22",
+    "kind": "monthly_interest_settled",
+    "amount": 237.80821917808214
+  },
+  {
+    "date": "2019-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 230.1369863013698
+  },
+  {
+    "date": "2019-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 230.1369863013698
+  },
+  {
+    "date": "2019-09-23",
+    "kind": "credit_sale_repay",
+    "amount": 253.15068493150676
+  },
+  {
+    "date": "2019-09-23",
+    "kind": "monthly_interest_settled",
+    "amount": 253.15068493150676
+  },
+  {
+    "date": "2019-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 214.79452054794515
+  },
+  {
+    "date": "2019-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 214.79452054794515
+  },
+  {
+    "date": "2019-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2019-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2019-12-23",
+    "kind": "credit_sale_repay",
+    "amount": 245.47945205479442
+  },
+  {
+    "date": "2019-12-23",
+    "kind": "monthly_interest_settled",
+    "amount": 245.47945205479442
+  },
+  {
+    "date": "2019-12-31",
+    "kind": "collateral_out",
+    "amount": 51647.75740397535
+  },
+  {
+    "date": "2019-12-31",
+    "kind": "rebalance",
+    "amount": 0.7999999999999999
+  },
+  {
+    "date": "2020-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 222.46575342465746
+  },
+  {
+    "date": "2020-01-21",
+    "kind": "monthly_interest_settled",
+    "amount": 222.46575342465746
+  },
+  {
+    "date": "2020-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2020-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2020-03-03",
+    "kind": "collateral_in",
+    "amount": 46426.00732203841
+  },
+  {
+    "date": "2020-03-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2020-03-04",
+    "kind": "borrow_for_living",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2020-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2020-03-23",
+    "kind": "credit_sale_repay",
+    "amount": 266.95890410958896
+  },
+  {
+    "date": "2020-03-23",
+    "kind": "monthly_interest_settled",
+    "amount": 266.95890410958896
+  },
+  {
+    "date": "2020-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 266.95890410958896
+  },
+  {
+    "date": "2020-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 266.95890410958896
+  },
+  {
+    "date": "2020-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 276.1643835616437
+  },
+  {
+    "date": "2020-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 276.1643835616437
+  },
+  {
+    "date": "2020-06-22",
+    "kind": "credit_sale_repay",
+    "amount": 294.5753424657534
+  },
+  {
+    "date": "2020-06-22",
+    "kind": "monthly_interest_settled",
+    "amount": 294.5753424657534
+  },
+  {
+    "date": "2020-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 266.95890410958896
+  },
+  {
+    "date": "2020-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 266.95890410958896
+  },
+  {
+    "date": "2020-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 285.36986301369853
+  },
+  {
+    "date": "2020-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 285.36986301369853
+  },
+  {
+    "date": "2020-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 285.36986301369853
+  },
+  {
+    "date": "2020-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 285.36986301369853
+  },
+  {
+    "date": "2020-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 276.1643835616437
+  },
+  {
+    "date": "2020-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 276.1643835616437
+  },
+  {
+    "date": "2020-11-23",
+    "kind": "credit_sale_repay",
+    "amount": 303.78082191780817
+  },
+  {
+    "date": "2020-11-23",
+    "kind": "monthly_interest_settled",
+    "amount": 303.78082191780817
+  },
+  {
+    "date": "2020-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 257.7534246575342
+  },
+  {
+    "date": "2020-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 257.7534246575342
+  },
+  {
+    "date": "2020-12-31",
+    "kind": "collateral_out",
+    "amount": 106566.14068997734
+  },
+  {
+    "date": "2020-12-31",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2021-01-05",
+    "kind": "credit_sale_repay",
+    "amount": 120138.08219178082
+  },
+  {
+    "date": "2021-01-05",
+    "kind": "clear_credit",
+    "amount": 120138.08219178082,
+    "reason": "credit_risk"
+  },
+  {
+    "date": "2021-01-05",
+    "kind": "collateral_out",
+    "amount": 258197.38235003376
+  },
+  {
+    "date": "2021-03-03",
+    "kind": "collateral_in",
+    "amount": 42000.0
+  },
+  {
+    "date": "2021-03-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2021-03-04",
+    "kind": "borrow_for_living",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2021-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2021-03-22",
+    "kind": "credit_sale_repay",
+    "amount": 27.61643835616438
+  },
+  {
+    "date": "2021-03-22",
+    "kind": "monthly_interest_settled",
+    "amount": 27.61643835616438
+  },
+  {
+    "date": "2021-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2021-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2021-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2021-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2021-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2021-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2021-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2021-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2021-08-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2021-08-23",
+    "kind": "monthly_interest_settled",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2021-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2021-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2021-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2021-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2021-11-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2021-11-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2021-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2021-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2021-12-31",
+    "kind": "collateral_out",
+    "amount": 8036.8185474787315
+  },
+  {
+    "date": "2021-12-31",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2022-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2022-01-21",
+    "kind": "monthly_interest_settled",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2022-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2022-02-22",
+    "kind": "monthly_interest_settled",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2022-03-03",
+    "kind": "collateral_in",
+    "amount": 47310.521574050304
+  },
+  {
+    "date": "2022-03-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2022-03-04",
+    "kind": "borrow_for_living",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2022-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2022-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 67.50684931506848
+  },
+  {
+    "date": "2022-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 67.50684931506848
+  },
+  {
+    "date": "2022-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 95.12328767123284
+  },
+  {
+    "date": "2022-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 95.12328767123284
+  },
+  {
+    "date": "2022-05-23",
+    "kind": "credit_sale_repay",
+    "amount": 98.19178082191777
+  },
+  {
+    "date": "2022-05-23",
+    "kind": "monthly_interest_settled",
+    "amount": 98.19178082191777
+  },
+  {
+    "date": "2022-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 88.98630136986299
+  },
+  {
+    "date": "2022-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 88.98630136986299
+  },
+  {
+    "date": "2022-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2022-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2022-08-22",
+    "kind": "credit_sale_repay",
+    "amount": 98.19178082191777
+  },
+  {
+    "date": "2022-08-22",
+    "kind": "monthly_interest_settled",
+    "amount": 98.19178082191777
+  },
+  {
+    "date": "2022-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2022-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2022-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2022-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2022-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 95.12328767123284
+  },
+  {
+    "date": "2022-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 95.12328767123284
+  },
+  {
+    "date": "2022-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2022-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2022-12-30",
+    "kind": "rebalance",
+    "amount": 0.7999999999999999
+  },
+  {
+    "date": "2023-01-23",
+    "kind": "credit_sale_repay",
+    "amount": 101.2602739726027
+  },
+  {
+    "date": "2023-01-23",
+    "kind": "monthly_interest_settled",
+    "amount": 101.2602739726027
+  },
+  {
+    "date": "2023-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 88.98630136986299
+  },
+  {
+    "date": "2023-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 88.98630136986299
+  },
+  {
+    "date": "2023-03-03",
+    "kind": "collateral_in",
+    "amount": 47904.112683553656
+  },
+  {
+    "date": "2023-03-06",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2023-03-06",
+    "kind": "borrow_for_living",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2023-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2023-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 108.93150684931504
+  },
+  {
+    "date": "2023-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 108.93150684931504
+  },
+  {
+    "date": "2023-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2023-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2023-05-22",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2023-05-22",
+    "kind": "monthly_interest_settled",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2023-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2023-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2023-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082192
+  },
+  {
+    "date": "2023-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 138.08219178082192
+  },
+  {
+    "date": "2023-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2023-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2023-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2023-09-21",
+    "kind": "monthly_interest_settled",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2023-10-23",
+    "kind": "credit_sale_repay",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2023-10-23",
+    "kind": "monthly_interest_settled",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2023-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 133.47945205479448
+  },
+  {
+    "date": "2023-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 133.47945205479448
+  },
+  {
+    "date": "2023-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2023-12-21",
+    "kind": "monthly_interest_settled",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2023-12-29",
+    "kind": "collateral_out",
+    "amount": 28678.313789223263
+  },
+  {
+    "date": "2023-12-29",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2024-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2024-01-22",
+    "kind": "monthly_interest_settled",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2024-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2024-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2024-03-04",
+    "kind": "collateral_in",
+    "amount": 41661.32594108602
+  },
+  {
+    "date": "2024-03-05",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2024-03-05",
+    "kind": "borrow_for_living",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2024-03-11",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2024-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 158.02739726027394
+  },
+  {
+    "date": "2024-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 158.02739726027394
+  },
+  {
+    "date": "2024-04-22",
+    "kind": "credit_sale_repay",
+    "amount": 196.38356164383555
+  },
+  {
+    "date": "2024-04-22",
+    "kind": "monthly_interest_settled",
+    "amount": 196.38356164383555
+  },
+  {
+    "date": "2024-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 177.97260273972597
+  },
+  {
+    "date": "2024-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 177.97260273972597
+  },
+  {
+    "date": "2024-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2024-06-21",
+    "kind": "monthly_interest_settled",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2024-07-22",
+    "kind": "credit_sale_repay",
+    "amount": 190.24657534246572
+  },
+  {
+    "date": "2024-07-22",
+    "kind": "monthly_interest_settled",
+    "amount": 190.24657534246572
+  },
+  {
+    "date": "2024-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 184.10958904109583
+  },
+  {
+    "date": "2024-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 184.10958904109583
+  },
+  {
+    "date": "2024-09-23",
+    "kind": "credit_sale_repay",
+    "amount": 202.5205479452054
+  },
+  {
+    "date": "2024-09-23",
+    "kind": "monthly_interest_settled",
+    "amount": 202.5205479452054
+  },
+  {
+    "date": "2024-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 171.8356164383561
+  },
+  {
+    "date": "2024-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 171.8356164383561
+  },
+  {
+    "date": "2024-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2024-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2024-12-23",
+    "kind": "credit_sale_repay",
+    "amount": 196.38356164383555
+  },
+  {
+    "date": "2024-12-23",
+    "kind": "monthly_interest_settled",
+    "amount": 196.38356164383555
+  },
+  {
+    "date": "2024-12-31",
+    "kind": "collateral_out",
+    "amount": 26030.31893830432
+  },
+  {
+    "date": "2024-12-31",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2025-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 177.97260273972597
+  },
+  {
+    "date": "2025-01-21",
+    "kind": "monthly_interest_settled",
+    "amount": 177.97260273972597
+  },
+  {
+    "date": "2025-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2025-02-21",
+    "kind": "monthly_interest_settled",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2025-03-03",
+    "kind": "collateral_in",
+    "amount": 51671.12829124555
+  },
+  {
+    "date": "2025-03-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2025-03-04",
+    "kind": "borrow_for_living",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2025-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2025-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 197.91780821917803
+  },
+  {
+    "date": "2025-03-21",
+    "kind": "monthly_interest_settled",
+    "amount": 197.91780821917803
+  },
+  {
+    "date": "2025-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2025-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2025-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 230.1369863013698
+  },
+  {
+    "date": "2025-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 230.1369863013698
+  },
+  {
+    "date": "2025-06-23",
+    "kind": "credit_sale_repay",
+    "amount": 253.15068493150676
+  },
+  {
+    "date": "2025-06-23",
+    "kind": "monthly_interest_settled",
+    "amount": 253.15068493150676
+  },
+  {
+    "date": "2025-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 214.79452054794515
+  },
+  {
+    "date": "2025-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 214.79452054794515
+  },
+  {
+    "date": "2025-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2025-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2025-09-22",
+    "kind": "credit_sale_repay",
+    "amount": 245.47945205479442
+  },
+  {
+    "date": "2025-09-22",
+    "kind": "monthly_interest_settled",
+    "amount": 245.47945205479442
+  },
+  {
+    "date": "2025-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 222.46575342465746
+  },
+  {
+    "date": "2025-10-21",
+    "kind": "monthly_interest_settled",
+    "amount": 222.46575342465746
+  },
+  {
+    "date": "2025-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2025-11-21",
+    "kind": "monthly_interest_settled",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2025-12-22",
+    "kind": "credit_sale_repay",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2025-12-22",
+    "kind": "monthly_interest_settled",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2025-12-31",
+    "kind": "collateral_out",
+    "amount": 41853.57954199938
+  },
+  {
+    "date": "2025-12-31",
+    "kind": "rebalance",
+    "amount": 0.8
+  },
+  {
+    "date": "2026-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 230.1369863013698
+  },
+  {
+    "date": "2026-01-21",
+    "kind": "monthly_interest_settled",
+    "amount": 230.1369863013698
+  },
+  {
+    "date": "2026-02-23",
+    "kind": "credit_sale_repay",
+    "amount": 253.15068493150676
+  },
+  {
+    "date": "2026-02-23",
+    "kind": "monthly_interest_settled",
+    "amount": 253.15068493150676
+  },
+  {
+    "date": "2026-03-03",
+    "kind": "collateral_in",
+    "amount": 59040.68527318287
+  },
+  {
+    "date": "2026-03-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2026-03-04",
+    "kind": "borrow_for_living",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2026-03-10",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2026-03-23",
+    "kind": "credit_sale_repay",
+    "amount": 243.945205479452
+  },
+  {
+    "date": "2026-03-23",
+    "kind": "monthly_interest_settled",
+    "amount": 243.945205479452
+  },
+  {
+    "date": "2026-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 266.95890410958896
+  },
+  {
+    "date": "2026-04-21",
+    "kind": "monthly_interest_settled",
+    "amount": 266.95890410958896
+  },
+  {
+    "date": "2026-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 276.1643835616437
+  },
+  {
+    "date": "2026-05-21",
+    "kind": "monthly_interest_settled",
+    "amount": 276.1643835616437
+  },
+  {
+    "date": "2026-06-22",
+    "kind": "credit_sale_repay",
+    "amount": 294.5753424657534
+  },
+  {
+    "date": "2026-06-22",
+    "kind": "monthly_interest_settled",
+    "amount": 294.5753424657534
+  },
+  {
+    "date": "2026-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 266.95890410958896
+  },
+  {
+    "date": "2026-07-21",
+    "kind": "monthly_interest_settled",
+    "amount": 266.95890410958896
+  },
+  {
+    "date": "2026-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 285.36986301369853
+  },
+  {
+    "date": "2026-08-21",
+    "kind": "monthly_interest_settled",
+    "amount": 285.36986301369853
+  }
+]

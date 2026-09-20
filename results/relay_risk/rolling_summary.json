@@ -1,0 +1,110 @@
+[
+  {
+    "candidate": "base",
+    "years": 10,
+    "n": 71,
+    "failures": 0,
+    "min_mmr": 1.5205498549492222,
+    "min_cash_years": 11.140831229666457,
+    "median_relative_net": 0.0
+  },
+  {
+    "candidate": "base",
+    "years": 20,
+    "n": 31,
+    "failures": 0,
+    "min_mmr": 1.5205498549492222,
+    "min_cash_years": 9.570291977212072,
+    "median_relative_net": 0.0
+  },
+  {
+    "candidate": "borrow350",
+    "years": 10,
+    "n": 71,
+    "failures": 0,
+    "min_mmr": 1.7182990234198636,
+    "min_cash_years": 10.017004052193872,
+    "median_relative_net": 0.0
+  },
+  {
+    "candidate": "borrow350",
+    "years": 20,
+    "n": 31,
+    "failures": 0,
+    "min_mmr": 1.7182990234198636,
+    "min_cash_years": 8.40112561517721,
+    "median_relative_net": 0.0
+  },
+  {
+    "candidate": "borrow400",
+    "years": 10,
+    "n": 71,
+    "failures": 0,
+    "min_mmr": 1.9519515527022064,
+    "min_cash_years": 8.993889125195883,
+    "median_relative_net": 0.0
+  },
+  {
+    "candidate": "borrow400",
+    "years": 20,
+    "n": 31,
+    "failures": 0,
+    "min_mmr": 1.9519515527022064,
+    "min_cash_years": 8.366753811192474,
+    "median_relative_net": 0.0
+  },
+  {
+    "candidate": "both350",
+    "years": 10,
+    "n": 71,
+    "failures": 0,
+    "min_mmr": 1.7237431473880964,
+    "min_cash_years": 10.017004052193872,
+    "median_relative_net": 0.0
+  },
+  {
+    "candidate": "both350",
+    "years": 20,
+    "n": 31,
+    "failures": 0,
+    "min_mmr": 1.7237431473880964,
+    "min_cash_years": 8.40112561517721,
+    "median_relative_net": 0.0
+  },
+  {
+    "candidate": "own3years",
+    "years": 10,
+    "n": 71,
+    "failures": 0,
+    "min_mmr": 1.5205498549492222,
+    "min_cash_years": 11.140831229666457,
+    "median_relative_net": 0.0
+  },
+  {
+    "candidate": "own3years",
+    "years": 20,
+    "n": 31,
+    "failures": 0,
+    "min_mmr": 1.5205498549492222,
+    "min_cash_years": 9.570291977212072,
+    "median_relative_net": 0.0
+  },
+  {
+    "candidate": "cashfloor20",
+    "years": 10,
+    "n": 71,
+    "failures": 0,
+    "min_mmr": 1.4939460203005437,
+    "min_cash_years": 11.544445582088702,
+    "median_relative_net": -0.00047953958584556755
+  },
+  {
+    "candidate": "cashfloor20",
+    "years": 20,
+    "n": 31,
+    "failures": 0,
+    "min_mmr": 1.4939460203005437,
+    "min_cash_years": 10.080841024238326,
+    "median_relative_net": -0.02752920981357143
+  }
+]

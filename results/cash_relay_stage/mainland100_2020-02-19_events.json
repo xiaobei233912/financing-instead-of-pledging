@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2020-02-19",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 50.00000000000001,
+    "margin": 666000.0
+  },
+  {
+    "date": "2020-02-20",
+    "kind": "ordinary_sale",
+    "amount": 19956.118780018278
+  },
+  {
+    "date": "2020-02-20",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 19956.118780018278,
+    "asset": "c"
+  },
+  {
+    "date": "2020-02-21",
+    "kind": "failure",
+    "amount": 0.0,
+    "reason": "LiquidityFailure"
+  }
+]

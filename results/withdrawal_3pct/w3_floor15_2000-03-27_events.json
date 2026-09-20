@@ -1,0 +1,894 @@
+[
+  {
+    "date": "2000-03-27",
+    "kind": "finance_and_transfer",
+    "amount": 30000.0,
+    "ratio": 23.333333333333332,
+    "margin": 438999.99999999994
+  },
+  {
+    "date": "2000-03-28",
+    "kind": "ordinary_sale",
+    "amount": 29804.940080471395
+  },
+  {
+    "date": "2000-03-28",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2000-03-29",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2001-01-02",
+    "kind": "finance_and_transfer",
+    "amount": 30000.0,
+    "ratio": 5.740499180952685,
+    "margin": 136529.00127310527
+  },
+  {
+    "date": "2001-01-03",
+    "kind": "ordinary_sale",
+    "amount": 26734.2590464375
+  },
+  {
+    "date": "2001-01-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2001-01-04",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2001-01-04",
+    "kind": "rebalance_decision",
+    "amount": 0,
+    "buy": 0,
+    "requested_sale": 0,
+    "unfilled_sale": 0,
+    "prior_profit": -353167.3011365802,
+    "cash_before": 301177.7026586427,
+    "ratio_after": 6.039780878537002
+  },
+  {
+    "date": "2002-01-02",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 3.7742373412022583
+  },
+  {
+    "date": "2002-01-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2002-01-04",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2002-01-04",
+    "kind": "rebalance_decision",
+    "amount": 0,
+    "buy": 0,
+    "requested_sale": 0,
+    "unfilled_sale": 0,
+    "prior_profit": -118981.35681549144,
+    "cash_before": 277199.62905445974,
+    "ratio_after": 4.000655045284614
+  },
+  {
+    "date": "2003-01-02",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 2.2959384529386617
+  },
+  {
+    "date": "2003-01-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2003-01-06",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2003-01-06",
+    "kind": "rebalance_decision",
+    "amount": 0,
+    "buy": 0,
+    "requested_sale": 0,
+    "unfilled_sale": 0,
+    "prior_profit": -86437.4251105402,
+    "cash_before": 252769.4198798716,
+    "ratio_after": 2.3872005985815226
+  },
+  {
+    "date": "2004-01-02",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 3.3191123852944995
+  },
+  {
+    "date": "2004-01-05",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2004-01-06",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2004-01-06",
+    "kind": "rebalance_decision",
+    "amount": 0,
+    "buy": 0,
+    "requested_sale": 0,
+    "unfilled_sale": 0,
+    "prior_profit": 71957.31665072539,
+    "cash_before": 227823.18062011304,
+    "ratio_after": 3.3561979507517856
+  },
+  {
+    "date": "2005-01-03",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 3.5725479837811154
+  },
+  {
+    "date": "2005-01-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2005-01-05",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2005-01-05",
+    "kind": "rebalance_decision",
+    "amount": 0,
+    "buy": 0,
+    "requested_sale": 0,
+    "unfilled_sale": 0,
+    "prior_profit": 22850.8267704093,
+    "cash_before": 202378.01657515965,
+    "ratio_after": 3.446428523016418
+  },
+  {
+    "date": "2006-01-03",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 3.546124515342374
+  },
+  {
+    "date": "2006-01-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2006-01-05",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2006-01-05",
+    "kind": "rebalance_decision",
+    "amount": 0,
+    "buy": 0,
+    "requested_sale": 0,
+    "unfilled_sale": 0,
+    "prior_profit": 3752.198865651768,
+    "cash_before": 176423.94924930707,
+    "ratio_after": 3.64159751948958
+  },
+  {
+    "date": "2007-01-03",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 3.7129535112220258
+  },
+  {
+    "date": "2007-01-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2007-01-05",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2007-01-05",
+    "kind": "rebalance_decision",
+    "amount": 0,
+    "buy": 0,
+    "requested_sale": 0,
+    "unfilled_sale": 0,
+    "prior_profit": 17391.109773847787,
+    "cash_before": 149950.80057693744,
+    "ratio_after": 3.7543286177918582
+  },
+  {
+    "date": "2008-01-02",
+    "kind": "finance_and_transfer",
+    "amount": 30000.0,
+    "ratio": 3.034423780454496,
+    "margin": 46149.25437969326
+  },
+  {
+    "date": "2008-01-03",
+    "kind": "ordinary_sale",
+    "amount": 29496.782497484935
+  },
+  {
+    "date": "2008-01-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2008-01-04",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2008-01-04",
+    "kind": "rebalance_decision",
+    "amount": 0,
+    "buy": 0,
+    "requested_sale": 0,
+    "unfilled_sale": 0,
+    "prior_profit": 49630.184572842365,
+    "cash_before": 152438.27390417646,
+    "ratio_after": 2.9476165373935115
+  },
+  {
+    "date": "2008-11-19",
+    "kind": "rescue_cash_in",
+    "amount": 46113.34042265153,
+    "target": 2,
+    "arrival_step": 2177
+  },
+  {
+    "date": "2009-01-02",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 2.1650465366995792
+  },
+  {
+    "date": "2009-01-05",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2009-01-06",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2009-01-06",
+    "kind": "rebalance_decision",
+    "amount": 0,
+    "buy": 0,
+    "requested_sale": 0,
+    "unfilled_sale": 0,
+    "prior_profit": -130047.89612268604,
+    "cash_before": 79277.13664639914,
+    "ratio_after": 2.251502462659404
+  },
+  {
+    "date": "2010-01-04",
+    "kind": "rescue_cash_return",
+    "amount": 8126.520259913057
+  },
+  {
+    "date": "2010-01-04",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 3.0
+  },
+  {
+    "date": "2010-01-05",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2010-01-06",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2010-01-06",
+    "kind": "rebalance_decision",
+    "amount": 391.0212250245386,
+    "buy": 0,
+    "requested_sale": 16531.762086118746,
+    "unfilled_sale": 16140.740861094208,
+    "prior_profit": 98930.00200461352,
+    "cash_before": 58988.45381850441,
+    "ratio_after": 3.0
+  },
+  {
+    "date": "2010-01-07",
+    "kind": "ordinary_sale",
+    "amount": 389.4199598130828
+  },
+  {
+    "date": "2011-01-03",
+    "kind": "rescue_cash_return",
+    "amount": 39804.99184551439
+  },
+  {
+    "date": "2011-01-03",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 3.0812672063550686
+  },
+  {
+    "date": "2011-01-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2011-01-05",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2011-01-05",
+    "kind": "rebalance_decision",
+    "amount": 9698.126403664588,
+    "buy": 0,
+    "requested_sale": 52649.58640049468,
+    "unfilled_sale": 42951.45999683009,
+    "prior_profit": 56296.85119263027,
+    "cash_before": 70369.80745604995,
+    "ratio_after": 3.0
+  },
+  {
+    "date": "2011-01-06",
+    "kind": "ordinary_sale",
+    "amount": 9821.328808982762
+  },
+  {
+    "date": "2012-01-03",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 3.0578980354082153
+  },
+  {
+    "date": "2012-01-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2012-01-05",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2012-01-05",
+    "kind": "rebalance_decision",
+    "amount": 7137.45745839749,
+    "buy": 0,
+    "requested_sale": 67153.29944346606,
+    "unfilled_sale": 60015.841985068575,
+    "prior_profit": 11572.622619463049,
+    "cash_before": 51792.787846690226,
+    "ratio_after": 3.0
+  },
+  {
+    "date": "2012-01-06",
+    "kind": "ordinary_sale",
+    "amount": 7212.561885733582
+  },
+  {
+    "date": "2013-01-02",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 3.477207015805964
+  },
+  {
+    "date": "2013-01-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2013-01-04",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2013-01-04",
+    "kind": "rebalance_decision",
+    "amount": 55748.33793267078,
+    "buy": 0,
+    "requested_sale": 99131.11411646073,
+    "unfilled_sale": 43382.776183789945,
+    "prior_profit": 60087.991556531386,
+    "cash_before": 30183.429945671684,
+    "ratio_after": 3.0
+  },
+  {
+    "date": "2013-01-07",
+    "kind": "ordinary_sale",
+    "amount": 55398.26804180178
+  },
+  {
+    "date": "2014-01-02",
+    "kind": "finance_and_transfer",
+    "amount": 30000.0,
+    "ratio": 3.0978213801494188,
+    "margin": 86587.69012228787
+  },
+  {
+    "date": "2014-01-03",
+    "kind": "ordinary_sale",
+    "amount": 29904.049995609923
+  },
+  {
+    "date": "2014-01-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2014-01-06",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2014-01-06",
+    "kind": "rebalance_decision",
+    "amount": 9676.294588193996,
+    "buy": 0,
+    "requested_sale": 74688.26532223227,
+    "unfilled_sale": 65011.970734038274,
+    "prior_profit": 124231.15259623926,
+    "cash_before": 87197.64154517498,
+    "ratio_after": 3.0
+  },
+  {
+    "date": "2014-01-07",
+    "kind": "ordinary_sale",
+    "amount": 9682.991477766664
+  },
+  {
+    "date": "2015-01-02",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 3.566690118055895
+  },
+  {
+    "date": "2015-01-05",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2015-01-06",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2015-01-06",
+    "kind": "rebalance_decision",
+    "amount": 74097.78119098162,
+    "buy": 0,
+    "requested_sale": 109905.80284820567,
+    "unfilled_sale": 35808.021657224046,
+    "prior_profit": 85964.39911615131,
+    "cash_before": 68816.08219497843,
+    "ratio_after": 3.0
+  },
+  {
+    "date": "2015-01-07",
+    "kind": "ordinary_sale",
+    "amount": 73477.74513766325
+  },
+  {
+    "date": "2016-01-04",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 3.1944362947250307
+  },
+  {
+    "date": "2016-01-05",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2016-01-06",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2016-01-06",
+    "kind": "rebalance_decision",
+    "amount": 20756.98435757641,
+    "buy": 0,
+    "requested_sale": 64505.01422378514,
+    "unfilled_sale": 43748.02986620873,
+    "prior_profit": 41592.5411672953,
+    "cash_before": 115134.0101584053,
+    "ratio_after": 3.0
+  },
+  {
+    "date": "2016-01-07",
+    "kind": "ordinary_sale",
+    "amount": 20474.841018916508
+  },
+  {
+    "date": "2017-01-03",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 3.296959675754661
+  },
+  {
+    "date": "2017-01-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2017-01-05",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2017-01-05",
+    "kind": "rebalance_decision",
+    "amount": 50375.51950346847,
+    "buy": 0,
+    "requested_sale": 81185.59461435553,
+    "unfilled_sale": 30810.07511088706,
+    "prior_profit": 33075.77807631036,
+    "cash_before": 108318.26752011529,
+    "ratio_after": 3.0
+  },
+  {
+    "date": "2017-01-06",
+    "kind": "ordinary_sale",
+    "amount": 50753.02724107154
+  },
+  {
+    "date": "2018-01-02",
+    "kind": "finance_and_transfer",
+    "amount": 30000.0,
+    "ratio": 3.2576626151147487,
+    "margin": 139542.19532092792
+  },
+  {
+    "date": "2018-01-03",
+    "kind": "ordinary_sale",
+    "amount": 30398.58466114942
+  },
+  {
+    "date": "2018-01-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2018-01-04",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2018-01-04",
+    "kind": "rebalance_decision",
+    "amount": 65119.477456149645,
+    "buy": 0,
+    "requested_sale": 77603.62561684998,
+    "unfilled_sale": 12484.148160700337,
+    "prior_profit": 153467.09702766445,
+    "cash_before": 162639.71597376702,
+    "ratio_after": 3.0000000000000004
+  },
+  {
+    "date": "2018-01-05",
+    "kind": "ordinary_sale",
+    "amount": 65318.17471096815
+  },
+  {
+    "date": "2019-01-02",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 2.7837973264299087
+  },
+  {
+    "date": "2019-01-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2019-01-04",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2019-01-04",
+    "kind": "rebalance_decision",
+    "amount": 0,
+    "buy": 0,
+    "requested_sale": 22713.65818145091,
+    "unfilled_sale": 22713.65818145091,
+    "prior_profit": 1850.2668812434126,
+    "cash_before": 202511.80630652636,
+    "ratio_after": 2.8083561224801454
+  },
+  {
+    "date": "2020-01-02",
+    "kind": "finance_and_transfer",
+    "amount": 30000.0,
+    "ratio": 3.391274526422501,
+    "margin": 189163.03414960467
+  },
+  {
+    "date": "2020-01-03",
+    "kind": "ordinary_sale",
+    "amount": 29846.08523195395
+  },
+  {
+    "date": "2020-01-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2020-01-06",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2020-01-06",
+    "kind": "rebalance_decision",
+    "amount": 82696.52056045062,
+    "buy": 0,
+    "requested_sale": 86812.174832621,
+    "unfilled_sale": 4115.654272170388,
+    "prior_profit": 216294.7131768617,
+    "cash_before": 206430.51736775617,
+    "ratio_after": 3.0
+  },
+  {
+    "date": "2020-01-07",
+    "kind": "ordinary_sale",
+    "amount": 83918.48050994013
+  },
+  {
+    "date": "2021-01-04",
+    "kind": "finance_and_transfer",
+    "amount": 30000.0,
+    "ratio": 3.881427710578418,
+    "margin": 307104.66221725673
+  },
+  {
+    "date": "2021-01-05",
+    "kind": "ordinary_sale",
+    "amount": 29350.69907776414
+  },
+  {
+    "date": "2021-01-05",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2021-01-06",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2021-01-06",
+    "kind": "rebalance_decision",
+    "amount": 93174.28082011105,
+    "buy": 0,
+    "requested_sale": 93174.28082011105,
+    "unfilled_sale": 0,
+    "prior_profit": 334400.65346883173,
+    "cash_before": 295518.0656221315,
+    "ratio_after": 3.4288149932913856
+  },
+  {
+    "date": "2021-01-07",
+    "kind": "ordinary_sale",
+    "amount": 94169.73702941285
+  },
+  {
+    "date": "2022-01-03",
+    "kind": "finance_and_transfer",
+    "amount": 30000.0,
+    "ratio": 3.944085493348312,
+    "margin": 360855.9705522592
+  },
+  {
+    "date": "2022-01-04",
+    "kind": "ordinary_sale",
+    "amount": 30239.820850990116
+  },
+  {
+    "date": "2022-01-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2022-01-05",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2022-01-05",
+    "kind": "rebalance_decision",
+    "amount": 73145.08591586538,
+    "buy": 0,
+    "requested_sale": 73145.08591586538,
+    "unfilled_sale": 0,
+    "prior_profit": 252443.2876865864,
+    "cash_before": 397694.6174568881,
+    "ratio_after": 3.6574971743748015
+  },
+  {
+    "date": "2022-01-06",
+    "kind": "ordinary_sale",
+    "amount": 70862.19799245683
+  },
+  {
+    "date": "2023-01-03",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 2.452967440943362
+  },
+  {
+    "date": "2023-01-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2023-01-05",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2023-01-05",
+    "kind": "rebalance_decision",
+    "amount": 0,
+    "buy": 0,
+    "requested_sale": 0,
+    "unfilled_sale": 0,
+    "prior_profit": -363338.466142445,
+    "cash_before": 447922.40277488355,
+    "ratio_after": 2.4105853518188316
+  },
+  {
+    "date": "2024-01-02",
+    "kind": "finance_and_transfer",
+    "amount": 30000.0,
+    "ratio": 3.332850738325449,
+    "margin": 269232.14576342906
+  },
+  {
+    "date": "2024-01-03",
+    "kind": "ordinary_sale",
+    "amount": 29563.13008685454
+  },
+  {
+    "date": "2024-01-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2024-01-04",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2024-01-04",
+    "kind": "rebalance_decision",
+    "amount": 16256.996579368366,
+    "buy": 0,
+    "requested_sale": 16256.996579368366,
+    "unfilled_sale": 0,
+    "prior_profit": 409531.0812394526,
+    "cash_before": 456419.17037698795,
+    "ratio_after": 3.207977367107581
+  },
+  {
+    "date": "2024-01-05",
+    "kind": "ordinary_sale",
+    "amount": 16257.407209319135
+  },
+  {
+    "date": "2025-01-02",
+    "kind": "finance_and_transfer",
+    "amount": 30000.0,
+    "ratio": 3.7743160474695627,
+    "margin": 416171.52616123983
+  },
+  {
+    "date": "2025-01-03",
+    "kind": "ordinary_sale",
+    "amount": 29944.58052122148
+  },
+  {
+    "date": "2025-01-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2025-01-06",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2025-01-06",
+    "kind": "rebalance_decision",
+    "amount": 100000.45482617125,
+    "buy": 0,
+    "requested_sale": 102445.63478593598,
+    "unfilled_sale": 2445.179959764733,
+    "prior_profit": 290440.3749096486,
+    "cash_before": 482152.2593696894,
+    "ratio_after": 3.582551715740275
+  },
+  {
+    "date": "2025-01-07",
+    "kind": "ordinary_sale",
+    "amount": 100300.05571810722
+  },
+  {
+    "date": "2026-01-02",
+    "kind": "finance_paused",
+    "amount": 30000.0,
+    "ratio": 4.169821560975541
+  },
+  {
+    "date": "2026-01-05",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 30000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2026-01-06",
+    "kind": "living_payment",
+    "amount": 30000.0
+  },
+  {
+    "date": "2026-01-06",
+    "kind": "rebalance_decision",
+    "amount": 0.0,
+    "buy": 0,
+    "requested_sale": 92027.73979048501,
+    "unfilled_sale": 92027.73979048501,
+    "prior_profit": 279614.86883435654,
+    "cash_before": 564094.1833931342,
+    "ratio_after": 4.163256688609621
+  }
+]

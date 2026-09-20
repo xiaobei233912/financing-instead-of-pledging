@@ -1,0 +1,28 @@
+{
+  "B_hang": {
+    "strategy": "B_ideal",
+    "start": "2000-03-27",
+    "end_actual": "2026-09-04",
+    "failure": null,
+    "final_net": 5339216.996245422,
+    "final_debt": 708526.68493151,
+    "interest": 188526.68493151,
+    "living": 540000.0,
+    "min_mmr": 2.337879711718691,
+    "max_debt": 708526.68493151,
+    "convention": "startup self-funded; later anniversary spending; simple unpaid accrued interest; calendar year-end rebalancing"
+  },
+  "B_capitalize": {
+    "strategy": "B_ideal",
+    "start": "2000-03-27",
+    "end_actual": "2026-09-04",
+    "failure": null,
+    "final_net": 5284262.013051074,
+    "final_debt": 763481.6681258583,
+    "interest": 243481.66812585917,
+    "living": 540000.0,
+    "min_mmr": 2.3184448380833795,
+    "max_debt": 763481.6681258583,
+    "convention": "startup self-funded; later anniversary spending; monthly interest capitalization; calendar year-end rebalancing"
+  }
+}

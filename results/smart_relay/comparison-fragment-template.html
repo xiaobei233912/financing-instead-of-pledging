@@ -1,0 +1,125 @@
+<div id="relay-smart-comparison">
+  <h2>70/30现金接力：智能与比例再平衡</h2>
+  <div class="text-small">2000-03-27至2026-09-08 · 初始100万元 · 年开销2万元 · 智能版提取盈利50%</div>
+  <div class="series-legend" aria-label="策略图例"></div>
+  <div class="plots"></div>
+  <label class="form-label" for="relay-year-select">年度账户明细</label>
+  <select class="form-select" id="relay-year-select"></select>
+  <div class="year-detail table-responsive" aria-live="polite"></div>
+  <h3>每一年是否融资及再平衡金额</h3>
+  <div class="financing-table table-responsive"></div>
+  <div class="tooltip" role="tooltip" hidden></div>
+</div>
+<style>
+#relay-smart-comparison{position:relative;color:var(--foreground)}
+#relay-smart-comparison .series-legend{display:flex;gap:20px;flex-wrap:wrap;margin:12px 0}
+#relay-smart-comparison .series-legend button{background:transparent;border:0;color:var(--foreground);padding:4px 0;cursor:pointer;font:inherit}
+#relay-smart-comparison .swatch{display:inline-block;width:22px;height:3px;vertical-align:middle;margin-right:6px}
+#relay-smart-comparison .plots{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 18px}
+#relay-smart-comparison .plot-title{font-weight:500;margin:8px 0}
+#relay-smart-comparison .plot-svg{display:block;width:100%;overflow:visible}
+#relay-smart-comparison .plot-svg text{fill:var(--foreground);font-size:12px}
+#relay-smart-comparison .plot-svg .domain,#relay-smart-comparison .plot-svg .tick line{stroke:var(--border)}
+#relay-smart-comparison .tooltip{position:absolute;pointer-events:none;z-index:4;background:var(--popover);color:var(--popover-foreground);border:1px solid var(--border);padding:8px 12px}
+#relay-smart-comparison select{width:auto;margin-bottom:12px}
+#relay-smart-comparison td,#relay-smart-comparison th{font-variant-numeric:tabular-nums}
+@media(max-width:650px){#relay-smart-comparison .plots{grid-template-columns:minmax(0,1fr)}}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script>
+(() => {
+const root=document.getElementById('relay-smart-comparison');
+const data=__RELAY_DATA__;
+const series=[{id:'proportional',label:'比例再平衡',color:'var(--viz-series-1)'},{id:'smart',label:'智能再平衡50%',color:'var(--viz-series-2)'}];
+const visible=new Set(series.map(s=>s.id));
+const panels=[
+  {key:'ordinary_cash',title:'普通账户现金',unit:'万元',div:10000,refs:[30]},
+  {key:'credit_stock',title:'信用账户股票总市值',unit:'万元',div:10000},
+  {key:'debt',title:'信用债务（本金＋挂息）',unit:'万元',div:10000},
+  {key:'net',title:'合计净资产',unit:'万元',div:10000},
+  {key:'mmr',title:'年末信用维持率',unit:'%（对数轴）',div:.01,log:true,refs:[140,300]},
+  {key:'min_mmr',title:'年内最低信用维持率',unit:'%（对数轴）',div:.01,log:true,refs:[140,300]}
+];
+const fmt=n=>n.toLocaleString('zh-CN',{maximumFractionDigits:2,minimumFractionDigits:2});
+const money=n=>fmt(n/10000);
+const tooltip=root.querySelector('[role=tooltip]');
+let pin=false;
+for(const s of series){
+  const b=document.createElement('button');b.type='button';b.setAttribute('aria-pressed','true');
+  b.innerHTML=`<span class="swatch" style="background:${s.color}"></span>${s.label}`;
+  b.addEventListener('click',()=>{if(visible.has(s.id))visible.delete(s.id);else visible.add(s.id);b.setAttribute('aria-pressed',String(visible.has(s.id)));b.style.textDecoration=visible.has(s.id)?'none':'line-through';drawAll()});
+  root.querySelector('.series-legend').append(b);
+}
+const plots=panels.map(p=>{
+  const el=document.createElement('div');el.innerHTML=`<div class="plot-title">${p.title}</div><svg class="plot-svg" role="img" aria-label="${p.title}：两种策略逐年对比"></svg>`;
+  root.querySelector('.plots').append(el);return {p,el};
+});
+function draw({p,el}){
+  const w=el.clientWidth,h=230,left=68,right=w-12,top=26,bottom=h-48;
+  if(w<100)return;
+  const svg=d3.select(el.querySelector('svg')).attr('viewBox',`0 0 ${w} ${h}`).attr('height',h);svg.selectAll('*').remove();
+  svg.append('title').text(p.title+'；虚线为门槛，年内最低维持率包含日内低点');
+  const vals=series.flatMap(s=>data[s.id].map(d=>({x:d.year,y:d[p.key]/p.div}))),refs=p.refs||[];
+  let [lo,hi]=d3.extent(vals.map(d=>d.y).concat(refs));
+  if(p.log){lo*=.88;hi*=1.15;}else {const pad=(hi-lo||1)*.08;lo=Math.max(0,lo-pad);hi+=pad;}
+  const y=(p.log?d3.scaleLog():d3.scaleLinear()).domain([lo,hi]).range([bottom-4,top+4]);
+  const x=d3.scaleLinear().domain(d3.extent(vals,d=>d.x)).range([left+4,right-4]);
+  const xticks=w<400?[2000,2010,2020,2026]:[2000,2005,2010,2015,2020,2026];
+  const ytick=p.log?[140,300,600,1200,2400].filter(v=>v>=lo&&v<=hi):y.ticks(4);
+  const gx=svg.append('g').attr('transform',`translate(0,${bottom})`).call(d3.axisBottom(x).tickValues(xticks).tickFormat(d3.format('d')));
+  const gy=svg.append('g').attr('transform',`translate(${left},0)`).call(d3.axisLeft(y).tickValues(ytick).tickFormat(d3.format('~g')));
+  gx.selectAll('text').attr('text-anchor',(d,i)=>i===0?'start':i===xticks.length-1?'end':'middle');
+  svg.append('rect').attr('data-chart-frame','').attr('x',left).attr('y',top).attr('width',right-left).attr('height',bottom-top).attr('fill','none').attr('stroke','var(--border)');
+  svg.append('text').attr('class','axis-title').attr('data-axis','y').attr('x',left).attr('y',14).text(p.unit);
+  svg.append('text').attr('class','axis-title').attr('data-axis','x').attr('x',(left+right)/2).attr('y',h-9).attr('text-anchor','middle').text('年份（2026截至9月8日）');
+  for(const v of refs){svg.append('line').attr('x1',left).attr('x2',right).attr('y1',y(v)).attr('y2',y(v)).attr('stroke','var(--muted-foreground)').attr('stroke-dasharray',v===140?'2 4':'6 4');}
+  for(const s of series.filter(s=>visible.has(s.id))){
+    const vv=data[s.id].map(d=>({x:d.year,y:d[p.key]/p.div}));
+    svg.append('path').datum(vv).attr('d',d3.line().x(d=>x(d.x)).y(d=>y(d.y))).attr('fill','none').attr('stroke',s.color).attr('stroke-width',2).attr('stroke-dasharray',s.id==='smart'?'6 2':null);
+    svg.append('g').selectAll('circle').data(vv).join('circle').attr('cx',d=>x(d.x)).attr('cy',d=>y(d.y)).attr('r',2.5).attr('fill',s.color);
+  }
+  const guide=svg.append('line').attr('data-chart-hover-guide','').attr('y1',top).attr('y2',bottom).attr('stroke','var(--foreground)').attr('stroke-dasharray','2 3').attr('visibility','hidden');
+  const markerGroup=svg.append('g');
+  function move(event){
+    const [px]=d3.pointer(event,svg.node());const cx=Math.max(x.range()[0],Math.min(x.range()[1],px));const xx=x.invert(cx);
+    guide.attr('x1',cx).attr('x2',cx).attr('visibility','visible');markerGroup.selectAll('*').remove();
+    let lines=[`${p.title} · ${xx.toFixed(2)}年（线性插值）`];
+    for(const s of series.filter(s=>visible.has(s.id))){
+      const values=data[s.id].map(d=>({x:d.year,y:d[p.key]/p.div}));
+      const near=d3.bisector(d=>d.x).center(values,xx);
+      const j=Math.min(values.length-2,Math.max(0,values[near].x<=xx?near:near-1));
+      const v0=values[j],v1=values[j+1];const yy=v0.y+(v1.y-v0.y)*(xx-v0.x)/(v1.x-v0.x);
+      markerGroup.append('circle').attr('data-chart-hover-marker',s.id).attr('cx',cx).attr('cy',y(yy)).attr('r',4).attr('fill',s.color).attr('stroke','var(--background)');
+      lines.push(`${s.label}：${fmt(yy)}${p.log?'%':'万元'}`);
+    }
+    tooltip.innerHTML=lines.map(t=>`<div>${t}</div>`).join('');tooltip.hidden=false;
+    const rr=root.getBoundingClientRect(),sr=svg.node().getBoundingClientRect();
+    tooltip.style.left=Math.max(0,Math.min(sr.left-rr.left+cx+10,root.clientWidth-tooltip.offsetWidth))+'px';
+    tooltip.style.top=Math.max(0,sr.top-rr.top+top+4)+'px';
+  }
+  svg.append('rect').attr('data-chart-hit','').attr('data-chart-hover-overlay','cross-series').attr('x',left).attr('y',top).attr('width',right-left).attr('height',bottom-top).attr('fill','transparent')
+    .on('pointermove',e=>{if(!pin)move(e)}).on('pointerleave',()=>{if(!pin){guide.attr('visibility','hidden');markerGroup.selectAll('*').remove();tooltip.hidden=true;}})
+    .on('click',e=>{pin=!pin;move(e)});
+  // Drop optional alternating ticks if measured labels collide.
+  for(const g of [gx,gy]){
+    const texts=g.selectAll('.tick text').nodes();const bounds=texts.map(n=>n.getBoundingClientRect());
+    for(let i=1;i<bounds.length;i++){
+      const a=bounds[i-1],b=bounds[i];const overlap=g===gx?a.right+4>b.left:Math.min(a.bottom,b.bottom)+4>Math.max(a.top,b.top);
+      if(overlap&&i%2===1)d3.select(texts[i]).attr('visibility','hidden');
+    }
+  }
+}
+function drawAll(){pin=false;tooltip.hidden=true;plots.forEach(draw);}
+new ResizeObserver(drawAll).observe(root.querySelector('.plots'));
+const select=root.querySelector('select');
+for(const d of data.smart){const o=document.createElement('option');o.value=d.year;o.textContent=d.year+(d.year===2026?'（截至9月8日）':'');select.append(o)}
+select.value='2026';
+function yearDetail(){
+  const year=Number(select.value);const fields=[['ordinary_cash','普通现金'],['credit_own_stock','信用自有股票'],['credit_financed_stock','信用融资股票'],['debt','信用债务'],['credit_net','信用净权益'],['net','合计净资产']];
+  root.querySelector('.year-detail').innerHTML='<table class="table table-sm"><thead><tr><th>策略 / 万元</th>'+fields.map(f=>`<th>${f[1]}</th>`).join('')+'</tr></thead><tbody>'+series.map(s=>{const d=data[s.id].find(v=>v.year===year);return '<tr><td>'+s.label+'</td>'+fields.map(f=>'<td>'+money(d[f[0]])+'</td>').join('')+'</tr>'}).join('')+'</tbody></table>';
+}
+select.addEventListener('change',yearDetail);yearDetail();
+root.querySelector('.financing-table').innerHTML='<table class="table table-sm"><thead><tr><th>年份</th><th>比例融资</th><th>智能融资</th><th>比例补仓/万</th><th>智能补仓/万</th><th>比例卖股/万</th><th>智能卖股/万</th></tr></thead><tbody>'+data.smart.map((d,i)=>{const p=data.proportional[i];return `<tr><td>${d.year}</td><td>${p.financed?'是':'否'}</td><td>${d.financed?'是':'否'}</td><td>${money(p.buy)}</td><td>${money(d.buy)}</td><td>${money(p.sale_transfer)}</td><td>${money(d.sale_transfer)}</td></tr>`}).join('')+'</tbody></table>';
+drawAll();
+})();
+</script>

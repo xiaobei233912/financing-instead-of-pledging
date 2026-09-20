@@ -1,0 +1,164 @@
+{
+  "main": {
+    "proportional": {
+      "net": 3723873.3692729925,
+      "debt": 474328.98630137136,
+      "min_mmr": 1.6671748596581972,
+      "min_cash_years": 9.251775136684476,
+      "financed_years": 18
+    },
+    "smart": {
+      "net": 1804410.9665944232,
+      "debt": 246067.72602739674,
+      "min_mmr": 1.5775656359504902,
+      "min_cash_years": 11.72260937485076,
+      "financed_years": 9
+    }
+  },
+  "rolling": [
+    {
+      "label": "proportional",
+      "years": 10,
+      "n": 71,
+      "failures": 0,
+      "min_net": 434016.8240512953,
+      "median_net": 2336030.3227416556,
+      "min_mmr": 1.5205498549492222,
+      "min_cash_years": 11.140831229666457,
+      "beats_proportional": 0,
+      "median_relative_net": 0.0
+    },
+    {
+      "label": "proportional",
+      "years": 20,
+      "n": 31,
+      "failures": 0,
+      "min_net": 1283578.0267705575,
+      "median_net": 7127557.904381523,
+      "min_mmr": 1.5205498549492222,
+      "min_cash_years": 9.570291977212072,
+      "beats_proportional": 0,
+      "median_relative_net": 0.0
+    },
+    {
+      "label": "smart_0.25",
+      "years": 10,
+      "n": 71,
+      "failures": 0,
+      "min_net": 433517.20480505284,
+      "median_net": 2190490.792594803,
+      "min_mmr": 1.444361939619228,
+      "min_cash_years": 12.080551615855505,
+      "beats_proportional": 20,
+      "median_relative_net": -0.04158352830521872
+    },
+    {
+      "label": "smart_0.25",
+      "years": 20,
+      "n": 31,
+      "failures": 0,
+      "min_net": 1208439.2617456205,
+      "median_net": 6274074.387770043,
+      "min_mmr": 1.444361939619228,
+      "min_cash_years": 11.002499784712944,
+      "beats_proportional": 0,
+      "median_relative_net": -0.13600297603597777
+    },
+    {
+      "label": "smart_0.375",
+      "years": 10,
+      "n": 71,
+      "failures": 0,
+      "min_net": 437612.03330627945,
+      "median_net": 2037790.8443791892,
+      "min_mmr": 1.464744511999966,
+      "min_cash_years": 12.254963180082951,
+      "beats_proportional": 5,
+      "median_relative_net": -0.09398514954965165
+    },
+    {
+      "label": "smart_0.375",
+      "years": 20,
+      "n": 31,
+      "failures": 0,
+      "min_net": 1060017.5203981628,
+      "median_net": 5164932.405329776,
+      "min_mmr": 1.464744511999966,
+      "min_cash_years": 11.499384286525585,
+      "beats_proportional": 0,
+      "median_relative_net": -0.28874190017910506
+    },
+    {
+      "label": "smart_0.5",
+      "years": 10,
+      "n": 71,
+      "failures": 0,
+      "min_net": 438875.77700172167,
+      "median_net": 1900601.9004940076,
+      "min_mmr": 1.4662923720865664,
+      "min_cash_years": 12.741790017193571,
+      "beats_proportional": 5,
+      "median_relative_net": -0.145096699541864
+    },
+    {
+      "label": "smart_0.5",
+      "years": 20,
+      "n": 31,
+      "failures": 0,
+      "min_net": 1048423.0405281754,
+      "median_net": 4317372.1427760655,
+      "min_mmr": 1.4662923720865664,
+      "min_cash_years": 11.995920720672444,
+      "beats_proportional": 0,
+      "median_relative_net": -0.3969026019342037
+    },
+    {
+      "label": "smart_0.625",
+      "years": 10,
+      "n": 71,
+      "failures": 0,
+      "min_net": 440297.33316079364,
+      "median_net": 1792063.268616537,
+      "min_mmr": 1.4543980187274752,
+      "min_cash_years": 13.0292300781077,
+      "beats_proportional": 6,
+      "median_relative_net": -0.19688048882955989
+    },
+    {
+      "label": "smart_0.625",
+      "years": 20,
+      "n": 31,
+      "failures": 0,
+      "min_net": 969276.9900156447,
+      "median_net": 3838671.503827269,
+      "min_mmr": 1.4543980187274752,
+      "min_cash_years": 12.485688608878709,
+      "beats_proportional": 0,
+      "median_relative_net": -0.45993322420072524
+    },
+    {
+      "label": "smart_0.75",
+      "years": 10,
+      "n": 71,
+      "failures": 0,
+      "min_net": 443934.40962031484,
+      "median_net": 1740695.1203828375,
+      "min_mmr": 1.4392615799075814,
+      "min_cash_years": 13.171652130699158,
+      "beats_proportional": 7,
+      "median_relative_net": -0.2376553549841548
+    },
+    {
+      "label": "smart_0.75",
+      "years": 20,
+      "n": 31,
+      "failures": 0,
+      "min_net": 957891.8064296021,
+      "median_net": 3607886.8653961187,
+      "min_mmr": 1.4392615799075814,
+      "min_cash_years": 12.553271999184322,
+      "beats_proportional": 0,
+      "median_relative_net": -0.4980891759833771
+    }
+  ]
+}

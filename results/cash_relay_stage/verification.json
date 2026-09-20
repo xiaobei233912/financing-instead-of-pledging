@@ -1,0 +1,25 @@
+{
+  "annual_records": 645,
+  "daily_records": 155624,
+  "max_annual_reconciliation_error": 7.450580596923828e-09,
+  "source_hash": "bc72fd77d6248f34373b46af5d02cc19459bb7344cdd60d605febf597518b4bc",
+  "confirmed_pal": {
+    "weight": 0.8,
+    "annual_target_rebalance": true,
+    "withdrawal": 0.02,
+    "interest": 0.03,
+    "compound": true,
+    "interest_convention": "3% effective annual, natural days/365, interest capitalized",
+    "collateral": "whole 80/20 portfolio",
+    "liquidity": "direct cash lending, no mainland 300% transfer rule",
+    "maintenance": "hypothetical 140% common research floor, not a verified PAL product limit"
+  },
+  "confirmed_relay_rescue": {
+    "trigger": 1.6,
+    "target": 2,
+    "delay": 1,
+    "auto_interest": false,
+    "annual_return": true,
+    "security": true
+  }
+}

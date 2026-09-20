@@ -1,0 +1,2257 @@
+[
+  {
+    "date": "2001-03-16",
+    "kind": "planned_collateral",
+    "amount": 22222.222222222223,
+    "cash_part": 22222.222222222223,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2001-03-19",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 3.2554913316962484
+  },
+  {
+    "date": "2001-03-19",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2001-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 3.0684931506849313
+  },
+  {
+    "date": "2001-03-27",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2001-04-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2001-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2001-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2001-07-23",
+    "kind": "credit_sale_repay",
+    "amount": 49.095890410958894
+  },
+  {
+    "date": "2001-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2001-09-10",
+    "kind": "collateral_in",
+    "amount": 2700.7860851616497
+  },
+  {
+    "date": "2001-09-10",
+    "kind": "renewal_topup",
+    "amount": 2700.7860851616497
+  },
+  {
+    "date": "2001-09-17",
+    "kind": "collateral_in",
+    "amount": 1093.6366576595683
+  },
+  {
+    "date": "2001-09-17",
+    "kind": "renewal_topup",
+    "amount": 1093.6366576595683
+  },
+  {
+    "date": "2001-09-19",
+    "kind": "collateral_in",
+    "amount": 297.8768192590287
+  },
+  {
+    "date": "2001-09-19",
+    "kind": "renewal_topup",
+    "amount": 297.8768192590287
+  },
+  {
+    "date": "2001-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561643
+  },
+  {
+    "date": "2001-10-22",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2001-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2001-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2002-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.0958904109589
+  },
+  {
+    "date": "2002-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2002-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2002-03-22",
+    "kind": "planned_collateral",
+    "amount": 20642.55874501784,
+    "cash_part": 20642.55874501784,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2002-03-25",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2002-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2002-04-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2002-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2002-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2002-07-22",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561643
+  },
+  {
+    "date": "2002-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2002-09-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2002-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2002-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2002-12-23",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2003-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2003-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2003-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2003-03-21",
+    "kind": "collateral_out",
+    "amount": 385.33062654072273
+  },
+  {
+    "date": "2003-03-24",
+    "kind": "planned_collateral",
+    "amount": 5625.7033730578405,
+    "cash_part": 5625.7033730578405,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2003-03-25",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2003-04-02",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2003-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2003-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2003-06-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2003-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2003-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2003-09-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2003-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2003-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2003-12-22",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2004-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-02-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2004-03-22",
+    "kind": "credit_sale_repay",
+    "amount": 42.95890410958903
+  },
+  {
+    "date": "2004-03-22",
+    "kind": "collateral_out",
+    "amount": 9651.547288251953
+  },
+  {
+    "date": "2004-03-23",
+    "kind": "planned_collateral",
+    "amount": 4805.314896154297,
+    "cash_part": 4805.314896154297,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2004-03-24",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2004-04-01",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2004-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2004-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-08-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2004-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2004-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.02739726027396
+  },
+  {
+    "date": "2004-11-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2004-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.49315068493149
+  },
+  {
+    "date": "2005-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.56164383561642
+  },
+  {
+    "date": "2005-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.09589041095889
+  },
+  {
+    "date": "2005-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 41.42465753424656
+  },
+  {
+    "date": "2005-03-22",
+    "kind": "collateral_out",
+    "amount": 6373.084055228297
+  },
+  {
+    "date": "2005-03-23",
+    "kind": "planned_collateral",
+    "amount": 4985.9000614231545,
+    "cash_part": 4985.9000614231545,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2005-03-24",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 168.47976113850018
+  },
+  {
+    "date": "2005-03-24",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2005-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2005-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 90.52054794520545
+  },
+  {
+    "date": "2005-05-23",
+    "kind": "credit_sale_repay",
+    "amount": 98.19178082191777
+  },
+  {
+    "date": "2005-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 88.98630136986299
+  },
+  {
+    "date": "2005-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2005-08-22",
+    "kind": "credit_sale_repay",
+    "amount": 98.19178082191777
+  },
+  {
+    "date": "2005-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2005-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2005-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 95.12328767123284
+  },
+  {
+    "date": "2005-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 92.05479452054792
+  },
+  {
+    "date": "2006-01-23",
+    "kind": "credit_sale_repay",
+    "amount": 101.2602739726027
+  },
+  {
+    "date": "2006-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 88.98630136986299
+  },
+  {
+    "date": "2006-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 85.91780821917806
+  },
+  {
+    "date": "2006-03-23",
+    "kind": "planned_collateral",
+    "amount": 17994.988201982414,
+    "cash_part": 17994.988201982414,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2006-03-24",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 508.92928653929266
+  },
+  {
+    "date": "2006-03-24",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2006-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2006-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2006-05-22",
+    "kind": "credit_sale_repay",
+    "amount": 142.6849315068493
+  },
+  {
+    "date": "2006-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2006-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082192
+  },
+  {
+    "date": "2006-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2006-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 142.68493150684927
+  },
+  {
+    "date": "2006-10-23",
+    "kind": "credit_sale_repay",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2006-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 133.47945205479448
+  },
+  {
+    "date": "2006-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2007-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 147.28767123287668
+  },
+  {
+    "date": "2007-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.08219178082186
+  },
+  {
+    "date": "2007-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 128.8767123287671
+  },
+  {
+    "date": "2007-03-26",
+    "kind": "planned_collateral",
+    "amount": 20520.167344790563,
+    "cash_part": 20520.167344790563,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2007-03-27",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 1968.4067784670551
+  },
+  {
+    "date": "2007-03-27",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2007-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2007-04-23",
+    "kind": "credit_sale_repay",
+    "amount": 193.31506849315062
+  },
+  {
+    "date": "2007-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 171.8356164383561
+  },
+  {
+    "date": "2007-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2007-07-23",
+    "kind": "credit_sale_repay",
+    "amount": 196.38356164383558
+  },
+  {
+    "date": "2007-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 177.97260273972597
+  },
+  {
+    "date": "2007-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2007-10-22",
+    "kind": "credit_sale_repay",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2007-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 184.10958904109583
+  },
+  {
+    "date": "2007-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 184.10958904109586
+  },
+  {
+    "date": "2008-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 196.3835616438356
+  },
+  {
+    "date": "2008-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 184.10958904109583
+  },
+  {
+    "date": "2008-03-24",
+    "kind": "credit_sale_repay",
+    "amount": 196.38356164383555
+  },
+  {
+    "date": "2008-03-26",
+    "kind": "planned_collateral",
+    "amount": 22070.695942354825,
+    "cash_part": 22070.695942354825,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2008-03-27",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2008-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2008-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 171.8356164383561
+  },
+  {
+    "date": "2008-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 184.10958904109583
+  },
+  {
+    "date": "2008-06-23",
+    "kind": "credit_sale_repay",
+    "amount": 202.5205479452054
+  },
+  {
+    "date": "2008-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 171.8356164383561
+  },
+  {
+    "date": "2008-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2008-09-22",
+    "kind": "credit_sale_repay",
+    "amount": 196.38356164383555
+  },
+  {
+    "date": "2008-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 177.97260273972597
+  },
+  {
+    "date": "2008-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2008-12-22",
+    "kind": "credit_sale_repay",
+    "amount": 190.2465753424657
+  },
+  {
+    "date": "2009-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 184.10958904109583
+  },
+  {
+    "date": "2009-02-23",
+    "kind": "credit_sale_repay",
+    "amount": 202.5205479452054
+  },
+  {
+    "date": "2009-03-09",
+    "kind": "collateral_in",
+    "amount": 5574.051720668562
+  },
+  {
+    "date": "2009-03-09",
+    "kind": "renewal_topup",
+    "amount": 5574.051720668562
+  },
+  {
+    "date": "2009-03-23",
+    "kind": "credit_sale_repay",
+    "amount": 171.8356164383561
+  },
+  {
+    "date": "2009-03-25",
+    "kind": "planned_collateral",
+    "amount": 20136.569595061883,
+    "cash_part": 20136.569595061883,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2009-03-26",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 505.8964825952862
+  },
+  {
+    "date": "2009-03-26",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2009-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2009-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 217.86301369863008
+  },
+  {
+    "date": "2009-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 230.1369863013698
+  },
+  {
+    "date": "2009-06-22",
+    "kind": "credit_sale_repay",
+    "amount": 245.47945205479445
+  },
+  {
+    "date": "2009-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 222.46575342465746
+  },
+  {
+    "date": "2009-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2009-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2009-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 230.1369863013698
+  },
+  {
+    "date": "2009-11-23",
+    "kind": "credit_sale_repay",
+    "amount": 253.15068493150676
+  },
+  {
+    "date": "2009-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 214.79452054794515
+  },
+  {
+    "date": "2010-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 237.8082191780821
+  },
+  {
+    "date": "2010-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 245.47945205479442
+  },
+  {
+    "date": "2010-03-22",
+    "kind": "credit_sale_repay",
+    "amount": 214.79452054794513
+  },
+  {
+    "date": "2010-03-25",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2010-03-26",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 18473.484326909354
+  },
+  {
+    "date": "2010-03-26",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2010-04-06",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2010-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 270.0273972602739
+  },
+  {
+    "date": "2010-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 276.1643835616438
+  },
+  {
+    "date": "2010-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 285.3698630136986
+  },
+  {
+    "date": "2010-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 276.1643835616437
+  },
+  {
+    "date": "2010-08-23",
+    "kind": "credit_sale_repay",
+    "amount": 303.78082191780817
+  },
+  {
+    "date": "2010-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 266.95890410958896
+  },
+  {
+    "date": "2010-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 276.1643835616438
+  },
+  {
+    "date": "2010-11-22",
+    "kind": "credit_sale_repay",
+    "amount": 294.57534246575335
+  },
+  {
+    "date": "2010-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 266.95890410958896
+  },
+  {
+    "date": "2011-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 285.36986301369853
+  },
+  {
+    "date": "2011-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 294.57534246575335
+  },
+  {
+    "date": "2011-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 248.54794520547938
+  },
+  {
+    "date": "2011-03-24",
+    "kind": "planned_collateral",
+    "amount": 1228.546403900924,
+    "cash_part": 1228.546403900924,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2011-03-25",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 18883.127011369827
+  },
+  {
+    "date": "2011-03-25",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2011-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2011-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 326.7945205479451
+  },
+  {
+    "date": "2011-05-23",
+    "kind": "credit_sale_repay",
+    "amount": 343.6712328767122
+  },
+  {
+    "date": "2011-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 311.45205479452045
+  },
+  {
+    "date": "2011-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 322.1917808219177
+  },
+  {
+    "date": "2011-08-22",
+    "kind": "credit_sale_repay",
+    "amount": 343.6712328767123
+  },
+  {
+    "date": "2011-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 322.1917808219177
+  },
+  {
+    "date": "2011-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 322.19178082191775
+  },
+  {
+    "date": "2011-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 332.93150684931504
+  },
+  {
+    "date": "2011-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 322.19178082191775
+  },
+  {
+    "date": "2012-01-23",
+    "kind": "credit_sale_repay",
+    "amount": 354.4109589041095
+  },
+  {
+    "date": "2012-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 311.45205479452045
+  },
+  {
+    "date": "2012-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 311.45205479452045
+  },
+  {
+    "date": "2012-03-23",
+    "kind": "planned_collateral",
+    "amount": 7428.14518599771,
+    "cash_part": 7428.14518599771,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2012-03-26",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 31396.495651077305
+  },
+  {
+    "date": "2012-03-26",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2012-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2012-04-23",
+    "kind": "credit_sale_repay",
+    "amount": 397.3698630136985
+  },
+  {
+    "date": "2012-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 343.6712328767122
+  },
+  {
+    "date": "2012-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 380.4931506849314
+  },
+  {
+    "date": "2012-07-23",
+    "kind": "credit_sale_repay",
+    "amount": 392.7671232876712
+  },
+  {
+    "date": "2012-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 355.94520547945194
+  },
+  {
+    "date": "2012-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 380.4931506849314
+  },
+  {
+    "date": "2012-10-22",
+    "kind": "credit_sale_repay",
+    "amount": 380.49315068493144
+  },
+  {
+    "date": "2012-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 368.21917808219166
+  },
+  {
+    "date": "2012-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 368.2191780821917
+  },
+  {
+    "date": "2013-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 392.7671232876713
+  },
+  {
+    "date": "2013-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 368.21917808219166
+  },
+  {
+    "date": "2013-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 343.6712328767123
+  },
+  {
+    "date": "2013-03-27",
+    "kind": "planned_collateral",
+    "amount": 20719.542714008217,
+    "cash_part": 20719.542714008217,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2013-03-28",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 34585.881867681164
+  },
+  {
+    "date": "2013-03-28",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2013-04-08",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2013-04-22",
+    "kind": "credit_sale_repay",
+    "amount": 431.12328767123273
+  },
+  {
+    "date": "2013-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 400.43835616438344
+  },
+  {
+    "date": "2013-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 428.05479452054783
+  },
+  {
+    "date": "2013-07-22",
+    "kind": "credit_sale_repay",
+    "amount": 428.05479452054794
+  },
+  {
+    "date": "2013-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 414.24657534246563
+  },
+  {
+    "date": "2013-09-23",
+    "kind": "credit_sale_repay",
+    "amount": 455.6712328767122
+  },
+  {
+    "date": "2013-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 386.6301369863013
+  },
+  {
+    "date": "2013-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 428.05479452054783
+  },
+  {
+    "date": "2013-12-23",
+    "kind": "credit_sale_repay",
+    "amount": 441.86301369863
+  },
+  {
+    "date": "2014-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 400.43835616438344
+  },
+  {
+    "date": "2014-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 428.05479452054783
+  },
+  {
+    "date": "2014-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 386.6301369863013
+  },
+  {
+    "date": "2014-03-27",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2014-03-28",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 69894.02616032047
+  },
+  {
+    "date": "2014-03-28",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2014-04-07",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2014-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 464.876712328767
+  },
+  {
+    "date": "2014-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 460.27397260273966
+  },
+  {
+    "date": "2014-06-23",
+    "kind": "credit_sale_repay",
+    "amount": 506.30136986301363
+  },
+  {
+    "date": "2014-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 429.58904109589025
+  },
+  {
+    "date": "2014-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 475.6164383561642
+  },
+  {
+    "date": "2014-09-22",
+    "kind": "credit_sale_repay",
+    "amount": 490.95890410958896
+  },
+  {
+    "date": "2014-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 444.9315068493149
+  },
+  {
+    "date": "2014-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 475.6164383561642
+  },
+  {
+    "date": "2014-12-22",
+    "kind": "credit_sale_repay",
+    "amount": 475.6164383561643
+  },
+  {
+    "date": "2015-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 460.2739726027397
+  },
+  {
+    "date": "2015-02-23",
+    "kind": "credit_sale_repay",
+    "amount": 506.3013698630136
+  },
+  {
+    "date": "2015-03-23",
+    "kind": "credit_sale_repay",
+    "amount": 429.5890410958903
+  },
+  {
+    "date": "2015-03-26",
+    "kind": "collateral_out",
+    "amount": 20741.15353915631
+  },
+  {
+    "date": "2015-03-27",
+    "kind": "planned_collateral",
+    "amount": 2037.4423382527893,
+    "cash_part": 2037.4423382527893,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2015-03-30",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 93243.34445307229
+  },
+  {
+    "date": "2015-03-30",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2015-04-08",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2015-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 478.6849315068492
+  },
+  {
+    "date": "2015-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 506.3013698630135
+  },
+  {
+    "date": "2015-06-22",
+    "kind": "credit_sale_repay",
+    "amount": 540.0547945205478
+  },
+  {
+    "date": "2015-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 489.4246575342464
+  },
+  {
+    "date": "2015-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 523.1780821917806
+  },
+  {
+    "date": "2015-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 523.1780821917808
+  },
+  {
+    "date": "2015-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 506.30136986301363
+  },
+  {
+    "date": "2015-11-23",
+    "kind": "credit_sale_repay",
+    "amount": 556.931506849315
+  },
+  {
+    "date": "2015-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 472.5479452054793
+  },
+  {
+    "date": "2016-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 523.1780821917806
+  },
+  {
+    "date": "2016-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 540.054794520548
+  },
+  {
+    "date": "2016-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 472.5479452054793
+  },
+  {
+    "date": "2016-03-29",
+    "kind": "planned_collateral",
+    "amount": 20140.397510685783,
+    "cash_part": 20140.397510685783,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2016-03-30",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 102868.31564251016
+  },
+  {
+    "date": "2016-03-30",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2016-04-07",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2016-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 556.9315068493149
+  },
+  {
+    "date": "2016-05-23",
+    "kind": "credit_sale_repay",
+    "amount": 589.1506849315068
+  },
+  {
+    "date": "2016-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 533.9178082191779
+  },
+  {
+    "date": "2016-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 552.3287671232874
+  },
+  {
+    "date": "2016-08-22",
+    "kind": "credit_sale_repay",
+    "amount": 589.1506849315068
+  },
+  {
+    "date": "2016-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 552.3287671232874
+  },
+  {
+    "date": "2016-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 552.3287671232877
+  },
+  {
+    "date": "2016-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 570.7397260273972
+  },
+  {
+    "date": "2016-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 552.3287671232877
+  },
+  {
+    "date": "2017-01-23",
+    "kind": "credit_sale_repay",
+    "amount": 607.5616438356163
+  },
+  {
+    "date": "2017-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 533.917808219178
+  },
+  {
+    "date": "2017-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 515.5068493150684
+  },
+  {
+    "date": "2017-03-27",
+    "kind": "collateral_out",
+    "amount": 68200.45238585677
+  },
+  {
+    "date": "2017-03-28",
+    "kind": "planned_collateral",
+    "amount": 44706.36864983634,
+    "cash_part": 44706.36864983634,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2017-03-29",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 139182.90226357858
+  },
+  {
+    "date": "2017-03-29",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2017-04-06",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2017-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 606.0273972602738
+  },
+  {
+    "date": "2017-05-22",
+    "kind": "credit_sale_repay",
+    "amount": 618.3013698630136
+  },
+  {
+    "date": "2017-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 598.3561643835617
+  },
+  {
+    "date": "2017-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 598.3561643835616
+  },
+  {
+    "date": "2017-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 618.3013698630135
+  },
+  {
+    "date": "2017-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 618.3013698630137
+  },
+  {
+    "date": "2017-10-23",
+    "kind": "credit_sale_repay",
+    "amount": 638.2465753424657
+  },
+  {
+    "date": "2017-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 578.4109589041094
+  },
+  {
+    "date": "2017-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 598.3561643835615
+  },
+  {
+    "date": "2018-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 638.2465753424656
+  },
+  {
+    "date": "2018-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 598.3561643835615
+  },
+  {
+    "date": "2018-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 558.4657534246575
+  },
+  {
+    "date": "2018-03-27",
+    "kind": "collateral_out",
+    "amount": 118981.6009540354
+  },
+  {
+    "date": "2018-03-28",
+    "kind": "planned_collateral",
+    "amount": 87456.2022811172,
+    "cash_part": 87456.2022811172,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2018-03-29",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 185354.46235843623
+  },
+  {
+    "date": "2018-03-29",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2018-04-09",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2018-04-23",
+    "kind": "credit_sale_repay",
+    "amount": 696.5479452054792
+  },
+  {
+    "date": "2018-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 601.4246575342464
+  },
+  {
+    "date": "2018-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 665.8630136986299
+  },
+  {
+    "date": "2018-07-23",
+    "kind": "credit_sale_repay",
+    "amount": 687.3424657534248
+  },
+  {
+    "date": "2018-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 622.9041095890409
+  },
+  {
+    "date": "2018-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 665.8630136986299
+  },
+  {
+    "date": "2018-10-22",
+    "kind": "credit_sale_repay",
+    "amount": 665.8630136986302
+  },
+  {
+    "date": "2018-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 644.3835616438356
+  },
+  {
+    "date": "2018-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 644.3835616438356
+  },
+  {
+    "date": "2019-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 687.3424657534247
+  },
+  {
+    "date": "2019-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 644.3835616438354
+  },
+  {
+    "date": "2019-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 601.4246575342464
+  },
+  {
+    "date": "2019-03-28",
+    "kind": "collateral_out",
+    "amount": 81303.22961478599
+  },
+  {
+    "date": "2019-03-29",
+    "kind": "planned_collateral",
+    "amount": 60929.231621786486,
+    "cash_part": 60929.231621786486,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2019-04-01",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 233490.31231479393
+  },
+  {
+    "date": "2019-04-01",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2019-04-09",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2019-04-22",
+    "kind": "credit_sale_repay",
+    "amount": 719.5616438356162
+  },
+  {
+    "date": "2019-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 667.3972602739724
+  },
+  {
+    "date": "2019-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 713.4246575342463
+  },
+  {
+    "date": "2019-07-22",
+    "kind": "credit_sale_repay",
+    "amount": 713.4246575342468
+  },
+  {
+    "date": "2019-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 690.4109589041095
+  },
+  {
+    "date": "2019-09-23",
+    "kind": "credit_sale_repay",
+    "amount": 759.4520547945203
+  },
+  {
+    "date": "2019-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 644.3835616438354
+  },
+  {
+    "date": "2019-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 713.4246575342464
+  },
+  {
+    "date": "2019-12-23",
+    "kind": "credit_sale_repay",
+    "amount": 736.4383561643835
+  },
+  {
+    "date": "2020-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 667.3972602739724
+  },
+  {
+    "date": "2020-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 713.4246575342463
+  },
+  {
+    "date": "2020-03-23",
+    "kind": "credit_sale_repay",
+    "amount": 713.4246575342466
+  },
+  {
+    "date": "2020-03-27",
+    "kind": "collateral_out",
+    "amount": 53612.75855990198
+  },
+  {
+    "date": "2020-03-30",
+    "kind": "planned_collateral",
+    "amount": 63571.86370246799,
+    "cash_part": 63571.86370246799,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2020-03-31",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 260888.8657505911
+  },
+  {
+    "date": "2020-03-31",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2020-04-08",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2020-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 699.6164383561644
+  },
+  {
+    "date": "2020-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 736.4383561643833
+  },
+  {
+    "date": "2020-06-22",
+    "kind": "credit_sale_repay",
+    "amount": 785.5342465753422
+  },
+  {
+    "date": "2020-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 711.8904109589039
+  },
+  {
+    "date": "2020-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 760.9863013698628
+  },
+  {
+    "date": "2020-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 760.986301369863
+  },
+  {
+    "date": "2020-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 736.4383561643837
+  },
+  {
+    "date": "2020-11-23",
+    "kind": "credit_sale_repay",
+    "amount": 810.0821917808216
+  },
+  {
+    "date": "2020-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 687.3424657534244
+  },
+  {
+    "date": "2021-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 760.9863013698628
+  },
+  {
+    "date": "2021-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 785.5342465753425
+  },
+  {
+    "date": "2021-03-22",
+    "kind": "credit_sale_repay",
+    "amount": 687.3424657534244
+  },
+  {
+    "date": "2021-03-29",
+    "kind": "collateral_out",
+    "amount": 55832.03861659052
+  },
+  {
+    "date": "2021-03-30",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2021-03-31",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 674992.8615607237
+  },
+  {
+    "date": "2021-03-31",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2021-04-09",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2021-04-09",
+    "kind": "credit_sale_repay",
+    "amount": 173984.71358704293
+  },
+  {
+    "date": "2021-04-09",
+    "kind": "loan_rebalance",
+    "amount": 173984.71358704293,
+    "asset": "c",
+    "margin_after": 743886.3296358134
+  },
+  {
+    "date": "2021-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 313.405768586977
+  },
+  {
+    "date": "2021-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 783.5144214674423
+  },
+  {
+    "date": "2021-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 809.6315688496903
+  },
+  {
+    "date": "2021-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 783.5144214674425
+  },
+  {
+    "date": "2021-08-23",
+    "kind": "credit_sale_repay",
+    "amount": 861.8658636141864
+  },
+  {
+    "date": "2021-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 757.3972740851942
+  },
+  {
+    "date": "2021-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 783.5144214674423
+  },
+  {
+    "date": "2021-11-22",
+    "kind": "credit_sale_repay",
+    "amount": 835.7487162319384
+  },
+  {
+    "date": "2021-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 757.3972740851942
+  },
+  {
+    "date": "2022-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 809.6315688496903
+  },
+  {
+    "date": "2022-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 835.7487162319386
+  },
+  {
+    "date": "2022-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 705.162979320698
+  },
+  {
+    "date": "2022-03-28",
+    "kind": "collateral_out",
+    "amount": 1002620.8801216092
+  },
+  {
+    "date": "2022-03-29",
+    "kind": "planned_collateral",
+    "amount": 14746.738088921527,
+    "cash_part": 14746.738088921527,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2022-03-30",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 144426.2643450449
+  },
+  {
+    "date": "2022-03-30",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2022-04-07",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2022-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 843.3849935072246
+  },
+  {
+    "date": "2022-05-23",
+    "kind": "credit_sale_repay",
+    "amount": 884.8446066428975
+  },
+  {
+    "date": "2022-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 801.8904247701257
+  },
+  {
+    "date": "2022-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 829.5418187277162
+  },
+  {
+    "date": "2022-08-22",
+    "kind": "credit_sale_repay",
+    "amount": 884.8446066428972
+  },
+  {
+    "date": "2022-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 829.5418187277162
+  },
+  {
+    "date": "2022-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 829.5418187277162
+  },
+  {
+    "date": "2022-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 857.1932126853068
+  },
+  {
+    "date": "2022-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 829.5418187277164
+  },
+  {
+    "date": "2023-01-23",
+    "kind": "credit_sale_repay",
+    "amount": 912.4960006004878
+  },
+  {
+    "date": "2023-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 801.8904247701257
+  },
+  {
+    "date": "2023-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 774.2390308125351
+  },
+  {
+    "date": "2023-03-30",
+    "kind": "planned_collateral",
+    "amount": 78406.7686111618,
+    "cash_part": 78406.7686111618,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2023-03-31",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 101960.12990012456
+  },
+  {
+    "date": "2023-03-31",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2023-04-11",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2023-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 889.4123907674987
+  },
+  {
+    "date": "2023-05-22",
+    "kind": "credit_sale_repay",
+    "amount": 904.7548565209233
+  },
+  {
+    "date": "2023-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 875.5692159879904
+  },
+  {
+    "date": "2023-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 875.5692159879902
+  },
+  {
+    "date": "2023-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 904.7548565209232
+  },
+  {
+    "date": "2023-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 904.7548565209233
+  },
+  {
+    "date": "2023-10-23",
+    "kind": "credit_sale_repay",
+    "amount": 933.9404970538563
+  },
+  {
+    "date": "2023-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 846.3835754550572
+  },
+  {
+    "date": "2023-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 875.5692159879901
+  },
+  {
+    "date": "2024-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 933.9404970538562
+  },
+  {
+    "date": "2024-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 875.5692159879902
+  },
+  {
+    "date": "2024-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 846.3835754550572
+  },
+  {
+    "date": "2024-04-01",
+    "kind": "collateral_out",
+    "amount": 232089.04819924384
+  },
+  {
+    "date": "2024-04-02",
+    "kind": "planned_collateral",
+    "amount": 36087.1364105813,
+    "cash_part": 36087.1364105813,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2024-04-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2024-04-11",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2024-04-22",
+    "kind": "credit_sale_repay",
+    "amount": 933.9404970538561
+  },
+  {
+    "date": "2024-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 846.3835754550572
+  },
+  {
+    "date": "2024-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 904.7548565209232
+  },
+  {
+    "date": "2024-07-22",
+    "kind": "credit_sale_repay",
+    "amount": 904.7548565209235
+  },
+  {
+    "date": "2024-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 875.5692159879903
+  },
+  {
+    "date": "2024-09-23",
+    "kind": "credit_sale_repay",
+    "amount": 963.1261375867891
+  },
+  {
+    "date": "2024-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 817.1979349221242
+  },
+  {
+    "date": "2024-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 904.7548565209235
+  },
+  {
+    "date": "2024-12-23",
+    "kind": "credit_sale_repay",
+    "amount": 933.9404970538563
+  },
+  {
+    "date": "2025-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 846.3835754550572
+  },
+  {
+    "date": "2025-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 904.7548565209232
+  },
+  {
+    "date": "2025-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 817.1979349221243
+  },
+  {
+    "date": "2025-04-02",
+    "kind": "collateral_out",
+    "amount": 81643.61712953798
+  },
+  {
+    "date": "2025-04-03",
+    "kind": "planned_collateral",
+    "amount": 37743.54436763399,
+    "cash_part": 37743.54436763399,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2025-04-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2025-04-14",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2025-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 904.7548565209235
+  },
+  {
+    "date": "2025-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 875.5692159879904
+  },
+  {
+    "date": "2025-06-23",
+    "kind": "credit_sale_repay",
+    "amount": 963.1261375867892
+  },
+  {
+    "date": "2025-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 817.1979349221242
+  },
+  {
+    "date": "2025-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 904.7548565209235
+  },
+  {
+    "date": "2025-09-22",
+    "kind": "credit_sale_repay",
+    "amount": 933.9404970538563
+  },
+  {
+    "date": "2025-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 846.3835754550572
+  },
+  {
+    "date": "2025-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 904.7548565209231
+  },
+  {
+    "date": "2025-12-22",
+    "kind": "credit_sale_repay",
+    "amount": 904.7548565209235
+  },
+  {
+    "date": "2026-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 875.5692159879903
+  },
+  {
+    "date": "2026-02-23",
+    "kind": "credit_sale_repay",
+    "amount": 963.1261375867892
+  },
+  {
+    "date": "2026-03-23",
+    "kind": "credit_sale_repay",
+    "amount": 817.1979349221242
+  },
+  {
+    "date": "2026-04-06",
+    "kind": "collateral_out",
+    "amount": 285351.1420720732
+  },
+  {
+    "date": "2026-04-07",
+    "kind": "planned_collateral",
+    "amount": 27974.255106380675,
+    "cash_part": 27974.255106380675,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2026-04-08",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 185191.497684932
+  },
+  {
+    "date": "2026-04-08",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2026-04-16",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2026-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 866.3287809345095
+  },
+  {
+    "date": "2026-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 921.5966132482641
+  },
+  {
+    "date": "2026-06-22",
+    "kind": "credit_sale_repay",
+    "amount": 983.0363874648151
+  },
+  {
+    "date": "2026-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 890.8767261399887
+  },
+  {
+    "date": "2026-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 952.3165003565396
+  }
+]

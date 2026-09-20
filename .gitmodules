@@ -1,0 +1,3 @@
+[submodule "reference/clec-strategy-backtest"]
+	path = reference/clec-strategy-backtest
+	url = https://github.com/yutaofr/clec-strategy-backtest.git

@@ -1,0 +1,4230 @@
+[
+  {
+    "date": "2001-03-16",
+    "kind": "planned_collateral",
+    "amount": 22222.222222222223,
+    "cash_part": 22222.222222222223,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2001-03-19",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 3.2554913316962484
+  },
+  {
+    "date": "2001-03-19",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2001-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 3.0684931506849313
+  },
+  {
+    "date": "2001-03-27",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2001-04-23",
+    "kind": "credit_sale_repay",
+    "amount": 50.63013698630135
+  },
+  {
+    "date": "2001-04-23",
+    "kind": "loan_interest",
+    "amount": 50.63013698630135,
+    "asset": "c",
+    "margin_after": 1817.3075941310544
+  },
+  {
+    "date": "2001-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 43.067654869581524
+  },
+  {
+    "date": "2001-05-21",
+    "kind": "loan_interest",
+    "amount": 43.067654869581524,
+    "asset": "c",
+    "margin_after": 2164.587867492204
+  },
+  {
+    "date": "2001-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.784464885838084
+  },
+  {
+    "date": "2001-06-21",
+    "kind": "loan_interest",
+    "amount": 47.784464885838084,
+    "asset": "c",
+    "margin_after": 249.47344873822016
+  },
+  {
+    "date": "2001-07-23",
+    "kind": "credit_sale_repay",
+    "amount": 49.44320027956323
+  },
+  {
+    "date": "2001-07-23",
+    "kind": "loan_interest",
+    "amount": 49.44320027956323,
+    "asset": "c",
+    "margin_after": 45.193125187518575
+  },
+  {
+    "date": "2001-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.91789444137336
+  },
+  {
+    "date": "2001-09-10",
+    "kind": "collateral_in",
+    "amount": 2901.9743793310336
+  },
+  {
+    "date": "2001-09-10",
+    "kind": "renewal_topup",
+    "amount": 2901.9743793310336
+  },
+  {
+    "date": "2001-09-17",
+    "kind": "collateral_in",
+    "amount": 1093.6979328390953
+  },
+  {
+    "date": "2001-09-17",
+    "kind": "renewal_topup",
+    "amount": 1093.6979328390953
+  },
+  {
+    "date": "2001-09-19",
+    "kind": "collateral_in",
+    "amount": 297.89430941649334
+  },
+  {
+    "date": "2001-09-19",
+    "kind": "renewal_topup",
+    "amount": 297.89430941649334
+  },
+  {
+    "date": "2001-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 48.01568026491636
+  },
+  {
+    "date": "2001-10-22",
+    "kind": "credit_sale_repay",
+    "amount": 48.015680264916355
+  },
+  {
+    "date": "2001-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.46678735314486
+  },
+  {
+    "date": "2001-11-21",
+    "kind": "loan_interest",
+    "amount": 46.46678735314486,
+    "asset": "c",
+    "margin_after": 2137.42778051076
+  },
+  {
+    "date": "2001-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.57372461719045
+  },
+  {
+    "date": "2001-12-21",
+    "kind": "loan_interest",
+    "amount": 46.57372461719045,
+    "asset": "c",
+    "margin_after": 2546.565888069912
+  },
+  {
+    "date": "2002-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 49.79296851566162
+  },
+  {
+    "date": "2002-01-22",
+    "kind": "loan_interest",
+    "amount": 49.79296851566162,
+    "asset": "c",
+    "margin_after": 2291.059562347262
+  },
+  {
+    "date": "2002-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.79550002056469
+  },
+  {
+    "date": "2002-02-21",
+    "kind": "loan_interest",
+    "amount": 46.79550002056469,
+    "asset": "c",
+    "margin_after": 209.56793458759114
+  },
+  {
+    "date": "2002-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 43.776314189100894
+  },
+  {
+    "date": "2002-03-21",
+    "kind": "loan_interest",
+    "amount": 43.776314189100894,
+    "asset": "c",
+    "margin_after": 819.4529473831224
+  },
+  {
+    "date": "2002-03-22",
+    "kind": "planned_collateral",
+    "amount": 20912.72338143618,
+    "cash_part": 20912.72338143618,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2002-03-25",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2002-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2002-04-22",
+    "kind": "credit_sale_repay",
+    "amount": 50.137535215173635
+  },
+  {
+    "date": "2002-04-22",
+    "kind": "loan_interest",
+    "amount": 50.137535215173635,
+    "asset": "c",
+    "margin_after": 18586.52298025641
+  },
+  {
+    "date": "2002-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 45.548680134216106
+  },
+  {
+    "date": "2002-05-21",
+    "kind": "loan_interest",
+    "amount": 45.548680134216106,
+    "asset": "c",
+    "margin_after": 17771.477971590437
+  },
+  {
+    "date": "2002-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 48.79828692442075
+  },
+  {
+    "date": "2002-06-21",
+    "kind": "loan_interest",
+    "amount": 48.79828692442075,
+    "asset": "c",
+    "margin_after": 14855.626317907088
+  },
+  {
+    "date": "2002-07-22",
+    "kind": "credit_sale_repay",
+    "amount": 48.91433326154513
+  },
+  {
+    "date": "2002-07-22",
+    "kind": "loan_interest",
+    "amount": 48.91433326154513,
+    "asset": "c",
+    "margin_after": 13624.038998190601
+  },
+  {
+    "date": "2002-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.4490215158683
+  },
+  {
+    "date": "2002-08-21",
+    "kind": "loan_interest",
+    "amount": 47.4490215158683,
+    "asset": "c",
+    "margin_after": 14347.642419306574
+  },
+  {
+    "date": "2002-09-23",
+    "kind": "credit_sale_repay",
+    "amount": 52.31404119041584
+  },
+  {
+    "date": "2002-09-23",
+    "kind": "loan_interest",
+    "amount": 52.31404119041584,
+    "asset": "c",
+    "margin_after": 12424.403363300158
+  },
+  {
+    "date": "2002-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 44.500039007034324
+  },
+  {
+    "date": "2002-10-21",
+    "kind": "loan_interest",
+    "amount": 44.500039007034324,
+    "asset": "c",
+    "margin_after": 13404.919247872145
+  },
+  {
+    "date": "2002-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 49.373725079512745
+  },
+  {
+    "date": "2002-11-21",
+    "kind": "loan_interest",
+    "amount": 49.373725079512745,
+    "asset": "c",
+    "margin_after": 15030.087273457708
+  },
+  {
+    "date": "2002-12-23",
+    "kind": "credit_sale_repay",
+    "amount": 51.08762823831352
+  },
+  {
+    "date": "2002-12-23",
+    "kind": "loan_interest",
+    "amount": 51.08762823831352,
+    "asset": "c",
+    "margin_after": 14164.141420139144
+  },
+  {
+    "date": "2003-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 46.411815568038776
+  },
+  {
+    "date": "2003-01-21",
+    "kind": "loan_interest",
+    "amount": 46.411815568038776,
+    "asset": "c",
+    "margin_after": 14255.69450256947
+  },
+  {
+    "date": "2003-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 49.72300154689064
+  },
+  {
+    "date": "2003-02-21",
+    "kind": "loan_interest",
+    "amount": 49.72300154689064,
+    "asset": "c",
+    "margin_after": 14003.146354667144
+  },
+  {
+    "date": "2003-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 45.017900454159786
+  },
+  {
+    "date": "2003-03-21",
+    "kind": "loan_interest",
+    "amount": 45.017900454159786,
+    "asset": "c",
+    "margin_after": 15084.577150540661
+  },
+  {
+    "date": "2003-03-24",
+    "kind": "planned_collateral",
+    "amount": 5880.905792210006,
+    "cash_part": 5880.905792210006,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2003-03-25",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2003-04-02",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2003-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 49.94830319877259
+  },
+  {
+    "date": "2003-04-21",
+    "kind": "loan_interest",
+    "amount": 49.94830319877259,
+    "asset": "c",
+    "margin_after": 20234.05285460266
+  },
+  {
+    "date": "2003-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 48.45201713140574
+  },
+  {
+    "date": "2003-05-21",
+    "kind": "loan_interest",
+    "amount": 48.45201713140574,
+    "asset": "c",
+    "margin_after": 20564.859343678807
+  },
+  {
+    "date": "2003-06-23",
+    "kind": "credit_sale_repay",
+    "amount": 53.41987545777759
+  },
+  {
+    "date": "2003-06-23",
+    "kind": "loan_interest",
+    "amount": 53.41987545777759,
+    "asset": "c",
+    "margin_after": 21845.166446524694
+  },
+  {
+    "date": "2003-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 45.44069789923874
+  },
+  {
+    "date": "2003-07-21",
+    "kind": "loan_interest",
+    "amount": 45.44069789923874,
+    "asset": "c",
+    "margin_after": 22273.12421878049
+  },
+  {
+    "date": "2003-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 50.41740581718488
+  },
+  {
+    "date": "2003-08-21",
+    "kind": "loan_interest",
+    "amount": 50.41740581718488,
+    "asset": "c",
+    "margin_after": 22912.161392678187
+  },
+  {
+    "date": "2003-09-22",
+    "kind": "credit_sale_repay",
+    "amount": 52.167538118311754
+  },
+  {
+    "date": "2003-09-22",
+    "kind": "loan_interest",
+    "amount": 52.167538118311754,
+    "asset": "c",
+    "margin_after": 23642.399146832588
+  },
+  {
+    "date": "2003-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 47.39288632643803
+  },
+  {
+    "date": "2003-10-21",
+    "kind": "loan_interest",
+    "amount": 47.39288632643803,
+    "asset": "c",
+    "margin_after": 24117.983183326036
+  },
+  {
+    "date": "2003-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 50.77406542449271
+  },
+  {
+    "date": "2003-11-21",
+    "kind": "loan_interest",
+    "amount": 50.77406542449271,
+    "asset": "c",
+    "margin_after": 23593.629244803324
+  },
+  {
+    "date": "2003-12-22",
+    "kind": "credit_sale_repay",
+    "amount": 50.89481032528301
+  },
+  {
+    "date": "2003-12-22",
+    "kind": "loan_interest",
+    "amount": 50.89481032528301,
+    "asset": "c",
+    "margin_after": 24193.70307254946
+  },
+  {
+    "date": "2004-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 49.37017003294029
+  },
+  {
+    "date": "2004-01-21",
+    "kind": "loan_interest",
+    "amount": 49.37017003294029,
+    "asset": "c",
+    "margin_after": 25655.597044605835
+  },
+  {
+    "date": "2004-02-23",
+    "kind": "credit_sale_repay",
+    "amount": 54.432167959824554
+  },
+  {
+    "date": "2004-02-23",
+    "kind": "loan_interest",
+    "amount": 54.432167959824554,
+    "asset": "c",
+    "margin_after": 24970.618566352437
+  },
+  {
+    "date": "2004-03-22",
+    "kind": "credit_sale_repay",
+    "amount": 46.301787098286724
+  },
+  {
+    "date": "2004-03-22",
+    "kind": "loan_interest",
+    "amount": 46.301787098286724,
+    "asset": "c",
+    "margin_after": 23766.20880756562
+  },
+  {
+    "date": "2004-03-22",
+    "kind": "collateral_out",
+    "amount": 7574.396268161494
+  },
+  {
+    "date": "2004-03-23",
+    "kind": "planned_collateral",
+    "amount": 3382.553290585925,
+    "cash_part": 3382.553290585925,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2004-03-24",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2004-04-01",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2004-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 49.71561514273887
+  },
+  {
+    "date": "2004-04-21",
+    "kind": "loan_interest",
+    "amount": 49.71561514273887,
+    "asset": "c",
+    "margin_after": 20635.899056732105
+  },
+  {
+    "date": "2004-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 49.83002916114956
+  },
+  {
+    "date": "2004-05-21",
+    "kind": "loan_interest",
+    "amount": 49.83002916114956,
+    "asset": "c",
+    "margin_after": 20187.177448714785
+  },
+  {
+    "date": "2004-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 51.60953003815193
+  },
+  {
+    "date": "2004-06-21",
+    "kind": "loan_interest",
+    "amount": 51.60953003815193,
+    "asset": "c",
+    "margin_after": 20896.478087177453
+  },
+  {
+    "date": "2004-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 50.063479105608224
+  },
+  {
+    "date": "2004-07-21",
+    "kind": "loan_interest",
+    "amount": 50.063479105608224,
+    "asset": "c",
+    "margin_after": 20418.574313297355
+  },
+  {
+    "date": "2004-08-23",
+    "kind": "credit_sale_repay",
+    "amount": 55.19656305642544
+  },
+  {
+    "date": "2004-08-23",
+    "kind": "loan_interest",
+    "amount": 55.19656305642544,
+    "asset": "c",
+    "margin_after": 19663.461070377496
+  },
+  {
+    "date": "2004-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 48.6288640146055
+  },
+  {
+    "date": "2004-09-21",
+    "kind": "loan_interest",
+    "amount": 48.6288640146055,
+    "asset": "c",
+    "margin_after": 20364.07621111882
+  },
+  {
+    "date": "2004-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 50.41763439653529
+  },
+  {
+    "date": "2004-10-21",
+    "kind": "loan_interest",
+    "amount": 50.41763439653529,
+    "asset": "c",
+    "margin_after": 20682.538141638997
+  },
+  {
+    "date": "2004-11-22",
+    "kind": "credit_sale_repay",
+    "amount": 53.90257495562658
+  },
+  {
+    "date": "2004-11-22",
+    "kind": "loan_interest",
+    "amount": 53.90257495562658,
+    "asset": "c",
+    "margin_after": 21805.897918154038
+  },
+  {
+    "date": "2004-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 48.96912332302691
+  },
+  {
+    "date": "2004-12-21",
+    "kind": "loan_interest",
+    "amount": 48.96912332302691,
+    "asset": "c",
+    "margin_after": 22345.59986906976
+  },
+  {
+    "date": "2005-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 52.46275684197796
+  },
+  {
+    "date": "2005-01-21",
+    "kind": "loan_interest",
+    "amount": 52.46275684197796,
+    "asset": "c",
+    "margin_after": 21394.118635443276
+  },
+  {
+    "date": "2005-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 54.283889124909
+  },
+  {
+    "date": "2005-02-22",
+    "kind": "loan_interest",
+    "amount": 54.283889124909,
+    "asset": "c",
+    "margin_after": 21153.552062537034
+  },
+  {
+    "date": "2005-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 45.914466024973294
+  },
+  {
+    "date": "2005-03-21",
+    "kind": "loan_interest",
+    "amount": 45.914466024973294,
+    "asset": "c",
+    "margin_after": 20925.93763985939
+  },
+  {
+    "date": "2005-03-22",
+    "kind": "collateral_out",
+    "amount": 3748.1920577408746
+  },
+  {
+    "date": "2005-03-23",
+    "kind": "planned_collateral",
+    "amount": 3020.393159963698,
+    "cash_part": 3020.393159963698,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2005-03-24",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 170.91564708720034
+  },
+  {
+    "date": "2005-03-24",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2005-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2005-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 95.78470162337229
+  },
+  {
+    "date": "2005-05-23",
+    "kind": "credit_sale_repay",
+    "amount": 103.62574590905774
+  },
+  {
+    "date": "2005-05-23",
+    "kind": "loan_interest",
+    "amount": 103.62574590905774,
+    "asset": "c",
+    "margin_after": 1152.523959518339
+  },
+  {
+    "date": "2005-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 94.14136402646209
+  },
+  {
+    "date": "2005-06-21",
+    "kind": "loan_interest",
+    "amount": 94.14136402646209,
+    "asset": "c",
+    "margin_after": 1234.6823874452816
+  },
+  {
+    "date": "2005-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 97.60427205644255
+  },
+  {
+    "date": "2005-07-21",
+    "kind": "loan_interest",
+    "amount": 97.60427205644255,
+    "asset": "c",
+    "margin_after": 2626.928273618114
+  },
+  {
+    "date": "2005-08-22",
+    "kind": "credit_sale_repay",
+    "amount": 104.35082195909828
+  },
+  {
+    "date": "2005-08-22",
+    "kind": "loan_interest",
+    "amount": 104.35082195909828,
+    "asset": "c",
+    "margin_after": 1916.4877075262089
+  },
+  {
+    "date": "2005-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 98.06904542349201
+  },
+  {
+    "date": "2005-09-21",
+    "kind": "loan_interest",
+    "amount": 98.06904542349201,
+    "asset": "c",
+    "margin_after": 1754.2541973424047
+  },
+  {
+    "date": "2005-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 98.29473856912416
+  },
+  {
+    "date": "2005-10-21",
+    "kind": "loan_interest",
+    "amount": 98.29473856912416,
+    "asset": "c",
+    "margin_after": 1513.1369328619633
+  },
+  {
+    "date": "2005-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 101.80498282209862
+  },
+  {
+    "date": "2005-11-21",
+    "kind": "loan_interest",
+    "amount": 101.80498282209862,
+    "asset": "c",
+    "margin_after": 3722.6001402080356
+  },
+  {
+    "date": "2005-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 98.75524203753136
+  },
+  {
+    "date": "2005-12-21",
+    "kind": "loan_interest",
+    "amount": 98.75524203753136,
+    "asset": "c",
+    "margin_after": 3407.6027342316297
+  },
+  {
+    "date": "2006-01-23",
+    "kind": "credit_sale_repay",
+    "amount": 108.88076581290828
+  },
+  {
+    "date": "2006-01-23",
+    "kind": "loan_interest",
+    "amount": 108.88076581290828,
+    "asset": "c",
+    "margin_after": 3533.0222175403615
+  },
+  {
+    "date": "2006-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 95.92531964552568
+  },
+  {
+    "date": "2006-02-21",
+    "kind": "loan_interest",
+    "amount": 95.92531964552568,
+    "asset": "c",
+    "margin_after": 3316.0524002234965
+  },
+  {
+    "date": "2006-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 92.82359233299321
+  },
+  {
+    "date": "2006-03-21",
+    "kind": "loan_interest",
+    "amount": 92.82359233299321,
+    "asset": "c",
+    "margin_after": 3159.9307902515657
+  },
+  {
+    "date": "2006-03-23",
+    "kind": "planned_collateral",
+    "amount": 18780.72980006558,
+    "cash_part": 18780.72980006558,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2006-03-24",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 148.7261148300713
+  },
+  {
+    "date": "2006-03-24",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2006-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2006-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 145.9486234673072
+  },
+  {
+    "date": "2006-04-21",
+    "kind": "loan_interest",
+    "amount": 145.9486234673072,
+    "asset": "c",
+    "margin_after": 1507.1138178334754
+  },
+  {
+    "date": "2006-05-22",
+    "kind": "credit_sale_repay",
+    "amount": 150.89844101571708
+  },
+  {
+    "date": "2006-06-12",
+    "kind": "collateral_in",
+    "amount": 277.0945008168783
+  },
+  {
+    "date": "2006-06-12",
+    "kind": "renewal_topup",
+    "amount": 277.0945008168783
+  },
+  {
+    "date": "2006-06-13",
+    "kind": "collateral_in",
+    "amount": 1089.7711833028588
+  },
+  {
+    "date": "2006-06-13",
+    "kind": "renewal_topup",
+    "amount": 1089.7711833028588
+  },
+  {
+    "date": "2006-06-14",
+    "kind": "collateral_in",
+    "amount": 204.41865275755117
+  },
+  {
+    "date": "2006-06-14",
+    "kind": "renewal_topup",
+    "amount": 204.41865275755117
+  },
+  {
+    "date": "2006-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 146.03074937004877
+  },
+  {
+    "date": "2006-07-11",
+    "kind": "collateral_in",
+    "amount": 92.62572591294884
+  },
+  {
+    "date": "2006-07-11",
+    "kind": "renewal_topup",
+    "amount": 92.62572591294884
+  },
+  {
+    "date": "2006-07-13",
+    "kind": "collateral_in",
+    "amount": 989.4680472818436
+  },
+  {
+    "date": "2006-07-13",
+    "kind": "renewal_topup",
+    "amount": 989.4680472818436
+  },
+  {
+    "date": "2006-07-14",
+    "kind": "collateral_in",
+    "amount": 525.2522510589188
+  },
+  {
+    "date": "2006-07-14",
+    "kind": "renewal_topup",
+    "amount": 525.2522510589188
+  },
+  {
+    "date": "2006-07-17",
+    "kind": "collateral_in",
+    "amount": 552.353847517079
+  },
+  {
+    "date": "2006-07-17",
+    "kind": "renewal_topup",
+    "amount": 552.353847517079
+  },
+  {
+    "date": "2006-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 146.0307493700488
+  },
+  {
+    "date": "2006-07-24",
+    "kind": "collateral_in",
+    "amount": 55.909954189512064
+  },
+  {
+    "date": "2006-07-24",
+    "kind": "renewal_topup",
+    "amount": 55.909954189512064
+  },
+  {
+    "date": "2006-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 150.89844101571708
+  },
+  {
+    "date": "2006-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 150.89844101571708
+  },
+  {
+    "date": "2006-09-21",
+    "kind": "loan_interest",
+    "amount": 150.89844101571708,
+    "asset": "c",
+    "margin_after": 2286.5890436260543
+  },
+  {
+    "date": "2006-10-23",
+    "kind": "credit_sale_repay",
+    "amount": 156.13655732754998
+  },
+  {
+    "date": "2006-10-23",
+    "kind": "loan_interest",
+    "amount": 156.13655732754998,
+    "asset": "c",
+    "margin_after": 3731.2567880014744
+  },
+  {
+    "date": "2006-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 141.84610544672222
+  },
+  {
+    "date": "2006-11-21",
+    "kind": "loan_interest",
+    "amount": 141.84610544672222,
+    "asset": "c",
+    "margin_after": 6243.276677868924
+  },
+  {
+    "date": "2006-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 147.0637908143874
+  },
+  {
+    "date": "2006-12-21",
+    "kind": "loan_interest",
+    "amount": 147.0637908143874,
+    "asset": "c",
+    "margin_after": 5404.4244081232
+  },
+  {
+    "date": "2007-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 157.2290549232087
+  },
+  {
+    "date": "2007-01-22",
+    "kind": "loan_interest",
+    "amount": 157.2290549232087,
+    "asset": "c",
+    "margin_after": 5727.670269175298
+  },
+  {
+    "date": "2007-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 147.76408119909857
+  },
+  {
+    "date": "2007-02-21",
+    "kind": "loan_interest",
+    "amount": 147.76408119909857,
+    "asset": "c",
+    "margin_after": 6318.752494906735
+  },
+  {
+    "date": "2007-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 138.23053160224566
+  },
+  {
+    "date": "2007-03-21",
+    "kind": "loan_interest",
+    "amount": 138.23053160224566,
+    "asset": "c",
+    "margin_after": 4818.721545570466
+  },
+  {
+    "date": "2007-03-26",
+    "kind": "planned_collateral",
+    "amount": 16356.461853529847,
+    "cash_part": 16356.461853529847,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2007-03-27",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 165.28202759520354
+  },
+  {
+    "date": "2007-03-27",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2007-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2007-04-23",
+    "kind": "credit_sale_repay",
+    "amount": 204.6891441744288
+  },
+  {
+    "date": "2007-04-23",
+    "kind": "loan_interest",
+    "amount": 204.6891441744288,
+    "asset": "c",
+    "margin_after": 1635.7810583429577
+  },
+  {
+    "date": "2007-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 181.9260083852838
+  },
+  {
+    "date": "2007-05-21",
+    "kind": "loan_interest",
+    "amount": 181.9260083852838,
+    "asset": "c",
+    "margin_after": 3193.9398563976406
+  },
+  {
+    "date": "2007-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 201.85071571304127
+  },
+  {
+    "date": "2007-06-21",
+    "kind": "loan_interest",
+    "amount": 201.85071571304127,
+    "asset": "c",
+    "margin_after": 3765.999841085558
+  },
+  {
+    "date": "2007-07-23",
+    "kind": "credit_sale_repay",
+    "amount": 208.85753115404046
+  },
+  {
+    "date": "2007-07-23",
+    "kind": "loan_interest",
+    "amount": 208.85753115404046,
+    "asset": "c",
+    "margin_after": 7585.429636400819
+  },
+  {
+    "date": "2007-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 189.74177408861513
+  },
+  {
+    "date": "2007-08-21",
+    "kind": "loan_interest",
+    "amount": 189.74177408861513,
+    "asset": "c",
+    "margin_after": 2160.8201319032414
+  },
+  {
+    "date": "2007-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 203.27863521493043
+  },
+  {
+    "date": "2007-09-21",
+    "kind": "loan_interest",
+    "amount": 203.27863521493043,
+    "asset": "c",
+    "margin_after": 7231.82020659846
+  },
+  {
+    "date": "2007-10-22",
+    "kind": "credit_sale_repay",
+    "amount": 203.76204851730458
+  },
+  {
+    "date": "2007-10-22",
+    "kind": "loan_interest",
+    "amount": 203.76204851730458,
+    "asset": "c",
+    "margin_after": 9599.59317309356
+  },
+  {
+    "date": "2007-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 197.65801104797842
+  },
+  {
+    "date": "2007-11-21",
+    "kind": "loan_interest",
+    "amount": 197.65801104797842,
+    "asset": "c",
+    "margin_after": 5594.26507442302
+  },
+  {
+    "date": "2007-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 198.11289523778746
+  },
+  {
+    "date": "2007-12-21",
+    "kind": "loan_interest",
+    "amount": 198.11289523778746,
+    "asset": "c",
+    "margin_after": 8530.100626925157
+  },
+  {
+    "date": "2008-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 211.80674803665298
+  },
+  {
+    "date": "2008-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 198.5688262843621
+  },
+  {
+    "date": "2008-03-17",
+    "kind": "collateral_in",
+    "amount": 1157.3733840534114
+  },
+  {
+    "date": "2008-03-17",
+    "kind": "renewal_topup",
+    "amount": 1157.3733840534114
+  },
+  {
+    "date": "2008-03-24",
+    "kind": "credit_sale_repay",
+    "amount": 211.80674803665292
+  },
+  {
+    "date": "2008-03-26",
+    "kind": "planned_collateral",
+    "amount": 22621.177445489313,
+    "cash_part": 22621.177445489313,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2008-03-27",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2008-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2008-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 185.3309045320713
+  },
+  {
+    "date": "2008-04-21",
+    "kind": "loan_interest",
+    "amount": 185.3309045320713,
+    "asset": "c",
+    "margin_after": 22618.752497829195
+  },
+  {
+    "date": "2008-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 198.9953412427373
+  },
+  {
+    "date": "2008-05-21",
+    "kind": "loan_interest",
+    "amount": 198.9953412427373,
+    "asset": "c",
+    "margin_after": 26187.262244541835
+  },
+  {
+    "date": "2008-06-23",
+    "kind": "credit_sale_repay",
+    "amount": 219.3986334363488
+  },
+  {
+    "date": "2008-06-23",
+    "kind": "loan_interest",
+    "amount": 219.3986334363488,
+    "asset": "c",
+    "margin_after": 23611.647973323503
+  },
+  {
+    "date": "2008-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 186.6276724918016
+  },
+  {
+    "date": "2008-07-21",
+    "kind": "loan_interest",
+    "amount": 186.6276724918016,
+    "asset": "c",
+    "margin_after": 19781.45509468179
+  },
+  {
+    "date": "2008-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 207.06731048894085
+  },
+  {
+    "date": "2008-08-21",
+    "kind": "loan_interest",
+    "amount": 207.06731048894085,
+    "asset": "c",
+    "margin_after": 21992.12543324495
+  },
+  {
+    "date": "2008-09-22",
+    "kind": "credit_sale_repay",
+    "amount": 214.25520884904725
+  },
+  {
+    "date": "2008-09-22",
+    "kind": "loan_interest",
+    "amount": 214.25520884904725,
+    "asset": "c",
+    "margin_after": 16060.280880812039
+  },
+  {
+    "date": "2008-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 194.6454274840667
+  },
+  {
+    "date": "2008-11-11",
+    "kind": "collateral_in",
+    "amount": 54.62017306010239
+  },
+  {
+    "date": "2008-11-11",
+    "kind": "renewal_topup",
+    "amount": 54.62017306010239
+  },
+  {
+    "date": "2008-11-12",
+    "kind": "collateral_in",
+    "amount": 1660.8005870563502
+  },
+  {
+    "date": "2008-11-12",
+    "kind": "renewal_topup",
+    "amount": 1660.8005870563502
+  },
+  {
+    "date": "2008-11-13",
+    "kind": "collateral_in",
+    "amount": 2079.0744161619223
+  },
+  {
+    "date": "2008-11-13",
+    "kind": "renewal_topup",
+    "amount": 2079.0744161619223
+  },
+  {
+    "date": "2008-11-17",
+    "kind": "collateral_in",
+    "amount": 267.46714434828027
+  },
+  {
+    "date": "2008-11-17",
+    "kind": "renewal_topup",
+    "amount": 267.46714434828027
+  },
+  {
+    "date": "2008-11-19",
+    "kind": "collateral_in",
+    "amount": 193.46836066196556
+  },
+  {
+    "date": "2008-11-19",
+    "kind": "renewal_topup",
+    "amount": 193.46836066196556
+  },
+  {
+    "date": "2008-11-20",
+    "kind": "collateral_in",
+    "amount": 3732.4282828990254
+  },
+  {
+    "date": "2008-11-20",
+    "kind": "renewal_topup",
+    "amount": 3732.4282828990254
+  },
+  {
+    "date": "2008-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 208.06925006917473
+  },
+  {
+    "date": "2008-11-21",
+    "kind": "collateral_in",
+    "amount": 824.3305462944845
+  },
+  {
+    "date": "2008-11-21",
+    "kind": "renewal_topup",
+    "amount": 824.3305462944845
+  },
+  {
+    "date": "2008-12-22",
+    "kind": "credit_sale_repay",
+    "amount": 208.06925006917473
+  },
+  {
+    "date": "2009-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 201.3573387766207
+  },
+  {
+    "date": "2009-02-23",
+    "kind": "credit_sale_repay",
+    "amount": 221.4930726542828
+  },
+  {
+    "date": "2009-03-23",
+    "kind": "credit_sale_repay",
+    "amount": 187.9335161915127
+  },
+  {
+    "date": "2009-03-23",
+    "kind": "loan_interest",
+    "amount": 187.9335161915127,
+    "asset": "c",
+    "margin_after": 139.66814503440708
+  },
+  {
+    "date": "2009-03-25",
+    "kind": "planned_collateral",
+    "amount": 20640.679227181325,
+    "cash_part": 20640.679227181325,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2009-03-26",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 514.3503870760433
+  },
+  {
+    "date": "2009-03-26",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2009-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2009-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 234.9539261557037
+  },
+  {
+    "date": "2009-04-21",
+    "kind": "loan_interest",
+    "amount": 234.9539261557037,
+    "asset": "c",
+    "margin_after": 3514.5288763559365
+  },
+  {
+    "date": "2009-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 248.35795645215953
+  },
+  {
+    "date": "2009-05-21",
+    "kind": "loan_interest",
+    "amount": 248.35795645215953,
+    "asset": "c",
+    "margin_after": 7921.0368144228805
+  },
+  {
+    "date": "2009-06-22",
+    "kind": "credit_sale_repay",
+    "amount": 265.5248212996034
+  },
+  {
+    "date": "2009-06-22",
+    "kind": "loan_interest",
+    "amount": 265.5248212996034,
+    "asset": "c",
+    "margin_after": 12194.517601271658
+  },
+  {
+    "date": "2009-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 241.2225710969992
+  },
+  {
+    "date": "2009-07-21",
+    "kind": "loan_interest",
+    "amount": 241.2225710969992,
+    "asset": "c",
+    "margin_after": 17073.539352091622
+  },
+  {
+    "date": "2009-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 258.43225758358057
+  },
+  {
+    "date": "2009-08-21",
+    "kind": "loan_interest",
+    "amount": 258.43225758358057,
+    "asset": "c",
+    "margin_after": 21202.515618302055
+  },
+  {
+    "date": "2009-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 259.04683073312174
+  },
+  {
+    "date": "2009-09-21",
+    "kind": "loan_interest",
+    "amount": 259.04683073312174,
+    "asset": "c",
+    "margin_after": 25590.615468929944
+  },
+  {
+    "date": "2009-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 251.28664392399236
+  },
+  {
+    "date": "2009-10-21",
+    "kind": "loan_interest",
+    "amount": 251.28664392399236,
+    "asset": "c",
+    "margin_after": 27347.324348294347
+  },
+  {
+    "date": "2009-11-23",
+    "kind": "credit_sale_repay",
+    "amount": 277.0514421766266
+  },
+  {
+    "date": "2009-11-23",
+    "kind": "loan_interest",
+    "amount": 277.0514421766266,
+    "asset": "c",
+    "margin_after": 28406.735833930972
+  },
+  {
+    "date": "2009-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 235.6690422546382
+  },
+  {
+    "date": "2009-12-21",
+    "kind": "loan_interest",
+    "amount": 235.6690422546382,
+    "asset": "c",
+    "margin_after": 29789.23565169967
+  },
+  {
+    "date": "2010-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 261.47973713446066
+  },
+  {
+    "date": "2010-01-21",
+    "kind": "loan_interest",
+    "amount": 261.47973713446066,
+    "asset": "c",
+    "margin_after": 32050.97776042296
+  },
+  {
+    "date": "2010-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 270.5564463905566
+  },
+  {
+    "date": "2010-02-22",
+    "kind": "loan_interest",
+    "amount": 270.5564463905566,
+    "asset": "c",
+    "margin_after": 29837.89525284833
+  },
+  {
+    "date": "2010-03-22",
+    "kind": "credit_sale_repay",
+    "amount": 237.31803101357315
+  },
+  {
+    "date": "2010-03-22",
+    "kind": "loan_interest",
+    "amount": 237.31803101357315,
+    "asset": "c",
+    "margin_after": 33948.38502527454
+  },
+  {
+    "date": "2010-03-25",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2010-03-26",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 15527.158055748558
+  },
+  {
+    "date": "2010-03-26",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2010-04-06",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2010-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 294.70588646654255
+  },
+  {
+    "date": "2010-04-21",
+    "kind": "loan_interest",
+    "amount": 294.70588646654255,
+    "asset": "c",
+    "margin_after": 19370.981442471162
+  },
+  {
+    "date": "2010-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 301.5211000134793
+  },
+  {
+    "date": "2010-05-21",
+    "kind": "loan_interest",
+    "amount": 301.5211000134793,
+    "asset": "c",
+    "margin_after": 4612.364534912728
+  },
+  {
+    "date": "2010-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 312.28884530565017
+  },
+  {
+    "date": "2010-06-21",
+    "kind": "loan_interest",
+    "amount": 312.28884530565017,
+    "asset": "c",
+    "margin_after": 13432.23645839291
+  },
+  {
+    "date": "2010-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 302.9337037232548
+  },
+  {
+    "date": "2010-07-21",
+    "kind": "loan_interest",
+    "amount": 302.9337037232548,
+    "asset": "c",
+    "margin_after": 9039.915980701966
+  },
+  {
+    "date": "2010-08-23",
+    "kind": "credit_sale_repay",
+    "amount": 333.9939528414441
+  },
+  {
+    "date": "2010-08-23",
+    "kind": "loan_interest",
+    "amount": 333.9939528414441,
+    "asset": "c",
+    "margin_after": 7416.235066505589
+  },
+  {
+    "date": "2010-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 294.25285950909296
+  },
+  {
+    "date": "2010-09-21",
+    "kind": "loan_interest",
+    "amount": 294.25285950909296,
+    "asset": "c",
+    "margin_after": 15578.252290396542
+  },
+  {
+    "date": "2010-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 305.07669449997263
+  },
+  {
+    "date": "2010-10-21",
+    "kind": "loan_interest",
+    "amount": 305.07669449997263,
+    "asset": "c",
+    "margin_after": 20964.446702279747
+  },
+  {
+    "date": "2010-11-22",
+    "kind": "credit_sale_repay",
+    "amount": 326.1640413979762
+  },
+  {
+    "date": "2010-11-22",
+    "kind": "loan_interest",
+    "amount": 326.1640413979762,
+    "asset": "c",
+    "margin_after": 22209.203288787707
+  },
+  {
+    "date": "2010-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 296.3117658090122
+  },
+  {
+    "date": "2010-12-21",
+    "kind": "loan_interest",
+    "amount": 296.3117658090122,
+    "asset": "c",
+    "margin_after": 27537.335642542075
+  },
+  {
+    "date": "2011-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 317.4517137362228
+  },
+  {
+    "date": "2011-01-21",
+    "kind": "loan_interest",
+    "amount": 317.4517137362228,
+    "asset": "c",
+    "margin_after": 30683.859397507546
+  },
+  {
+    "date": "2011-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 328.47137032609976
+  },
+  {
+    "date": "2011-02-22",
+    "kind": "loan_interest",
+    "amount": 328.47137032609976,
+    "asset": "c",
+    "margin_after": 33643.746061762045
+  },
+  {
+    "date": "2011-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 277.82805941392485
+  },
+  {
+    "date": "2011-03-21",
+    "kind": "loan_interest",
+    "amount": 277.82805941392485,
+    "asset": "c",
+    "margin_after": 27735.446315347166
+  },
+  {
+    "date": "2011-03-24",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2011-03-25",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 11202.89267979132
+  },
+  {
+    "date": "2011-03-25",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2011-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2011-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 361.07312741440734
+  },
+  {
+    "date": "2011-04-21",
+    "kind": "loan_interest",
+    "amount": 361.07312741440734,
+    "asset": "c",
+    "margin_after": 14537.274115776183
+  },
+  {
+    "date": "2011-05-23",
+    "kind": "credit_sale_repay",
+    "amount": 379.9419615896898
+  },
+  {
+    "date": "2011-05-23",
+    "kind": "loan_interest",
+    "amount": 379.9419615896898,
+    "asset": "c",
+    "margin_after": 10523.823810656455
+  },
+  {
+    "date": "2011-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 345.16764343808336
+  },
+  {
+    "date": "2011-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 357.069975970431
+  },
+  {
+    "date": "2011-07-21",
+    "kind": "loan_interest",
+    "amount": 357.069975970431,
+    "asset": "c",
+    "margin_after": 14365.416076884756
+  },
+  {
+    "date": "2011-08-22",
+    "kind": "credit_sale_repay",
+    "amount": 381.7511744555908
+  },
+  {
+    "date": "2011-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 357.8917260521165
+  },
+  {
+    "date": "2011-09-21",
+    "kind": "loan_interest",
+    "amount": 357.8917260521165,
+    "asset": "c",
+    "margin_after": 9190.86849005965
+  },
+  {
+    "date": "2011-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 358.7153672846747
+  },
+  {
+    "date": "2011-10-21",
+    "kind": "loan_interest",
+    "amount": 358.7153672846747,
+    "asset": "c",
+    "margin_after": 10049.09748156303
+  },
+  {
+    "date": "2011-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 371.5256008210216
+  },
+  {
+    "date": "2011-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 359.54090402034353
+  },
+  {
+    "date": "2012-01-23",
+    "kind": "credit_sale_repay",
+    "amount": 395.49499442237783
+  },
+  {
+    "date": "2012-01-23",
+    "kind": "loan_interest",
+    "amount": 395.49499442237783,
+    "asset": "c",
+    "margin_after": 16203.269232738443
+  },
+  {
+    "date": "2012-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 348.43604813876397
+  },
+  {
+    "date": "2012-02-21",
+    "kind": "loan_interest",
+    "amount": 348.43604813876397,
+    "asset": "c",
+    "margin_after": 24836.279853221266
+  },
+  {
+    "date": "2012-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 349.21119901845896
+  },
+  {
+    "date": "2012-03-21",
+    "kind": "loan_interest",
+    "amount": 349.21119901845896,
+    "asset": "c",
+    "margin_after": 33502.14527233179
+  },
+  {
+    "date": "2012-03-23",
+    "kind": "planned_collateral",
+    "amount": 8615.892184491939,
+    "cash_part": 8615.892184491939,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2012-03-26",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 21895.141311360625
+  },
+  {
+    "date": "2012-03-26",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2012-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2012-04-23",
+    "kind": "credit_sale_repay",
+    "amount": 441.2211956038013
+  },
+  {
+    "date": "2012-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 380.8784241652843
+  },
+  {
+    "date": "2012-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 421.6868267544219
+  },
+  {
+    "date": "2012-07-23",
+    "kind": "credit_sale_repay",
+    "amount": 435.2896276174678
+  },
+  {
+    "date": "2012-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 394.4812250283302
+  },
+  {
+    "date": "2012-08-21",
+    "kind": "loan_interest",
+    "amount": 394.4812250283302,
+    "asset": "c",
+    "margin_after": 24509.49159062325
+  },
+  {
+    "date": "2012-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 422.6249355306536
+  },
+  {
+    "date": "2012-09-21",
+    "kind": "loan_interest",
+    "amount": 422.6249355306536,
+    "asset": "c",
+    "margin_after": 29485.585233662237
+  },
+  {
+    "date": "2012-10-22",
+    "kind": "credit_sale_repay",
+    "amount": 423.62997236364157
+  },
+  {
+    "date": "2012-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 409.96448938416927
+  },
+  {
+    "date": "2012-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 409.96448938416927
+  },
+  {
+    "date": "2013-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 437.295455343114
+  },
+  {
+    "date": "2013-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 409.9644893841694
+  },
+  {
+    "date": "2013-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 382.63352342522467
+  },
+  {
+    "date": "2013-03-21",
+    "kind": "loan_interest",
+    "amount": 382.63352342522467,
+    "asset": "c",
+    "margin_after": 23366.139120893084
+  },
+  {
+    "date": "2013-03-27",
+    "kind": "planned_collateral",
+    "amount": 21296.90943782864,
+    "cash_part": 21296.90943782864,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2013-03-28",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 24428.576973315903
+  },
+  {
+    "date": "2013-03-28",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2013-04-08",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2013-04-22",
+    "kind": "credit_sale_repay",
+    "amount": 476.59090640335774
+  },
+  {
+    "date": "2013-04-22",
+    "kind": "loan_interest",
+    "amount": 476.59090640335774,
+    "asset": "c",
+    "margin_after": 22446.380629414245
+  },
+  {
+    "date": "2013-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 442.70363719105535
+  },
+  {
+    "date": "2013-05-21",
+    "kind": "loan_interest",
+    "amount": 442.70363719105535,
+    "asset": "c",
+    "margin_after": 38726.385323389935
+  },
+  {
+    "date": "2013-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 474.287708150417
+  },
+  {
+    "date": "2013-06-21",
+    "kind": "loan_interest",
+    "amount": 474.287708150417,
+    "asset": "c",
+    "margin_after": 29016.446002209952
+  },
+  {
+    "date": "2013-07-22",
+    "kind": "credit_sale_repay",
+    "amount": 475.41560330295016
+  },
+  {
+    "date": "2013-07-22",
+    "kind": "loan_interest",
+    "amount": 475.41560330295016,
+    "asset": "c",
+    "margin_after": 40250.88500903309
+  },
+  {
+    "date": "2013-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 461.173723241477
+  },
+  {
+    "date": "2013-08-21",
+    "kind": "loan_interest",
+    "amount": 461.173723241477,
+    "asset": "c",
+    "margin_after": 41300.47986295929
+  },
+  {
+    "date": "2013-09-23",
+    "kind": "credit_sale_repay",
+    "amount": 508.45856000473464
+  },
+  {
+    "date": "2013-09-23",
+    "kind": "loan_interest",
+    "amount": 508.45856000473464,
+    "asset": "c",
+    "margin_after": 52573.118095608705
+  },
+  {
+    "date": "2013-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 432.51152537258866
+  },
+  {
+    "date": "2013-10-21",
+    "kind": "loan_interest",
+    "amount": 432.51152537258866,
+    "asset": "c",
+    "margin_after": 60787.77899042072
+  },
+  {
+    "date": "2013-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 479.88059390445164
+  },
+  {
+    "date": "2013-11-21",
+    "kind": "loan_interest",
+    "amount": 479.88059390445164,
+    "asset": "c",
+    "margin_after": 62224.339379794095
+  },
+  {
+    "date": "2013-12-23",
+    "kind": "credit_sale_repay",
+    "amount": 496.53862131509374
+  },
+  {
+    "date": "2013-12-23",
+    "kind": "loan_interest",
+    "amount": 496.53862131509374,
+    "asset": "c",
+    "margin_after": 74474.69691160483
+  },
+  {
+    "date": "2014-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 451.0927539517567
+  },
+  {
+    "date": "2014-01-21",
+    "kind": "loan_interest",
+    "amount": 451.0927539517567,
+    "asset": "c",
+    "margin_after": 77471.75735904979
+  },
+  {
+    "date": "2014-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 483.2753346968919
+  },
+  {
+    "date": "2014-02-21",
+    "kind": "loan_interest",
+    "amount": 483.2753346968919,
+    "asset": "c",
+    "margin_after": 82380.53058609382
+  },
+  {
+    "date": "2014-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 437.544802857862
+  },
+  {
+    "date": "2014-03-21",
+    "kind": "loan_interest",
+    "amount": 437.544802857862,
+    "asset": "c",
+    "margin_after": 84269.64508738973
+  },
+  {
+    "date": "2014-03-27",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2014-03-28",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 54126.90523779766
+  },
+  {
+    "date": "2014-03-28",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2014-04-07",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2014-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 522.2870384760632
+  },
+  {
+    "date": "2014-04-21",
+    "kind": "loan_interest",
+    "amount": 522.2870384760632,
+    "asset": "c",
+    "margin_after": 51060.62392756491
+  },
+  {
+    "date": "2014-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 517.0343283954758
+  },
+  {
+    "date": "2014-05-21",
+    "kind": "loan_interest",
+    "amount": 517.0343283954758,
+    "asset": "c",
+    "margin_after": 55857.3293160663
+  },
+  {
+    "date": "2014-06-23",
+    "kind": "credit_sale_repay",
+    "amount": 570.0466371786875
+  },
+  {
+    "date": "2014-06-23",
+    "kind": "loan_interest",
+    "amount": 570.0466371786875,
+    "asset": "c",
+    "margin_after": 70093.54943380327
+  },
+  {
+    "date": "2014-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 484.90036351708375
+  },
+  {
+    "date": "2014-07-21",
+    "kind": "loan_interest",
+    "amount": 484.90036351708375,
+    "asset": "c",
+    "margin_after": 79242.09679274546
+  },
+  {
+    "date": "2014-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 538.0071068131822
+  },
+  {
+    "date": "2014-08-21",
+    "kind": "loan_interest",
+    "amount": 538.0071068131822,
+    "asset": "c",
+    "margin_after": 87293.44324522595
+  },
+  {
+    "date": "2014-09-22",
+    "kind": "credit_sale_repay",
+    "amount": 556.6828716727185
+  },
+  {
+    "date": "2014-09-22",
+    "kind": "loan_interest",
+    "amount": 556.6828716727185,
+    "asset": "c",
+    "margin_after": 90343.89827422542
+  },
+  {
+    "date": "2014-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 505.73228119805395
+  },
+  {
+    "date": "2014-10-21",
+    "kind": "loan_interest",
+    "amount": 505.73228119805395,
+    "asset": "c",
+    "margin_after": 76646.71502389907
+  },
+  {
+    "date": "2014-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 541.8130424882662
+  },
+  {
+    "date": "2014-11-21",
+    "kind": "loan_interest",
+    "amount": 541.8130424882662,
+    "asset": "c",
+    "margin_after": 104006.01318552885
+  },
+  {
+    "date": "2014-12-22",
+    "kind": "credit_sale_repay",
+    "amount": 543.1015184358821
+  },
+  {
+    "date": "2014-12-22",
+    "kind": "loan_interest",
+    "amount": 543.1015184358821,
+    "asset": "c",
+    "margin_after": 103102.89462384
+  },
+  {
+    "date": "2015-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 526.8319920824551
+  },
+  {
+    "date": "2015-01-21",
+    "kind": "loan_interest",
+    "amount": 526.8319920824551,
+    "asset": "c",
+    "margin_after": 93544.21622681388
+  },
+  {
+    "date": "2015-02-23",
+    "kind": "credit_sale_repay",
+    "amount": 580.8488700870956
+  },
+  {
+    "date": "2015-02-23",
+    "kind": "loan_interest",
+    "amount": 580.8488700870956,
+    "asset": "c",
+    "margin_after": 114707.68475290385
+  },
+  {
+    "date": "2015-03-23",
+    "kind": "credit_sale_repay",
+    "amount": 494.08909707405655
+  },
+  {
+    "date": "2015-03-23",
+    "kind": "loan_interest",
+    "amount": 494.08909707405655,
+    "asset": "c",
+    "margin_after": 115186.40383229923
+  },
+  {
+    "date": "2015-03-27",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2015-03-30",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 87897.14406129468
+  },
+  {
+    "date": "2015-03-30",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2015-04-08",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2015-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 546.587739945202
+  },
+  {
+    "date": "2015-04-21",
+    "kind": "loan_interest",
+    "amount": 546.587739945202,
+    "asset": "c",
+    "margin_after": 93910.3017714479
+  },
+  {
+    "date": "2015-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 577.8035550066156
+  },
+  {
+    "date": "2015-05-21",
+    "kind": "loan_interest",
+    "amount": 577.8035550066156,
+    "asset": "c",
+    "margin_after": 98315.45159975301
+  },
+  {
+    "date": "2015-06-22",
+    "kind": "credit_sale_repay",
+    "amount": 617.7421810078403
+  },
+  {
+    "date": "2015-06-22",
+    "kind": "loan_interest",
+    "amount": 617.7421810078403,
+    "asset": "c",
+    "margin_after": 101145.89041294332
+  },
+  {
+    "date": "2015-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 561.203116335556
+  },
+  {
+    "date": "2015-07-21",
+    "kind": "loan_interest",
+    "amount": 561.203116335556,
+    "asset": "c",
+    "margin_after": 111210.29467139377
+  },
+  {
+    "date": "2015-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 601.2413666680413
+  },
+  {
+    "date": "2015-08-21",
+    "kind": "loan_interest",
+    "amount": 601.2413666680413,
+    "asset": "c",
+    "margin_after": 82712.14011706956
+  },
+  {
+    "date": "2015-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 602.6711680550769
+  },
+  {
+    "date": "2015-09-21",
+    "kind": "loan_interest",
+    "amount": 602.6711680550769,
+    "asset": "c",
+    "margin_after": 83901.09124926395
+  },
+  {
+    "date": "2015-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 584.6171318974145
+  },
+  {
+    "date": "2015-10-21",
+    "kind": "loan_interest",
+    "amount": 584.6171318974145,
+    "asset": "c",
+    "margin_after": 92253.87089779253
+  },
+  {
+    "date": "2015-11-23",
+    "kind": "credit_sale_repay",
+    "amount": 644.5588073607809
+  },
+  {
+    "date": "2015-11-23",
+    "kind": "loan_interest",
+    "amount": 644.5588073607809,
+    "asset": "c",
+    "margin_after": 110322.5969040219
+  },
+  {
+    "date": "2015-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 548.2828590030069
+  },
+  {
+    "date": "2015-12-21",
+    "kind": "loan_interest",
+    "amount": 548.2828590030069,
+    "asset": "c",
+    "margin_after": 98694.19726512762
+  },
+  {
+    "date": "2016-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 608.331312742097
+  },
+  {
+    "date": "2016-01-21",
+    "kind": "loan_interest",
+    "amount": 608.331312742097,
+    "asset": "c",
+    "margin_after": 65738.8314511126
+  },
+  {
+    "date": "2016-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 629.4482318489106
+  },
+  {
+    "date": "2016-02-22",
+    "kind": "loan_interest",
+    "amount": 629.4482318489106,
+    "asset": "c",
+    "margin_after": 69532.37687574889
+  },
+  {
+    "date": "2016-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 552.1192231794937
+  },
+  {
+    "date": "2016-03-21",
+    "kind": "loan_interest",
+    "amount": 552.1192231794937,
+    "asset": "c",
+    "margin_after": 85078.59199257028
+  },
+  {
+    "date": "2016-03-29",
+    "kind": "planned_collateral",
+    "amount": 10755.549461598275,
+    "cash_part": 10755.549461598275,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2016-03-30",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 82252.19528447498
+  },
+  {
+    "date": "2016-03-30",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2016-04-07",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2016-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 646.3412637843567
+  },
+  {
+    "date": "2016-04-21",
+    "kind": "loan_interest",
+    "amount": 646.3412637843567,
+    "asset": "c",
+    "margin_after": 85193.1775996991
+  },
+  {
+    "date": "2016-05-23",
+    "kind": "credit_sale_repay",
+    "amount": 683.0312625668729
+  },
+  {
+    "date": "2016-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 618.9970817012281
+  },
+  {
+    "date": "2016-06-21",
+    "kind": "loan_interest",
+    "amount": 618.9970817012281,
+    "asset": "c",
+    "margin_after": 73661.15119472815
+  },
+  {
+    "date": "2016-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 641.7663498855637
+  },
+  {
+    "date": "2016-07-21",
+    "kind": "loan_interest",
+    "amount": 641.7663498855637,
+    "asset": "c",
+    "margin_after": 94213.52796531888
+  },
+  {
+    "date": "2016-08-22",
+    "kind": "credit_sale_repay",
+    "amount": 686.126177730439
+  },
+  {
+    "date": "2016-08-22",
+    "kind": "loan_interest",
+    "amount": 686.126177730439,
+    "asset": "c",
+    "margin_after": 105496.98779514527
+  },
+  {
+    "date": "2016-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 644.8223217299401
+  },
+  {
+    "date": "2016-09-21",
+    "kind": "loan_interest",
+    "amount": 644.8223217299401,
+    "asset": "c",
+    "margin_after": 106996.85472789007
+  },
+  {
+    "date": "2016-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 646.3062963881681
+  },
+  {
+    "date": "2016-10-21",
+    "kind": "loan_interest",
+    "amount": 646.3062963881681,
+    "asset": "c",
+    "margin_after": 107108.09773075058
+  },
+  {
+    "date": "2016-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 669.3868090949835
+  },
+  {
+    "date": "2016-11-21",
+    "kind": "loan_interest",
+    "amount": 669.3868090949835,
+    "asset": "c",
+    "margin_after": 105499.0702734579
+  },
+  {
+    "date": "2016-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 649.3341928501023
+  },
+  {
+    "date": "2016-12-21",
+    "kind": "loan_interest",
+    "amount": 649.3341928501023,
+    "asset": "c",
+    "margin_after": 116095.7621829175
+  },
+  {
+    "date": "2017-01-23",
+    "kind": "credit_sale_repay",
+    "amount": 715.9114060918066
+  },
+  {
+    "date": "2017-01-23",
+    "kind": "loan_interest",
+    "amount": 715.9114060918066,
+    "asset": "c",
+    "margin_after": 123949.37154877838
+  },
+  {
+    "date": "2017-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 630.7269236628814
+  },
+  {
+    "date": "2017-02-21",
+    "kind": "loan_interest",
+    "amount": 630.7269236628814,
+    "asset": "c",
+    "margin_after": 146842.91259406082
+  },
+  {
+    "date": "2017-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 610.3324862702927
+  },
+  {
+    "date": "2017-03-21",
+    "kind": "loan_interest",
+    "amount": 610.3324862702927,
+    "asset": "c",
+    "margin_after": 154691.9368751196
+  },
+  {
+    "date": "2017-03-28",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2017-03-29",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 132592.4785269563
+  },
+  {
+    "date": "2017-03-29",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2017-04-06",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2017-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 712.4643447059372
+  },
+  {
+    "date": "2017-04-21",
+    "kind": "loan_interest",
+    "amount": 712.4643447059372,
+    "asset": "c",
+    "margin_after": 135146.18773655116
+  },
+  {
+    "date": "2017-05-22",
+    "kind": "credit_sale_repay",
+    "amount": 726.4326160791011
+  },
+  {
+    "date": "2017-05-22",
+    "kind": "loan_interest",
+    "amount": 726.4326160791011,
+    "asset": "c",
+    "margin_after": 153489.67428567875
+  },
+  {
+    "date": "2017-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 704.6710960131559
+  },
+  {
+    "date": "2017-06-21",
+    "kind": "loan_interest",
+    "amount": 704.6710960131559,
+    "asset": "c",
+    "margin_after": 159275.8097131384
+  },
+  {
+    "date": "2017-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 706.292804836857
+  },
+  {
+    "date": "2017-07-21",
+    "kind": "loan_interest",
+    "amount": 706.292804836857,
+    "asset": "c",
+    "margin_after": 172407.91136040684
+  },
+  {
+    "date": "2017-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 731.5155206727843
+  },
+  {
+    "date": "2017-08-21",
+    "kind": "loan_interest",
+    "amount": 731.5155206727843,
+    "asset": "c",
+    "margin_after": 162684.3975873324
+  },
+  {
+    "date": "2017-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 733.2551247055079
+  },
+  {
+    "date": "2017-09-21",
+    "kind": "loan_interest",
+    "amount": 733.2551247055079,
+    "asset": "c",
+    "margin_after": 177164.00853324818
+  },
+  {
+    "date": "2017-10-23",
+    "kind": "credit_sale_repay",
+    "amount": 758.7085064873312
+  },
+  {
+    "date": "2017-10-23",
+    "kind": "loan_interest",
+    "amount": 758.7085064873312,
+    "asset": "c",
+    "margin_after": 189569.03853103702
+  },
+  {
+    "date": "2017-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 689.2674505993972
+  },
+  {
+    "date": "2017-11-21",
+    "kind": "loan_interest",
+    "amount": 689.2674505993972,
+    "asset": "c",
+    "margin_after": 208419.18169215362
+  },
+  {
+    "date": "2017-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 714.6215530618804
+  },
+  {
+    "date": "2017-12-21",
+    "kind": "loan_interest",
+    "amount": 714.6215530618804,
+    "asset": "c",
+    "margin_after": 219991.6696465608
+  },
+  {
+    "date": "2018-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 764.0172390053941
+  },
+  {
+    "date": "2018-01-22",
+    "kind": "loan_interest",
+    "amount": 764.0172390053941,
+    "asset": "c",
+    "margin_after": 249513.79441450443
+  },
+  {
+    "date": "2018-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 718.0244478162268
+  },
+  {
+    "date": "2018-02-21",
+    "kind": "loan_interest",
+    "amount": 718.0244478162268,
+    "asset": "c",
+    "margin_after": 247817.45021148605
+  },
+  {
+    "date": "2018-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 671.6984284652491
+  },
+  {
+    "date": "2018-03-21",
+    "kind": "loan_interest",
+    "amount": 671.6984284652491,
+    "asset": "c",
+    "margin_after": 251796.37366835223
+  },
+  {
+    "date": "2018-03-27",
+    "kind": "collateral_out",
+    "amount": 125869.90946699376
+  },
+  {
+    "date": "2018-03-28",
+    "kind": "planned_collateral",
+    "amount": 78284.8682086211,
+    "cash_part": 78284.8682086211,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2018-03-29",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 156078.08084828898
+  },
+  {
+    "date": "2018-03-29",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2018-04-09",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2018-04-23",
+    "kind": "credit_sale_repay",
+    "amount": 831.7011499613678
+  },
+  {
+    "date": "2018-04-23",
+    "kind": "loan_interest",
+    "amount": 831.7011499613678,
+    "asset": "c",
+    "margin_after": 173289.4972728618
+  },
+  {
+    "date": "2018-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 717.8865524912392
+  },
+  {
+    "date": "2018-05-21",
+    "kind": "loan_interest",
+    "amount": 717.8865524912392,
+    "asset": "c",
+    "margin_after": 193056.4905720086
+  },
+  {
+    "date": "2018-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 796.5101620557848
+  },
+  {
+    "date": "2018-06-21",
+    "kind": "loan_interest",
+    "amount": 796.5101620557848,
+    "asset": "c",
+    "margin_after": 226154.96256544042
+  },
+  {
+    "date": "2018-07-23",
+    "kind": "credit_sale_repay",
+    "amount": 824.1593070325085
+  },
+  {
+    "date": "2018-07-23",
+    "kind": "loan_interest",
+    "amount": 824.1593070325085,
+    "asset": "c",
+    "margin_after": 227660.1436038172
+  },
+  {
+    "date": "2018-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 748.7278442100195
+  },
+  {
+    "date": "2018-08-21",
+    "kind": "loan_interest",
+    "amount": 748.7278442100195,
+    "asset": "c",
+    "margin_after": 233052.1405365386
+  },
+  {
+    "date": "2018-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 802.1447836117928
+  },
+  {
+    "date": "2018-09-21",
+    "kind": "loan_interest",
+    "amount": 802.1447836117928,
+    "asset": "c",
+    "margin_after": 250181.07912228955
+  },
+  {
+    "date": "2018-10-22",
+    "kind": "credit_sale_repay",
+    "amount": 804.0523498369304
+  },
+  {
+    "date": "2018-10-22",
+    "kind": "loan_interest",
+    "amount": 804.0523498369304,
+    "asset": "c",
+    "margin_after": 208840.06630257276
+  },
+  {
+    "date": "2018-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 779.9655991077457
+  },
+  {
+    "date": "2018-11-21",
+    "kind": "loan_interest",
+    "amount": 779.9655991077457,
+    "asset": "c",
+    "margin_after": 160569.63623090988
+  },
+  {
+    "date": "2018-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 781.7605884317194
+  },
+  {
+    "date": "2019-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 833.877960993834
+  },
+  {
+    "date": "2019-01-22",
+    "kind": "loan_interest",
+    "amount": 833.877960993834,
+    "asset": "c",
+    "margin_after": 170561.59067590034
+  },
+  {
+    "date": "2019-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 783.6796500405814
+  },
+  {
+    "date": "2019-02-21",
+    "kind": "loan_interest",
+    "amount": 783.6796500405814,
+    "asset": "c",
+    "margin_after": 198010.34695862993
+  },
+  {
+    "date": "2019-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 733.1176409848129
+  },
+  {
+    "date": "2019-03-21",
+    "kind": "loan_interest",
+    "amount": 733.1176409848129,
+    "asset": "c",
+    "margin_after": 225636.22574250153
+  },
+  {
+    "date": "2019-03-28",
+    "kind": "collateral_out",
+    "amount": 90935.93957523338
+  },
+  {
+    "date": "2019-03-29",
+    "kind": "planned_collateral",
+    "amount": 74848.98466773267,
+    "cash_part": 74848.98466773267,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2019-04-01",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 199468.62770440007
+  },
+  {
+    "date": "2019-04-01",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2019-04-09",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2019-04-22",
+    "kind": "credit_sale_repay",
+    "amount": 871.8675638042699
+  },
+  {
+    "date": "2019-04-22",
+    "kind": "loan_interest",
+    "amount": 871.8675638042699,
+    "asset": "c",
+    "margin_after": 217462.9964521
+  },
+  {
+    "date": "2019-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 807.3641069902473
+  },
+  {
+    "date": "2019-05-21",
+    "kind": "loan_interest",
+    "amount": 807.3641069902473,
+    "asset": "c",
+    "margin_after": 196905.30347649124
+  },
+  {
+    "date": "2019-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 864.9643684360702
+  },
+  {
+    "date": "2019-06-21",
+    "kind": "loan_interest",
+    "amount": 864.9643684360702,
+    "asset": "c",
+    "margin_after": 222556.71146468044
+  },
+  {
+    "date": "2019-07-22",
+    "kind": "credit_sale_repay",
+    "amount": 867.0213247971741
+  },
+  {
+    "date": "2019-07-22",
+    "kind": "loan_interest",
+    "amount": 867.0213247971741,
+    "asset": "c",
+    "margin_after": 233415.10167422827
+  },
+  {
+    "date": "2019-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 841.0482317124855
+  },
+  {
+    "date": "2019-08-21",
+    "kind": "loan_interest",
+    "amount": 841.0482317124855,
+    "asset": "c",
+    "margin_after": 221280.1350302605
+  },
+  {
+    "date": "2019-09-23",
+    "kind": "credit_sale_repay",
+    "amount": 927.2821742429178
+  },
+  {
+    "date": "2019-09-23",
+    "kind": "loan_interest",
+    "amount": 927.2821742429178,
+    "asset": "c",
+    "margin_after": 227885.561999731
+  },
+  {
+    "date": "2019-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 788.7766264154943
+  },
+  {
+    "date": "2019-10-21",
+    "kind": "loan_interest",
+    "amount": 788.7766264154943,
+    "asset": "c",
+    "margin_after": 235556.4869621887
+  },
+  {
+    "date": "2019-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 875.1641834657265
+  },
+  {
+    "date": "2019-11-21",
+    "kind": "loan_interest",
+    "amount": 875.1641834657265,
+    "asset": "c",
+    "margin_after": 269270.4713173543
+  },
+  {
+    "date": "2019-12-23",
+    "kind": "credit_sale_repay",
+    "amount": 905.5436344003214
+  },
+  {
+    "date": "2019-12-23",
+    "kind": "loan_interest",
+    "amount": 905.5436344003214,
+    "asset": "c",
+    "margin_after": 307925.8991099047
+  },
+  {
+    "date": "2020-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 822.6634431441482
+  },
+  {
+    "date": "2020-01-21",
+    "kind": "loan_interest",
+    "amount": 822.6634431441482,
+    "asset": "c",
+    "margin_after": 347683.70070458733
+  },
+  {
+    "date": "2020-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 881.3552143001286
+  },
+  {
+    "date": "2020-02-21",
+    "kind": "loan_interest",
+    "amount": 881.3552143001286,
+    "asset": "c",
+    "margin_after": 387688.88236556493
+  },
+  {
+    "date": "2020-03-23",
+    "kind": "credit_sale_repay",
+    "amount": 883.4511494398897
+  },
+  {
+    "date": "2020-03-27",
+    "kind": "collateral_out",
+    "amount": 63681.265879006125
+  },
+  {
+    "date": "2020-03-30",
+    "kind": "planned_collateral",
+    "amount": 78313.21399836568,
+    "cash_part": 78313.21399836568,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2020-03-31",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 221682.20181302354
+  },
+  {
+    "date": "2020-03-31",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2020-04-08",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2020-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 858.6734791711208
+  },
+  {
+    "date": "2020-04-21",
+    "kind": "loan_interest",
+    "amount": 858.6734791711208,
+    "asset": "c",
+    "margin_after": 294100.688548486
+  },
+  {
+    "date": "2020-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 902.9562477918162
+  },
+  {
+    "date": "2020-05-21",
+    "kind": "loan_interest",
+    "amount": 902.9562477918162,
+    "asset": "c",
+    "margin_after": 373928.082980864
+  },
+  {
+    "date": "2020-06-22",
+    "kind": "credit_sale_repay",
+    "amount": 965.3699030273112
+  },
+  {
+    "date": "2020-06-22",
+    "kind": "loan_interest",
+    "amount": 965.3699030273112,
+    "asset": "c",
+    "margin_after": 421760.32233623444
+  },
+  {
+    "date": "2020-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 877.0140920466054
+  },
+  {
+    "date": "2020-07-21",
+    "kind": "loan_interest",
+    "amount": 877.0140920466054,
+    "asset": "c",
+    "margin_after": 516931.87167603447
+  },
+  {
+    "date": "2020-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 939.5834341268151
+  },
+  {
+    "date": "2020-08-21",
+    "kind": "loan_interest",
+    "amount": 939.5834341268151,
+    "asset": "c",
+    "margin_after": 561243.3597722094
+  },
+  {
+    "date": "2020-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 941.8178407592047
+  },
+  {
+    "date": "2020-09-21",
+    "kind": "loan_interest",
+    "amount": 941.8178407592047,
+    "asset": "c",
+    "margin_after": 490707.13400228025
+  },
+  {
+    "date": "2020-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 913.604091284725
+  },
+  {
+    "date": "2020-10-21",
+    "kind": "loan_interest",
+    "amount": 913.604091284725,
+    "asset": "c",
+    "margin_after": 575972.2827284252
+  },
+  {
+    "date": "2020-11-23",
+    "kind": "credit_sale_repay",
+    "amount": 1007.2772954278463
+  },
+  {
+    "date": "2020-11-23",
+    "kind": "loan_interest",
+    "amount": 1007.2772954278463,
+    "asset": "c",
+    "margin_after": 600674.190983793
+  },
+  {
+    "date": "2020-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 856.8230998306267
+  },
+  {
+    "date": "2020-12-21",
+    "kind": "loan_interest",
+    "amount": 856.8230998306267,
+    "asset": "c",
+    "margin_after": 660262.5133721634
+  },
+  {
+    "date": "2021-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 950.6631705676936
+  },
+  {
+    "date": "2021-01-21",
+    "kind": "loan_interest",
+    "amount": 950.6631705676936,
+    "asset": "c",
+    "margin_after": 731883.5736729937
+  },
+  {
+    "date": "2021-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 983.6634071989705
+  },
+  {
+    "date": "2021-02-22",
+    "kind": "loan_interest",
+    "amount": 983.6634071989705,
+    "asset": "c",
+    "margin_after": 735571.0010344485
+  },
+  {
+    "date": "2021-03-22",
+    "kind": "credit_sale_repay",
+    "amount": 862.8183363983975
+  },
+  {
+    "date": "2021-03-22",
+    "kind": "loan_interest",
+    "amount": 862.8183363983975,
+    "asset": "c",
+    "margin_after": 691532.0030680631
+  },
+  {
+    "date": "2021-03-29",
+    "kind": "collateral_out",
+    "amount": 82035.87271672401
+  },
+  {
+    "date": "2021-03-30",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2021-03-31",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 601214.0565864512
+  },
+  {
+    "date": "2021-03-31",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2021-04-09",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2021-04-09",
+    "kind": "credit_sale_repay",
+    "amount": 69187.22770590911
+  },
+  {
+    "date": "2021-04-09",
+    "kind": "loan_rebalance",
+    "amount": 69187.22770590911,
+    "asset": "c",
+    "margin_after": 670909.933766986
+  },
+  {
+    "date": "2021-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 389.50891879013585
+  },
+  {
+    "date": "2021-04-21",
+    "kind": "loan_interest",
+    "amount": 389.50891879013585,
+    "asset": "c",
+    "margin_after": 675648.8074358595
+  },
+  {
+    "date": "2021-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 974.6687010624182
+  },
+  {
+    "date": "2021-05-21",
+    "kind": "loan_interest",
+    "amount": 974.6687010624182,
+    "asset": "c",
+    "margin_after": 656238.5007024049
+  },
+  {
+    "date": "2021-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 1009.4755000453814
+  },
+  {
+    "date": "2021-06-21",
+    "kind": "loan_interest",
+    "amount": 1009.4755000453814,
+    "asset": "c",
+    "margin_after": 701907.4070822502
+  },
+  {
+    "date": "2021-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 979.2349507307213
+  },
+  {
+    "date": "2021-07-21",
+    "kind": "loan_interest",
+    "amount": 979.2349507307213,
+    "asset": "c",
+    "margin_after": 761149.3396350293
+  },
+  {
+    "date": "2021-08-23",
+    "kind": "credit_sale_repay",
+    "amount": 1079.6373857886567
+  },
+  {
+    "date": "2021-08-23",
+    "kind": "loan_interest",
+    "amount": 1079.6373857886567,
+    "asset": "c",
+    "margin_after": 799312.0594781408
+  },
+  {
+    "date": "2021-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 951.1740715618539
+  },
+  {
+    "date": "2021-09-21",
+    "kind": "loan_interest",
+    "amount": 951.1740715618539,
+    "asset": "c",
+    "margin_after": 794629.4866622643
+  },
+  {
+    "date": "2021-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 986.1621808205521
+  },
+  {
+    "date": "2021-10-21",
+    "kind": "loan_interest",
+    "amount": 986.1621808205521,
+    "asset": "c",
+    "margin_after": 818174.1172690414
+  },
+  {
+    "date": "2021-11-22",
+    "kind": "credit_sale_repay",
+    "amount": 1054.3271517264386
+  },
+  {
+    "date": "2021-11-22",
+    "kind": "loan_interest",
+    "amount": 1054.3271517264386,
+    "asset": "c",
+    "margin_after": 936565.1976666768
+  },
+  {
+    "date": "2021-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 957.8294980937343
+  },
+  {
+    "date": "2021-12-21",
+    "kind": "loan_interest",
+    "amount": 957.8294980937343,
+    "asset": "c",
+    "margin_after": 854414.1709630312
+  },
+  {
+    "date": "2022-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 1026.1645021309982
+  },
+  {
+    "date": "2022-01-21",
+    "kind": "loan_interest",
+    "amount": 1026.1645021309982,
+    "asset": "c",
+    "margin_after": 758436.7079548922
+  },
+  {
+    "date": "2022-02-22",
+    "kind": "credit_sale_repay",
+    "amount": 1061.7856058419134
+  },
+  {
+    "date": "2022-02-22",
+    "kind": "loan_interest",
+    "amount": 1061.7856058419134,
+    "asset": "c",
+    "margin_after": 676194.0506432601
+  },
+  {
+    "date": "2022-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 898.0808101839543
+  },
+  {
+    "date": "2022-03-21",
+    "kind": "loan_interest",
+    "amount": 898.0808101839543,
+    "asset": "c",
+    "margin_after": 721170.4524501926
+  },
+  {
+    "date": "2022-03-28",
+    "kind": "collateral_out",
+    "amount": 588403.6393580798
+  },
+  {
+    "date": "2022-03-29",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2022-03-30",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 350876.96763821197
+  },
+  {
+    "date": "2022-03-30",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2022-04-07",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2022-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 1067.018953739108
+  },
+  {
+    "date": "2022-04-21",
+    "kind": "loan_interest",
+    "amount": 1067.018953739108,
+    "asset": "c",
+    "margin_after": 283119.13785541453
+  },
+  {
+    "date": "2022-05-23",
+    "kind": "credit_sale_repay",
+    "amount": 1118.311877872898
+  },
+  {
+    "date": "2022-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 1013.4701393223137
+  },
+  {
+    "date": "2022-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 1048.417385505842
+  },
+  {
+    "date": "2022-08-22",
+    "kind": "credit_sale_repay",
+    "amount": 1118.3118778728979
+  },
+  {
+    "date": "2022-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 1048.4173855058418
+  },
+  {
+    "date": "2022-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 1048.4173855058418
+  },
+  {
+    "date": "2022-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 1083.3646316893698
+  },
+  {
+    "date": "2022-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 1048.4173855058418
+  },
+  {
+    "date": "2023-01-23",
+    "kind": "credit_sale_repay",
+    "amount": 1153.259124056426
+  },
+  {
+    "date": "2023-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 1013.4701393223138
+  },
+  {
+    "date": "2023-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 978.5228931387859
+  },
+  {
+    "date": "2023-03-30",
+    "kind": "planned_collateral",
+    "amount": 54961.21762757783,
+    "cash_part": 54961.21762757783,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2023-03-31",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 229796.9586319215
+  },
+  {
+    "date": "2023-03-31",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2023-04-11",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2023-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 1115.583809771562
+  },
+  {
+    "date": "2023-04-21",
+    "kind": "loan_interest",
+    "amount": 1115.583809771562,
+    "asset": "c",
+    "margin_after": 228243.5685044629
+  },
+  {
+    "date": "2023-05-22",
+    "kind": "credit_sale_repay",
+    "amount": 1133.5792255164429
+  },
+  {
+    "date": "2023-05-22",
+    "kind": "loan_interest",
+    "amount": 1133.5792255164429,
+    "asset": "c",
+    "margin_after": 283572.7341657304
+  },
+  {
+    "date": "2023-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 1099.6209387925326
+  },
+  {
+    "date": "2023-06-21",
+    "kind": "loan_interest",
+    "amount": 1099.6209387925326,
+    "asset": "c",
+    "margin_after": 366081.4745793021
+  },
+  {
+    "date": "2023-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 1102.151573281808
+  },
+  {
+    "date": "2023-07-21",
+    "kind": "loan_interest",
+    "amount": 1102.151573281808,
+    "asset": "c",
+    "margin_after": 401904.78684433404
+  },
+  {
+    "date": "2023-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 1141.5109660869327
+  },
+  {
+    "date": "2023-08-21",
+    "kind": "loan_interest",
+    "amount": 1141.5109660869327,
+    "asset": "c",
+    "margin_after": 345228.57087456994
+  },
+  {
+    "date": "2023-09-21",
+    "kind": "credit_sale_repay",
+    "amount": 1144.2255729871072
+  },
+  {
+    "date": "2023-09-21",
+    "kind": "loan_interest",
+    "amount": 1144.2255729871072,
+    "asset": "c",
+    "margin_after": 348167.55034722626
+  },
+  {
+    "date": "2023-10-23",
+    "kind": "credit_sale_repay",
+    "amount": 1183.9449140083698
+  },
+  {
+    "date": "2023-10-23",
+    "kind": "loan_interest",
+    "amount": 1183.9449140083698,
+    "asset": "c",
+    "margin_after": 325001.95147567254
+  },
+  {
+    "date": "2023-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 1075.583950293166
+  },
+  {
+    "date": "2023-11-21",
+    "kind": "loan_interest",
+    "amount": 1075.583950293166,
+    "asset": "c",
+    "margin_after": 423627.5264746078
+  },
+  {
+    "date": "2023-12-21",
+    "kind": "credit_sale_repay",
+    "amount": 1115.148368515759
+  },
+  {
+    "date": "2023-12-21",
+    "kind": "loan_interest",
+    "amount": 1115.148368515759,
+    "asset": "c",
+    "margin_after": 474674.41595767904
+  },
+  {
+    "date": "2024-01-22",
+    "kind": "credit_sale_repay",
+    "amount": 1192.229053188107
+  },
+  {
+    "date": "2024-01-22",
+    "kind": "loan_interest",
+    "amount": 1192.229053188107,
+    "asset": "c",
+    "margin_after": 519271.50791197404
+  },
+  {
+    "date": "2024-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 1120.4584973766666
+  },
+  {
+    "date": "2024-02-21",
+    "kind": "loan_interest",
+    "amount": 1120.4584973766666,
+    "asset": "c",
+    "margin_after": 520659.5189996739
+  },
+  {
+    "date": "2024-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 1085.6025172354443
+  },
+  {
+    "date": "2024-03-21",
+    "kind": "loan_interest",
+    "amount": 1085.6025172354443,
+    "asset": "c",
+    "margin_after": 588910.3481446791
+  },
+  {
+    "date": "2024-04-01",
+    "kind": "collateral_out",
+    "amount": 42428.834887215744
+  },
+  {
+    "date": "2024-04-02",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2024-04-03",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 502467.77046896075
+  },
+  {
+    "date": "2024-04-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2024-04-11",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2024-04-22",
+    "kind": "credit_sale_repay",
+    "amount": 1229.721841957282
+  },
+  {
+    "date": "2024-04-22",
+    "kind": "loan_interest",
+    "amount": 1229.721841957282,
+    "asset": "c",
+    "margin_after": 438803.8695762982
+  },
+  {
+    "date": "2024-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 1135.2464717002783
+  },
+  {
+    "date": "2024-05-21",
+    "kind": "loan_interest",
+    "amount": 1135.2464717002783,
+    "asset": "c",
+    "margin_after": 538729.1962315224
+  },
+  {
+    "date": "2024-06-21",
+    "kind": "credit_sale_repay",
+    "amount": 1216.2390412351715
+  },
+  {
+    "date": "2024-06-21",
+    "kind": "loan_interest",
+    "amount": 1216.2390412351715,
+    "asset": "c",
+    "margin_after": 616658.3070660708
+  },
+  {
+    "date": "2024-07-22",
+    "kind": "credit_sale_repay",
+    "amount": 1219.1313576400814
+  },
+  {
+    "date": "2024-07-22",
+    "kind": "loan_interest",
+    "amount": 1219.1313576400814,
+    "asset": "c",
+    "margin_after": 616604.0429237202
+  },
+  {
+    "date": "2024-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 1182.6102118172194
+  },
+  {
+    "date": "2024-08-21",
+    "kind": "loan_interest",
+    "amount": 1182.6102118172194,
+    "asset": "c",
+    "margin_after": 614202.3533398412
+  },
+  {
+    "date": "2024-09-23",
+    "kind": "credit_sale_repay",
+    "amount": 1303.8650188502272
+  },
+  {
+    "date": "2024-09-23",
+    "kind": "loan_interest",
+    "amount": 1303.8650188502272,
+    "asset": "c",
+    "margin_after": 619245.0378274431
+  },
+  {
+    "date": "2024-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 1109.1103435796604
+  },
+  {
+    "date": "2024-10-21",
+    "kind": "loan_interest",
+    "amount": 1109.1103435796604,
+    "asset": "c",
+    "margin_after": 646677.3633941896
+  },
+  {
+    "date": "2024-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 1230.5811502342688
+  },
+  {
+    "date": "2024-11-21",
+    "kind": "loan_interest",
+    "amount": 1230.5811502342688,
+    "asset": "c",
+    "margin_after": 681560.3231514025
+  },
+  {
+    "date": "2024-12-23",
+    "kind": "credit_sale_repay",
+    "amount": 1273.2981402355417
+  },
+  {
+    "date": "2024-12-23",
+    "kind": "loan_interest",
+    "amount": 1273.2981402355417,
+    "asset": "c",
+    "margin_after": 719670.8285325282
+  },
+  {
+    "date": "2025-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 1156.7590918894768
+  },
+  {
+    "date": "2025-01-21",
+    "kind": "loan_interest",
+    "amount": 1156.7590918894768,
+    "asset": "c",
+    "margin_after": 731718.0536975705
+  },
+  {
+    "date": "2025-02-21",
+    "kind": "credit_sale_repay",
+    "amount": 1239.286449181906
+  },
+  {
+    "date": "2025-02-21",
+    "kind": "loan_interest",
+    "amount": 1239.286449181906,
+    "asset": "c",
+    "margin_after": 769251.0868040192
+  },
+  {
+    "date": "2025-03-21",
+    "kind": "credit_sale_repay",
+    "amount": 1122.0174218736188
+  },
+  {
+    "date": "2025-03-21",
+    "kind": "loan_interest",
+    "amount": 1122.0174218736188,
+    "asset": "c",
+    "margin_after": 583523.3066168368
+  },
+  {
+    "date": "2025-04-03",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2025-04-04",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 462244.2255186397
+  },
+  {
+    "date": "2025-04-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2025-04-14",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2025-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 1270.9840156478688
+  },
+  {
+    "date": "2025-04-21",
+    "kind": "loan_interest",
+    "amount": 1270.9840156478688,
+    "asset": "c",
+    "margin_after": 460696.06715156074
+  },
+  {
+    "date": "2025-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 1253.6961020867543
+  },
+  {
+    "date": "2025-05-21",
+    "kind": "loan_interest",
+    "amount": 1253.6961020867543,
+    "asset": "c",
+    "margin_after": 684301.823300861
+  },
+  {
+    "date": "2025-06-23",
+    "kind": "credit_sale_repay",
+    "amount": 1382.2394525648226
+  },
+  {
+    "date": "2025-06-23",
+    "kind": "loan_interest",
+    "amount": 1382.2394525648226,
+    "asset": "c",
+    "margin_after": 714060.2601469584
+  },
+  {
+    "date": "2025-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 1175.7782070842038
+  },
+  {
+    "date": "2025-07-21",
+    "kind": "loan_interest",
+    "amount": 1175.7782070842038,
+    "asset": "c",
+    "margin_after": 814187.8902650521
+  },
+  {
+    "date": "2025-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 1304.5505407732633
+  },
+  {
+    "date": "2025-08-21",
+    "kind": "loan_interest",
+    "amount": 1304.5505407732633,
+    "asset": "c",
+    "margin_after": 818420.5901221881
+  },
+  {
+    "date": "2025-09-22",
+    "kind": "credit_sale_repay",
+    "amount": 1349.8352198013456
+  },
+  {
+    "date": "2025-09-22",
+    "kind": "loan_interest",
+    "amount": 1349.8352198013456,
+    "asset": "c",
+    "margin_after": 914768.355235139
+  },
+  {
+    "date": "2025-10-21",
+    "kind": "credit_sale_repay",
+    "amount": 1226.2910890366918
+  },
+  {
+    "date": "2025-10-21",
+    "kind": "loan_interest",
+    "amount": 1226.2910890366918,
+    "asset": "c",
+    "margin_after": 952897.0114423797
+  },
+  {
+    "date": "2025-11-21",
+    "kind": "credit_sale_repay",
+    "amount": 1313.7791092813795
+  },
+  {
+    "date": "2025-11-21",
+    "kind": "loan_interest",
+    "amount": 1313.7791092813795,
+    "asset": "c",
+    "margin_after": 880460.7700504678
+  },
+  {
+    "date": "2025-12-22",
+    "kind": "credit_sale_repay",
+    "amount": 1316.903383985095
+  },
+  {
+    "date": "2025-12-22",
+    "kind": "loan_interest",
+    "amount": 1316.903383985095,
+    "asset": "c",
+    "margin_after": 978715.8671737458
+  },
+  {
+    "date": "2026-01-21",
+    "kind": "credit_sale_repay",
+    "amount": 1277.453311423399
+  },
+  {
+    "date": "2026-01-21",
+    "kind": "loan_interest",
+    "amount": 1277.453311423399,
+    "asset": "c",
+    "margin_after": 941934.3378982423
+  },
+  {
+    "date": "2026-02-23",
+    "kind": "credit_sale_repay",
+    "amount": 1408.4325243732885
+  },
+  {
+    "date": "2026-02-23",
+    "kind": "loan_interest",
+    "amount": 1408.4325243732885,
+    "asset": "c",
+    "margin_after": 931127.3248799529
+  },
+  {
+    "date": "2026-03-23",
+    "kind": "credit_sale_repay",
+    "amount": 1198.0588929319704
+  },
+  {
+    "date": "2026-03-23",
+    "kind": "loan_interest",
+    "amount": 1198.0588929319704,
+    "asset": "c",
+    "margin_after": 884437.9619136795
+  },
+  {
+    "date": "2026-04-07",
+    "kind": "planned_collateral",
+    "amount": 0.0,
+    "cash_part": 0.0,
+    "stock_part": 0.0
+  },
+  {
+    "date": "2026-04-08",
+    "kind": "loan_living",
+    "amount": 20000.0,
+    "asset": "q",
+    "margin_after": 916787.1481942375
+  },
+  {
+    "date": "2026-04-08",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "q"
+  },
+  {
+    "date": "2026-04-16",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2026-04-21",
+    "kind": "credit_sale_repay",
+    "amount": 1263.457186758769
+  },
+  {
+    "date": "2026-04-21",
+    "kind": "loan_interest",
+    "amount": 1263.457186758769,
+    "asset": "c",
+    "margin_after": 1031429.7063481701
+  },
+  {
+    "date": "2026-05-21",
+    "kind": "credit_sale_repay",
+    "amount": 1335.326784324795
+  },
+  {
+    "date": "2026-05-21",
+    "kind": "loan_interest",
+    "amount": 1335.326784324795,
+    "asset": "c",
+    "margin_after": 1206603.3553618675
+  },
+  {
+    "date": "2026-06-22",
+    "kind": "credit_sale_repay",
+    "amount": 1427.62652281975
+  },
+  {
+    "date": "2026-06-22",
+    "kind": "loan_interest",
+    "amount": 1427.62652281975,
+    "asset": "c",
+    "margin_after": 1303256.231613611
+  },
+  {
+    "date": "2026-07-21",
+    "kind": "credit_sale_repay",
+    "amount": 1296.962516405479
+  },
+  {
+    "date": "2026-07-21",
+    "kind": "loan_interest",
+    "amount": 1296.962516405479,
+    "asset": "c",
+    "margin_after": 1196917.985152966
+  },
+  {
+    "date": "2026-08-21",
+    "kind": "credit_sale_repay",
+    "amount": 1389.4924906557349
+  },
+  {
+    "date": "2026-08-21",
+    "kind": "loan_interest",
+    "amount": 1389.4924906557349,
+    "asset": "c",
+    "margin_after": 1219851.2856673365
+  }
+]

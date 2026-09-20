@@ -1,0 +1,8 @@
+{
+  "historical_daily_rows": 66520,
+  "historical_annual_rows": 270,
+  "max_annual_reconciliation_error": 1.7462298274040222e-09,
+  "fresh_baselines_reproduced": true,
+  "credit_cash_not_double_counted": true,
+  "zero_voluntary_repayment_checked": true
+}

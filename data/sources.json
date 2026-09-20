@@ -1,0 +1,55 @@
+{
+  "retrieved_on": "2026-09-09",
+  "sources": [
+    {
+      "id": "CSRC_margin_rules",
+      "url": "https://www.csrc.gov.cn/csrc/c106256/c1654005/content.shtml",
+      "use": "Account separation and collateral management"
+    },
+    {
+      "id": "SSE_2023_rules",
+      "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20250616_10782015.shtml",
+      "use": "Current rule landing page"
+    },
+    {
+      "id": "SSE_2023_pdf_copy",
+      "url": "https://www3.guosen.com.cn/guosen/newxwfiles/upload/2023/09/15/cb8a43cf.pdf",
+      "use": "Rules: initial margin, 300 percent transfer, six month extension"
+    },
+    {
+      "id": "SSE_2026_margin",
+      "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20260114_10805174.shtml",
+      "use": "100 percent exchange minimum effective 2026-01-19"
+    },
+    {
+      "id": "SSE_eligible_securities",
+      "url": "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20260710_10825136.shtml",
+      "use": "2026-07-13 list contains 511360 and 513100"
+    },
+    {
+      "id": "GTHT_contract",
+      "url": "https://www.htsec.com/jfimg/colimg/upload/20250407/1743983223138032839.pdf",
+      "use": "Monthly interest settlement and repayment sequence example, not user contract"
+    },
+    {
+      "id": "GTHT_risk_disclosure",
+      "url": "https://www.htsec.com/jfimg/colimg/upload/20250407/1743983223172069269.pdf",
+      "use": "Extension may be refused"
+    },
+    {
+      "id": "NESC_margin_example",
+      "url": "https://www.nesc.cn/main/a/20251015/80963.shtml",
+      "use": "Historical broker example of 300 percent financing margin for 511360 and 513100"
+    },
+    {
+      "id": "Invesco_QQQ",
+      "url": "https://www.invesco.com/qqq-etf/en/home.html",
+      "use": "Inception 1999-03-10"
+    },
+    {
+      "id": "CLEC_repo",
+      "url": "https://github.com/yutaofr/clec-strategy-backtest",
+      "use": "Reference only; monthly source; commit f31ee2b9e22b37b100f4b2eb75e81de415ae3bb7"
+    }
+  ]
+}

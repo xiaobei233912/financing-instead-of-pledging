@@ -1,0 +1,122 @@
+[
+  {
+    "horizon": "rolling_to_end_min10y",
+    "strategy": "A",
+    "n": 70,
+    "failures": 0,
+    "min_mmr": null,
+    "min_runway": 16.009887175586133,
+    "median_advantage": 0.0,
+    "win_fraction": 0.0,
+    "min_weight": 0.5129433568020709,
+    "max_under_half_run": 0
+  },
+  {
+    "horizon": "rolling_to_end_min10y",
+    "strategy": "D_hold",
+    "n": 70,
+    "failures": 0,
+    "min_mmr": 1.5766705043153633,
+    "min_runway": 5.629038193551775,
+    "median_advantage": 0.08877916400272312,
+    "win_fraction": 1.0,
+    "min_weight": 0.49526314785150877,
+    "max_under_half_run": 4
+  },
+  {
+    "horizon": "rolling_to_end_min10y",
+    "strategy": "D_hang",
+    "n": 70,
+    "failures": 0,
+    "min_mmr": 1.5766705043153633,
+    "min_runway": 5.629038193551775,
+    "median_advantage": 0.08877916400272312,
+    "win_fraction": 1.0,
+    "min_weight": 0.49526314785150877,
+    "max_under_half_run": 4
+  },
+  {
+    "horizon": "rolling_to_end_min10y",
+    "strategy": "D_pay",
+    "n": 70,
+    "failures": 0,
+    "min_mmr": 1.584540506172981,
+    "min_runway": 4.441425964461117,
+    "median_advantage": 0.0703101394321265,
+    "win_fraction": 1.0,
+    "min_weight": 0.49526314785150877,
+    "max_under_half_run": 4
+  },
+  {
+    "horizon": "rolling_to_end_min10y",
+    "strategy": "D_refinance",
+    "n": 70,
+    "failures": 0,
+    "min_mmr": 1.584540506172981,
+    "min_runway": 5.115219602502611,
+    "median_advantage": 0.07815249911136035,
+    "win_fraction": 1.0,
+    "min_weight": 0.49526314785150877,
+    "max_under_half_run": 4
+  },
+  {
+    "horizon": "fixed10y",
+    "strategy": "A",
+    "n": 70,
+    "failures": 0,
+    "min_mmr": null,
+    "min_runway": 16.009887175586133,
+    "median_advantage": 0.0,
+    "win_fraction": 0.0,
+    "min_weight": 0.5129433568020709,
+    "max_under_half_run": 0
+  },
+  {
+    "horizon": "fixed10y",
+    "strategy": "D_hold",
+    "n": 70,
+    "failures": 0,
+    "min_mmr": 1.5766705043153633,
+    "min_runway": 5.629038193551775,
+    "median_advantage": 0.03017114959361855,
+    "win_fraction": 0.9285714285714286,
+    "min_weight": 0.49526314785150877,
+    "max_under_half_run": 4
+  },
+  {
+    "horizon": "fixed10y",
+    "strategy": "D_hang",
+    "n": 70,
+    "failures": 0,
+    "min_mmr": 1.5766705043153633,
+    "min_runway": 5.629038193551775,
+    "median_advantage": 0.03017114959361855,
+    "win_fraction": 0.9285714285714286,
+    "min_weight": 0.49526314785150877,
+    "max_under_half_run": 4
+  },
+  {
+    "horizon": "fixed10y",
+    "strategy": "D_pay",
+    "n": 70,
+    "failures": 0,
+    "min_mmr": 1.584540506172981,
+    "min_runway": 4.441425964461117,
+    "median_advantage": 0.02747298375361973,
+    "win_fraction": 0.9428571428571428,
+    "min_weight": 0.49526314785150877,
+    "max_under_half_run": 4
+  },
+  {
+    "horizon": "fixed10y",
+    "strategy": "D_refinance",
+    "n": 70,
+    "failures": 0,
+    "min_mmr": 1.584540506172981,
+    "min_runway": 5.115219602502611,
+    "median_advantage": 0.02723862383164599,
+    "win_fraction": 0.9285714285714286,
+    "min_weight": 0.49526314785150877,
+    "max_under_half_run": 4
+  }
+]

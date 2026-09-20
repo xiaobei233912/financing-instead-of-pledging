@@ -1,0 +1,288 @@
+[
+  {
+    "date": "2001-03-15",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2001-03-27",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2002-03-21",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2002-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2003-03-21",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2003-04-02",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2004-03-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2004-04-01",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2005-03-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2005-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2006-03-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2006-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2007-03-23",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2007-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2008-03-25",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2008-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2009-03-24",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2009-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2010-03-24",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2010-04-06",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2011-03-23",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2011-04-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2012-03-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2012-04-03",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2013-03-26",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2013-04-08",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2014-03-26",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2014-04-07",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2015-03-26",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2015-04-08",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2016-03-28",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2016-04-07",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2017-03-27",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2017-04-06",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2018-03-27",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2018-04-09",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2019-03-28",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2019-04-09",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2020-03-27",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2020-04-08",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2021-03-29",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2021-04-09",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2022-03-28",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2022-04-07",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2023-03-29",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2023-04-11",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2024-04-01",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2024-04-11",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2025-04-02",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2025-04-14",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2026-04-06",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "cash_then_stock"
+  },
+  {
+    "date": "2026-04-16",
+    "kind": "living_payment",
+    "amount": 20000.0
+  }
+]

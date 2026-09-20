@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "main_paths_reconciled": 15,
+  "local_reports_checked": 5,
+  "article_numbers_match": true,
+  "tests": "50 passed (python -m unittest discover -s scripts -p test_*.py)",
+  "data_sha256": "bc72fd77d6248f34373b46af5d02cc19459bb7344cdd60d605febf597518b4bc",
+  "article_sha256": "17322fff4c800dd58422b49d745fa5d6e0381b38dae9dd45212b1713e5d426d9",
+  "main_sha256": "f3de8094a6fc874fe073af2a96af56e52c68469d09c30657df009592c026fb90"
+}

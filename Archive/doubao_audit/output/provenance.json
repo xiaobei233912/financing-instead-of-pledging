@@ -1,0 +1,115 @@
+{
+  "files": [
+    {
+      "file": "data/fig_beta_compare.png",
+      "copied_sha256": "6f760810a50fbe4d04b5f9c99484f2584020611e581134222880b2d25f63258d",
+      "external_sha256": "6f760810a50fbe4d04b5f9c99484f2584020611e581134222880b2d25f63258d",
+      "identical": true
+    },
+    {
+      "file": "data/fig_stress2000.png",
+      "copied_sha256": "6dcec843fdaccbf5ac29f1b813f56b35c629aa0a46b323e1f05a2518ef1d39ce",
+      "external_sha256": "6dcec843fdaccbf5ac29f1b813f56b35c629aa0a46b323e1f05a2518ef1d39ce",
+      "identical": true
+    },
+    {
+      "file": "data/final_table1_stress.csv",
+      "copied_sha256": "1d10d4c777023b497cf995f95353f4c1c878bd6feb51e868bee8d6225a998d89",
+      "external_sha256": "1d10d4c777023b497cf995f95353f4c1c878bd6feb51e868bee8d6225a998d89",
+      "identical": true
+    },
+    {
+      "file": "data/final_table5_annual.csv",
+      "copied_sha256": "d10e5aaca65af3540ca2e12d3a90afa1ce18a050e01af812fa728125bf8fc900",
+      "external_sha256": "d10e5aaca65af3540ca2e12d3a90afa1ce18a050e01af812fa728125bf8fc900",
+      "identical": true
+    },
+    {
+      "file": "data/qqq_daily.csv",
+      "copied_sha256": "e391b282beaee896e0552a6211f3c19cd6c9f4b1a21f7f86d8932eaa1b989f8c",
+      "external_sha256": "e391b282beaee896e0552a6211f3c19cd6c9f4b1a21f7f86d8932eaa1b989f8c",
+      "identical": true
+    },
+    {
+      "file": "data/results_paramgrid_fast.csv",
+      "copied_sha256": "c7a54f13792a6067c2f011635046056895bb9601490ff70c045a6539f61fc186",
+      "external_sha256": "c7a54f13792a6067c2f011635046056895bb9601490ff70c045a6539f61fc186",
+      "identical": true
+    },
+    {
+      "file": "data/results_rolling.csv",
+      "copied_sha256": "61881e2bdb0eafb543c913ec747dfbf091bc9ec463bdc1cebc5d36fc605c3614",
+      "external_sha256": "61881e2bdb0eafb543c913ec747dfbf091bc9ec463bdc1cebc5d36fc605c3614",
+      "identical": true
+    },
+    {
+      "file": "data/results_stress2000.csv",
+      "copied_sha256": "16cdd435d26c73359bfc9a4986bbc38152af82ad06851be53c4b634848b2ea95",
+      "external_sha256": "16cdd435d26c73359bfc9a4986bbc38152af82ad06851be53c4b634848b2ea95",
+      "identical": true
+    },
+    {
+      "file": "final_check.py",
+      "copied_sha256": "39dd47b32a147be729e2b9dd90abecb6ad9afbd4fee9b6f5cea91f167a167b34",
+      "external_sha256": "39dd47b32a147be729e2b9dd90abecb6ad9afbd4fee9b6f5cea91f167a167b34",
+      "identical": true
+    },
+    {
+      "file": "final_runs.py",
+      "copied_sha256": "df8a150a0e81b7aec13df8c627cbc52f0d30abc67f930d5376695e9826b12fc4",
+      "external_sha256": "df8a150a0e81b7aec13df8c627cbc52f0d30abc67f930d5376695e9826b12fc4",
+      "identical": true
+    },
+    {
+      "file": "grid_fast.py",
+      "copied_sha256": "59a4a953335364e58ac2a05506f94d91f5afed0911976b7e196e106b8af76ebe",
+      "external_sha256": "59a4a953335364e58ac2a05506f94d91f5afed0911976b7e196e106b8af76ebe",
+      "identical": true
+    },
+    {
+      "file": "irx_yahoo.json",
+      "copied_sha256": "7eff7ac33c7c1385d448d63f350e1cba0b4b57728c50057a25199fe6ae58518c",
+      "external_sha256": "7eff7ac33c7c1385d448d63f350e1cba0b4b57728c50057a25199fe6ae58518c",
+      "identical": true
+    },
+    {
+      "file": "pal_engine.py",
+      "copied_sha256": "acef8642472e2a7c3e41fe8cb0a4582450363b020215376c5f6927a39678fa1d",
+      "external_sha256": "acef8642472e2a7c3e41fe8cb0a4582450363b020215376c5f6927a39678fa1d",
+      "identical": true
+    },
+    {
+      "file": "prepare_data.py",
+      "copied_sha256": "6b9732a0218e06333d882c25146b92eee5150f6b97946bf05cbd89a71254c912",
+      "external_sha256": "6b9732a0218e06333d882c25146b92eee5150f6b97946bf05cbd89a71254c912",
+      "identical": true
+    },
+    {
+      "file": "qqq_yahoo.json",
+      "copied_sha256": "5047900aab846f1443970b3130749c32b968a7a815289d534627bcf77c16429b",
+      "external_sha256": "5047900aab846f1443970b3130749c32b968a7a815289d534627bcf77c16429b",
+      "identical": true
+    }
+  ],
+  "data_summary": {
+    "original_rows": 6916,
+    "first": {
+      "date": "1999-03-10",
+      "close": "51.0625",
+      "adj": "43.027042388916016",
+      "qqq_ret": "0.0",
+      "irx_yield": "0.044699997901916505",
+      "cash_ret_irx": "0.00017354585437545644"
+    },
+    "last": {
+      "date": "2026-09-04",
+      "close": "718.9600219726562",
+      "adj": "718.9600219726562",
+      "qqq_ret": "0.001797537995484877",
+      "irx_yield": "0.03756999969482422",
+      "cash_ret_irx": "0.00014636563275383097"
+    },
+    "shared_dates": 6916,
+    "normalized_close_max_relative_error": 1.3118376417375899e-06
+  }
+}

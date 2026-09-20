@@ -1,0 +1,6 @@
+{
+  "source": "data/qqq_daily.json",
+  "sha256": "bc72fd77d6248f34373b46af5d02cc19459bb7344cdd60d605febf597518b4bc",
+  "baseline_reproduced": 3723873.3692729925,
+  "synthetic": "Deterministic scenarios, not historical data or forecasts"
+}

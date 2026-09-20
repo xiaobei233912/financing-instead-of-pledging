@@ -1,0 +1,7 @@
+{
+  "source": "data/qqq_daily.json",
+  "sha256": "bc72fd77d6248f34373b46af5d02cc19459bb7344cdd60d605febf597518b4bc",
+  "start": "1999-03-10",
+  "end": "2026-09-08",
+  "rows": 6917
+}

@@ -1,0 +1,319 @@
+[
+  {
+    "date": "2021-11-19",
+    "kind": "living_collateral_transfer",
+    "amount": 20000.0,
+    "ratio": null
+  },
+  {
+    "date": "2021-11-19",
+    "kind": "living_finance_decision",
+    "amount": 20000.0,
+    "mode": "partial_transfer_first",
+    "budget": 20000.0,
+    "cash_topup_planned": 0.0,
+    "limits": {
+      "budget": 20000.0,
+      "transfer": 800000.0,
+      "own_stock": 800000.0,
+      "margin": 329411.76470588235
+    },
+    "ratio_before": null,
+    "ratio_after": 40.0,
+    "margin_after": 526000.0
+  },
+  {
+    "date": "2021-11-22",
+    "kind": "ordinary_sale",
+    "amount": 20078.223901262023
+  },
+  {
+    "date": "2021-11-22",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2021-11-23",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2022-01-03",
+    "kind": "living_collateral_transfer",
+    "amount": 20000.0,
+    "ratio": 38.41924912857337
+  },
+  {
+    "date": "2022-01-03",
+    "kind": "living_finance_decision",
+    "amount": 20000.0,
+    "mode": "partial_transfer_first",
+    "budget": 20000.0,
+    "cash_topup_planned": 0.0,
+    "limits": {
+      "budget": 20000.0,
+      "transfer": 731005.0366165948,
+      "own_stock": 771446.2805641936,
+      "margin": 305717.1162663625
+    },
+    "ratio_before": 39.41556412789097,
+    "ratio_after": 19.7441606867476,
+    "margin_after": 485719.0976528162
+  },
+  {
+    "date": "2022-01-04",
+    "kind": "ordinary_sale",
+    "amount": 20159.88056732674
+  },
+  {
+    "date": "2022-01-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2022-01-05",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2022-01-05",
+    "kind": "rebalance_buy",
+    "amount": 494.6220451826521,
+    "prior_profit": -11074.1074783892
+  },
+  {
+    "date": "2022-01-05",
+    "kind": "rebalance_decision",
+    "amount": 0,
+    "buy": 494.6220451826521,
+    "requested_sale": 0,
+    "unfilled_sale": 0,
+    "prior_profit": -11074.1074783892,
+    "cash_before": 200494.62204518262,
+    "ratio_after": 19.52770696717955
+  },
+  {
+    "date": "2023-01-03",
+    "kind": "living_collateral_transfer",
+    "amount": 20000.0,
+    "ratio": 12.52454419008948
+  },
+  {
+    "date": "2023-01-03",
+    "kind": "living_finance_decision",
+    "amount": 20000.0,
+    "mode": "partial_transfer_first",
+    "budget": 20000.0,
+    "cash_topup_planned": 0.0,
+    "limits": {
+      "budget": 20000.0,
+      "transfer": 413115.775955337,
+      "own_stock": 509959.02068730444,
+      "margin": 178044.71467919127
+    },
+    "ratio_before": 13.00911106695639,
+    "ratio_after": 8.762899987645786,
+    "margin_after": 268676.01495462516
+  },
+  {
+    "date": "2023-01-04",
+    "kind": "ordinary_sale",
+    "amount": 19850.356900156505
+  },
+  {
+    "date": "2023-01-04",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2023-01-05",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2023-01-05",
+    "kind": "rebalance_buy",
+    "amount": 1850.352820651984,
+    "prior_profit": -256981.50556626814
+  },
+  {
+    "date": "2023-01-05",
+    "kind": "rebalance_decision",
+    "amount": 0,
+    "buy": 1850.352820651984,
+    "requested_sale": 0,
+    "unfilled_sale": 0,
+    "prior_profit": -256981.50556626814,
+    "cash_before": 201850.35282065195,
+    "ratio_after": 8.611142182589218
+  },
+  {
+    "date": "2024-01-02",
+    "kind": "living_collateral_transfer",
+    "amount": 20000.0,
+    "ratio": 12.6781780901695
+  },
+  {
+    "date": "2024-01-02",
+    "kind": "living_finance_decision",
+    "amount": 20000.0,
+    "mode": "partial_transfer_first",
+    "budget": 20000.0,
+    "cash_topup_planned": 0.0,
+    "limits": {
+      "budget": 20000.0,
+      "transfer": 630393.4117022462,
+      "own_stock": 748141.1972617143,
+      "margin": 275677.2549394422
+    },
+    "ratio_before": 12.995290886756845,
+    "ratio_after": 9.866498086137952,
+    "margin_after": 434651.3333970517
+  },
+  {
+    "date": "2024-01-03",
+    "kind": "ordinary_sale",
+    "amount": 19708.75339123636
+  },
+  {
+    "date": "2024-01-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2024-01-04",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2024-01-04",
+    "kind": "rebalance_buy",
+    "amount": 1239.1901447869604,
+    "prior_profit": 292831.48271972087
+  },
+  {
+    "date": "2024-01-04",
+    "kind": "rebalance_decision",
+    "amount": 0,
+    "buy": 1239.1901447869604,
+    "requested_sale": 0,
+    "unfilled_sale": 0,
+    "prior_profit": 292831.48271972087,
+    "cash_before": 201703.23876801517,
+    "ratio_after": 9.636445394462198
+  },
+  {
+    "date": "2025-01-02",
+    "kind": "living_collateral_transfer",
+    "amount": 20000.0,
+    "ratio": 12.00841517936879
+  },
+  {
+    "date": "2025-01-02",
+    "kind": "living_finance_decision",
+    "amount": 20000.0,
+    "mode": "partial_transfer_first",
+    "budget": 20000.0,
+    "cash_topup_planned": 0.0,
+    "limits": {
+      "budget": 20000.0,
+      "transfer": 789999.8405891918,
+      "own_stock": 929836.2479705698,
+      "margin": 347660.62734978
+    },
+    "ratio_before": 12.242400037663712,
+    "ratio_after": 9.921029383277705,
+    "margin_after": 557023.066494626
+  },
+  {
+    "date": "2025-01-03",
+    "kind": "ordinary_sale",
+    "amount": 19963.05368081432
+  },
+  {
+    "date": "2025-01-03",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2025-01-06",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2025-01-06",
+    "kind": "rebalance_decision",
+    "amount": 51282.1341725965,
+    "buy": 0,
+    "requested_sale": 51282.1341725965,
+    "unfilled_sale": 0,
+    "prior_profit": 211617.57645618,
+    "cash_before": 202448.2990520677,
+    "ratio_after": 9.61933681916174
+  },
+  {
+    "date": "2025-01-07",
+    "kind": "ordinary_sale",
+    "amount": 51435.77520518178
+  },
+  {
+    "date": "2026-01-02",
+    "kind": "living_collateral_transfer",
+    "amount": 20000.0,
+    "ratio": 10.942757090104365
+  },
+  {
+    "date": "2026-01-02",
+    "kind": "living_finance_decision",
+    "amount": 20000.0,
+    "mode": "partial_transfer_first",
+    "budget": 20000.0,
+    "cash_topup_planned": 0.0,
+    "limits": {
+      "budget": 20000.0,
+      "transfer": 881595.4715691949,
+      "own_stock": 1041508.4085412457,
+      "margin": 392023.53422389895
+    },
+    "ratio_before": 11.127130322141866,
+    "ratio_after": 9.394952554778396,
+    "margin_after": 632440.0081806282
+  },
+  {
+    "date": "2026-01-05",
+    "kind": "ordinary_sale",
+    "amount": 19976.131582856113
+  },
+  {
+    "date": "2026-01-05",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 20000.0,
+    "asset": "c"
+  },
+  {
+    "date": "2026-01-06",
+    "kind": "living_payment",
+    "amount": 20000.0
+  },
+  {
+    "date": "2026-01-06",
+    "kind": "rebalance_decision",
+    "amount": 35963.22726205201,
+    "buy": 0,
+    "requested_sale": 35963.22726205201,
+    "unfilled_sale": 0,
+    "prior_profit": 207047.6695130329,
+    "cash_before": 256397.62972934314,
+    "ratio_after": 9.099659998453085
+  },
+  {
+    "date": "2026-01-07",
+    "kind": "ordinary_sale",
+    "amount": 36184.502330455296
+  }
+]

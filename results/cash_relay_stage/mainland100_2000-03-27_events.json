@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2000-03-27",
+    "kind": "finance_and_transfer",
+    "amount": 20000.0,
+    "ratio": 50.00000000000001,
+    "margin": 666000.0
+  },
+  {
+    "date": "2000-03-28",
+    "kind": "ordinary_sale",
+    "amount": 19869.960053647595
+  },
+  {
+    "date": "2000-03-28",
+    "kind": "ordinary_sale_for_cash",
+    "amount": 19869.960053647595,
+    "asset": "c"
+  },
+  {
+    "date": "2000-03-29",
+    "kind": "failure",
+    "amount": 0.0,
+    "reason": "LiquidityFailure"
+  }
+]

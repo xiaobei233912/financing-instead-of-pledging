@@ -1,0 +1,25 @@
+# Local work files, render previews and backups
+/tmp/
+/.chart-data-*/
+
+# Locally installed Python drawing dependencies
+/results/smart_relay_python/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+
+# Editor, OS and Office temporary files
+.DS_Store
+Thumbs.db
+~$*
+
+# Local credentials and environment settings
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key

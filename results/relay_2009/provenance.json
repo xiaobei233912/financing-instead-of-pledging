@@ -1,0 +1,15 @@
+{
+  "start": "2009-03-09",
+  "end": "2026-09-08",
+  "start_rule": "2009 lowest QQQ adjusted daily close, ex-post scenario",
+  "chosen_rule": {
+    "trigger": 1.6,
+    "target": 2.0,
+    "delay": 1,
+    "auto_interest": false,
+    "annual_return": true,
+    "security": true
+  },
+  "data_sha256": "bc72fd77d6248f34373b46af5d02cc19459bb7344cdd60d605febf597518b4bc",
+  "max_annual_reconciliation_error": 5.122274160385132e-09
+}
