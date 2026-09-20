@@ -1,6 +1,18 @@
-# 现金接力研究工作区
+# 融资代替质押：现金接力研究工作区
 
 整理日期：2026-09-20。外层只保留当前报告与最终文章；历史资料集中在 Archive，不能沿用其中旧规则或数值。
+
+## 获取项目
+
+下载的内容包含研究报告、最终文章、历史归档、数据与回测脚本。临时文件、预览缓存及本地安装的依赖包不纳入版本管理。
+
+`reference/clec-strategy-backtest` 以 Git 子模块引用 [CLEC 原项目](https://github.com/yutaofr/clec-strategy-backtest)，保留原作者来源并固定参考版本。如需包含参考项目，请使用：
+
+```sh
+git clone --recurse-submodules https://github.com/xiaobei233912/financing-instead-of-pledging.git
+```
+
+如果已克隆本项目，可运行 `git submodule update --init --recursive` 获取参考项目。直接下载 GitHub ZIP 不包含子模块内容。
 
 ## 当前研究依据
 
